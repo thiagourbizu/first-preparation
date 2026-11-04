@@ -1,0 +1,42 @@
+version: "3.8"
+
+services:
+  # 1. Unified Application (Vue 3 Frontend + FastAPI Backend + SQLite WAL)
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: fce-trainer
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=sqlite:////app/backend/data/fce.db
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD:-admin123}
+      - SECRET_KEY=${SECRET_KEY:-secret-fce-key-12345}
+      - ENVIRONMENT=production
+    volumes:
+      - fce_data:/app/backend/data
+    networks:
+      - fce_net
+
+  # 2. Cloudflare Zero-Trust Tunnel (No router ports needed)
+  tunnel:
+    image: cloudflare/cloudflared:latest
+    container_name: fce-cloudflare-tunnel
+    restart: unless-stopped
+    command: tunnel run
+    environment:
+      - TUNNEL_TOKEN=${CLOUDFLARE_TUNNEL_TOKEN}
+    depends_on:
+      - app
+    networks:
+      - fce_net
+
+volumes:
+  fce_data:
+    driver: local
+
+networks:
+  fce_net:
+    driver: bridge

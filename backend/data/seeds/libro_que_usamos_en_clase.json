@@ -1,0 +1,4213 @@
+[
+  {
+    "page_identifier": "Page 1",
+    "exercises": [
+      {
+        "id": 1,
+        "type": "rewrite",
+        "page": 1,
+        "exercise_number": 35,
+        "sentence_given": "It isn't easy for Lynda to express her feelings.",
+        "keyword": "DIFFICULTY",
+        "incomplete_phrase": "Lynda ... her feelings.",
+        "correct_answer": "has difficulty in expressing",
+        "verified": true,
+        "acceptable_answers": [
+          "has difficulty in expressing",
+          "has difficulty expressing"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 2,
+        "type": "rewrite",
+        "page": 1,
+        "exercise_number": 36,
+        "sentence_given": "There was nobody in the office but me.",
+        "keyword": "APART",
+        "incomplete_phrase": "The office ... me.",
+        "correct_answer": "was empty apart from",
+        "verified": true,
+        "acceptable_answers": [
+          "was empty apart from"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 3,
+        "type": "rewrite",
+        "page": 1,
+        "exercise_number": 37,
+        "sentence_given": "People say rock-climbing is a dangerous sport.",
+        "keyword": "SUPPOSED",
+        "incomplete_phrase": "Rock-climbing ... a dangerous sport.",
+        "correct_answer": "is supposed to be",
+        "verified": true,
+        "acceptable_answers": [
+          "is supposed to be"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 4,
+        "type": "rewrite",
+        "page": 1,
+        "exercise_number": 38,
+        "sentence_given": "It was unfair that he was disqualified.",
+        "keyword": "DESERVE",
+        "incomplete_phrase": "He ... disqualified.",
+        "correct_answer": "didn't deserve to be",
+        "verified": true,
+        "acceptable_answers": [
+          "didn't deserve to be",
+          "did not deserve to be"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 5,
+        "type": "rewrite",
+        "page": 1,
+        "exercise_number": 39,
+        "sentence_given": "I don't think she will apply for this post.",
+        "keyword": "INTENTION",
+        "incomplete_phrase": "I don't think she ... for this post.",
+        "correct_answer": "has any intention of applying",
+        "verified": true,
+        "acceptable_answers": [
+          "has any intention of applying"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 6,
+        "type": "rewrite",
+        "page": 1,
+        "exercise_number": 40,
+        "sentence_given": "His parents made him stay at home last night.",
+        "keyword": "LET",
+        "incomplete_phrase": "His parents ... out last night.",
+        "correct_answer": "didn't let him go",
+        "verified": true,
+        "acceptable_answers": [
+          "didn't let him go",
+          "did not let him go"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 7,
+        "type": "rewrite",
+        "page": 1,
+        "exercise_number": 41,
+        "sentence_given": "It is John's duty to deliver the parcel on time.",
+        "keyword": "RESPONSIBLE",
+        "incomplete_phrase": "John ... the parcel on time.",
+        "correct_answer": "is responsible for delivering",
+        "verified": true,
+        "acceptable_answers": [
+          "is responsible for delivering"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 8,
+        "type": "rewrite",
+        "page": 1,
+        "exercise_number": 42,
+        "sentence_given": "Jane wasn't late for once.",
+        "keyword": "TIME",
+        "incomplete_phrase": "Jane ... for once.",
+        "correct_answer": "was on time",
+        "verified": true,
+        "acceptable_answers": [
+          "was on time"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      }
+    ],
+    "book": "libro_clase"
+  },
+  {
+    "page_identifier": "Page 2",
+    "exercises": [
+      {
+        "id": 9,
+        "type": "rewrite",
+        "page": 2,
+        "exercise_number": 35,
+        "sentence_given": "Jake has been completely unsuccessful with his enquiries.",
+        "keyword": "NO",
+        "incomplete_phrase": "Jake ... at all with his enquiries.",
+        "correct_answer": "has had no success",
+        "verified": true,
+        "acceptable_answers": [
+          "has had no success"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 10,
+        "type": "rewrite",
+        "page": 2,
+        "exercise_number": 36,
+        "sentence_given": "The ending of the film was so unexpected that we were all speechless.",
+        "keyword": "SUCH",
+        "incomplete_phrase": "The film ended in ... that we were all speechless.",
+        "correct_answer": "such an unexpected way",
+        "verified": true,
+        "acceptable_answers": [
+          "such an unexpected way"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 11,
+        "type": "rewrite",
+        "page": 2,
+        "exercise_number": 37,
+        "sentence_given": "I don't think Matt meant to upset you.",
+        "keyword": "INTENTION",
+        "incomplete_phrase": "I don't think Matt ... you.",
+        "correct_answer": "had any intention of upsetting",
+        "verified": true,
+        "acceptable_answers": [
+          "had any intention of upsetting"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 12,
+        "type": "rewrite",
+        "page": 2,
+        "exercise_number": 38,
+        "sentence_given": "Samuel is not trying to improve himself.",
+        "keyword": "EFFORT",
+        "incomplete_phrase": "Samuel is ... himself.",
+        "correct_answer": "making no effort to improve",
+        "verified": true,
+        "acceptable_answers": [
+          "making no effort to improve"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 13,
+        "type": "rewrite",
+        "page": 2,
+        "exercise_number": 39,
+        "sentence_given": "The guide book doesn't recommend staying in that hotel.",
+        "keyword": "ADVISABLE",
+        "incomplete_phrase": "It is ... in that hotel, the guide book says.",
+        "correct_answer": "advisable not to stay",
+        "verified": true,
+        "acceptable_answers": [
+          "advisable not to stay"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 14,
+        "type": "rewrite",
+        "page": 2,
+        "exercise_number": 40,
+        "sentence_given": "Melinda was the only one to pass the test.",
+        "keyword": "NOBODY",
+        "incomplete_phrase": "Apart ... the test.",
+        "correct_answer": "from Melinda nobody passed",
+        "verified": true,
+        "acceptable_answers": [
+          "from Melinda nobody passed"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 15,
+        "type": "rewrite",
+        "page": 2,
+        "exercise_number": 41,
+        "sentence_given": "People say that Paris is beautiful in the Spring.",
+        "keyword": "SAID",
+        "incomplete_phrase": "Paris ... beautiful in the Spring.",
+        "correct_answer": "is said to be",
+        "verified": true,
+        "acceptable_answers": [
+          "is said to be"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 16,
+        "type": "rewrite",
+        "page": 2,
+        "exercise_number": 42,
+        "sentence_given": "My dad helped me with my homework last night.",
+        "keyword": "HAND",
+        "incomplete_phrase": "My dad ... with my homework last night.",
+        "correct_answer": "gave me a hand",
+        "verified": true,
+        "acceptable_answers": [
+          "gave me a hand"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      }
+    ],
+    "book": "libro_clase"
+  },
+  {
+    "page_identifier": "Page 3",
+    "exercises": [
+      {
+        "id": 17,
+        "type": "rewrite",
+        "page": 3,
+        "exercise_number": 35,
+        "sentence_given": "Please don't touch the exhibits.",
+        "keyword": "RATHER",
+        "incomplete_phrase": "I ... touch the exhibits.",
+        "correct_answer": "would rather you didn't",
+        "correct_answer_2": "would rather you did not",
+        "verified": true,
+        "acceptable_answers": [
+          "would rather you didn't",
+          "would rather you did not"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 18,
+        "type": "rewrite",
+        "page": 3,
+        "exercise_number": 36,
+        "sentence_given": "It's a good thing you gave me a lift or I would have been late for my interview.",
+        "keyword": "GIVEN",
+        "incomplete_phrase": "I would have been late for my interview ... me a lift.",
+        "correct_answer": "if you hadn't given",
+        "verified": true,
+        "acceptable_answers": [
+          "if you hadn't given",
+          "if you had not given"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 19,
+        "type": "rewrite",
+        "page": 3,
+        "exercise_number": 37,
+        "sentence_given": "Please do not drop litter in the park.",
+        "keyword": "REQUESTED",
+        "incomplete_phrase": "You ... drop litter in the park.",
+        "correct_answer": "are requested not to",
+        "verified": true,
+        "acceptable_answers": [
+          "are requested not to"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 20,
+        "type": "rewrite",
+        "page": 3,
+        "exercise_number": 38,
+        "sentence_given": "He doesn't get on with his colleagues.",
+        "keyword": "TERMS",
+        "incomplete_phrase": "He is not ... with his colleagues.",
+        "correct_answer": "on good terms",
+        "verified": true,
+        "acceptable_answers": [
+          "on good terms"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 21,
+        "type": "rewrite",
+        "page": 3,
+        "exercise_number": 39,
+        "sentence_given": "Light travels faster than sound.",
+        "keyword": "TRAVEL",
+        "incomplete_phrase": "Sound ... as light.",
+        "correct_answer": "doesn't travel as fast",
+        "verified": true,
+        "acceptable_answers": [
+          "doesn't travel as fast",
+          "does not travel as fast"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 22,
+        "type": "rewrite",
+        "page": 3,
+        "exercise_number": 40,
+        "sentence_given": "He could not explain why he was always late to work.",
+        "keyword": "ACCOUNT",
+        "incomplete_phrase": "He could not ... late to work.",
+        "correct_answer": "account for always being",
+        "verified": true,
+        "acceptable_answers": [
+          "account for always being"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 23,
+        "type": "rewrite",
+        "page": 3,
+        "exercise_number": 41,
+        "sentence_given": "Our boss wouldn't let us go home until we had done our work.",
+        "keyword": "MADE",
+        "incomplete_phrase": "Our boss ... our work before we went home.",
+        "correct_answer": "made us finish",
+        "verified": true,
+        "acceptable_answers": [
+          "made us finish"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 24,
+        "type": "rewrite",
+        "page": 3,
+        "exercise_number": 42,
+        "sentence_given": "I had never been to a theme park before.",
+        "keyword": "FIRST",
+        "incomplete_phrase": "It ... I had ever been to a theme park.",
+        "correct_answer": "was the first time",
+        "verified": true,
+        "acceptable_answers": [
+          "was the first time"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      }
+    ],
+    "book": "libro_clase"
+  },
+  {
+    "page_identifier": "Page 4",
+    "exercises": [
+      {
+        "id": 25,
+        "type": "rewrite",
+        "page": 4,
+        "exercise_number": 35,
+        "sentence_given": "Andre was too worried to sleep.",
+        "keyword": "THAT",
+        "incomplete_phrase": "Andre was ... not sleep.",
+        "correct_answer": "so worried that he could",
+        "verified": true,
+        "acceptable_answers": [
+          "so worried that he could"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 26,
+        "type": "rewrite",
+        "page": 4,
+        "exercise_number": 36,
+        "sentence_given": "We've missed the last bus, so there is no point in waiting.",
+        "keyword": "WORTH",
+        "incomplete_phrase": "It ... , because we've missed the last bus.",
+        "correct_answer": "is not worth waiting",
+        "verified": true,
+        "acceptable_answers": [
+          "is not worth waiting",
+          "isn't worth waiting"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 27,
+        "type": "rewrite",
+        "page": 4,
+        "exercise_number": 37,
+        "sentence_given": "\"Is washing the car now really necessary?\"",
+        "keyword": "HAVE",
+        "incomplete_phrase": "\"Does the car ... now?\"",
+        "correct_answer": "have to be washed",
+        "verified": true,
+        "acceptable_answers": [
+          "have to be washed"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 28,
+        "type": "rewrite",
+        "page": 4,
+        "exercise_number": 38,
+        "sentence_given": "You shouldn't take a dictionary into the examination room.",
+        "keyword": "SUPPOSED",
+        "incomplete_phrase": "You ... a dictionary into the examination room.",
+        "correct_answer": "are not supposed to take",
+        "verified": true,
+        "acceptable_answers": [
+          "are not supposed to take",
+          "aren't supposed to take"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 29,
+        "type": "rewrite",
+        "page": 4,
+        "exercise_number": 39,
+        "sentence_given": "Lisa's aunt is teaching her German.",
+        "keyword": "TAUGHT",
+        "incomplete_phrase": "Lisa ... her aunt.",
+        "correct_answer": "is being taught German by",
+        "verified": true,
+        "acceptable_answers": [
+          "is being taught German by"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 30,
+        "type": "rewrite",
+        "page": 4,
+        "exercise_number": 40,
+        "sentence_given": "He said he would only do the job if we paid him first.",
+        "keyword": "NOT",
+        "incomplete_phrase": "He said he would ... we paid him first.",
+        "correct_answer": "not do the job unless",
+        "verified": true,
+        "acceptable_answers": [
+          "not do the job unless"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 31,
+        "type": "rewrite",
+        "page": 4,
+        "exercise_number": 41,
+        "sentence_given": "\"Could you help me move this heavy wardrobe?\"",
+        "keyword": "HAND",
+        "incomplete_phrase": "\"Could you ... this heavy wardrobe?\"",
+        "correct_answer": "give me a hand with",
+        "verified": true,
+        "acceptable_answers": [
+          "give me a hand with"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 32,
+        "type": "rewrite",
+        "page": 4,
+        "exercise_number": 42,
+        "sentence_given": "She was smiling, so I'm sure she was happy.",
+        "keyword": "MUST",
+        "incomplete_phrase": "She was smiling, so ... happy.",
+        "correct_answer": "she must have been",
+        "verified": true,
+        "acceptable_answers": [
+          "she must have been"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      }
+    ],
+    "book": "libro_clase"
+  },
+  {
+    "page_identifier": "Page 5",
+    "exercises": [
+      {
+        "id": 33,
+        "type": "rewrite",
+        "page": 5,
+        "exercise_number": 35,
+        "sentence_given": "Sanjay couldn't get his parents' permission to buy an expensive car.",
+        "keyword": "ALLOW",
+        "incomplete_phrase": "Sanjay's parents ... to buy an expensive car.",
+        "correct_answer": "would not allow him",
+        "verified": true,
+        "acceptable_answers": [
+          "would not allow him",
+          "wouldn't allow him"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 34,
+        "type": "rewrite",
+        "page": 5,
+        "exercise_number": 36,
+        "sentence_given": "Ann got this painting ten years ago.",
+        "keyword": "HAS",
+        "incomplete_phrase": "Ann ... ten years.",
+        "correct_answer": "has had this painting for",
+        "verified": true,
+        "acceptable_answers": [
+          "has had this painting for"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 35,
+        "type": "rewrite",
+        "page": 5,
+        "exercise_number": 37,
+        "sentence_given": "Let's visit the art gallery this afternoon.",
+        "keyword": "WE",
+        "incomplete_phrase": "Why ... to the art gallery this afternoon?",
+        "correct_answer": "don't we go",
+        "verified": true,
+        "acceptable_answers": [
+          "don't we go",
+          "do not we go"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 36,
+        "type": "rewrite",
+        "page": 5,
+        "exercise_number": 38,
+        "sentence_given": "You should book your ticket beforehand if you want to get a good seat.",
+        "keyword": "ADVANCE",
+        "incomplete_phrase": "Your ticket ... if you want to get a good seat.",
+        "correct_answer": "should be booked in advance",
+        "verified": true,
+        "acceptable_answers": [
+          "should be booked in advance"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 37,
+        "type": "rewrite",
+        "page": 5,
+        "exercise_number": 39,
+        "sentence_given": "We don't have any milk left, so we must go and buy some.",
+        "keyword": "RUN",
+        "incomplete_phrase": "We ... milk, so we must go and buy some.",
+        "correct_answer": "have run out of",
+        "verified": true,
+        "acceptable_answers": [
+          "have run out of"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 38,
+        "type": "rewrite",
+        "page": 5,
+        "exercise_number": 40,
+        "sentence_given": "I could never have finished the job without your help.",
+        "keyword": "IF",
+        "incomplete_phrase": "I could never have finished the job ... me.",
+        "correct_answer": "if you hadn't helped",
+        "verified": true,
+        "acceptable_answers": [
+          "if you hadn't helped",
+          "if you had not helped"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 39,
+        "type": "rewrite",
+        "page": 5,
+        "exercise_number": 41,
+        "sentence_given": "Sophia was often ill when she was a child.",
+        "keyword": "USED",
+        "incomplete_phrase": "Sophia ... when she was a child.",
+        "correct_answer": "used to be ill often",
+        "verified": true,
+        "acceptable_answers": [
+          "used to be ill often",
+          "used to get ill often",
+          "used to often be ill"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 40,
+        "type": "rewrite",
+        "page": 5,
+        "exercise_number": 42,
+        "sentence_given": "Parking here is free after 5pm.",
+        "keyword": "PARK",
+        "incomplete_phrase": "It doesn't ... here after 5pm.",
+        "correct_answer": "cost anything to park",
+        "verified": true,
+        "acceptable_answers": [
+          "cost anything to park"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      }
+    ],
+    "book": "libro_clase"
+  },
+  {
+    "page_identifier": "Page 6",
+    "exercises": [
+      {
+        "id": 41,
+        "type": "rewrite",
+        "page": 6,
+        "exercise_number": 35,
+        "sentence_given": "They offered her a job but she refused.",
+        "keyword": "TURNED",
+        "incomplete_phrase": "She ... of a job.",
+        "correct_answer": "turned down the offer",
+        "verified": true,
+        "acceptable_answers": [
+          "turned down the offer"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 42,
+        "type": "rewrite",
+        "page": 6,
+        "exercise_number": 36,
+        "sentence_given": "I find driving on the left in England very strange.",
+        "keyword": "ACCUSTOMED",
+        "incomplete_phrase": "I ... driving on the left in England.",
+        "correct_answer": "am not accustomed to",
+        "verified": true,
+        "acceptable_answers": [
+          "am not accustomed to"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 43,
+        "type": "rewrite",
+        "page": 6,
+        "exercise_number": 37,
+        "sentence_given": "I expect you were very tired by the end of the week.",
+        "keyword": "MUST",
+        "incomplete_phrase": "By the end of the week ... exhausted.",
+        "correct_answer": "you must have been",
+        "verified": true,
+        "acceptable_answers": [
+          "you must have been"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 44,
+        "type": "rewrite",
+        "page": 6,
+        "exercise_number": 38,
+        "sentence_given": "Being late is inexcusable.",
+        "keyword": "EXCUSE",
+        "incomplete_phrase": "There is ... late.",
+        "correct_answer": "no excuse for being",
+        "verified": true,
+        "acceptable_answers": [
+          "no excuse for being"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 45,
+        "type": "rewrite",
+        "page": 6,
+        "exercise_number": 39,
+        "sentence_given": "Matthew decided not to do his homework and went to play football.",
+        "keyword": "INSTEAD",
+        "incomplete_phrase": "Matthew went to play football ... homework.",
+        "correct_answer": "instead of doing his",
+        "verified": true,
+        "acceptable_answers": [
+          "instead of doing his"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 46,
+        "type": "rewrite",
+        "page": 6,
+        "exercise_number": 40,
+        "sentence_given": "\"I wouldn't stay out too late, Lee,\" said Mary.",
+        "keyword": "ADVISED",
+        "incomplete_phrase": "Mary ... out too late.",
+        "correct_answer": "advised Lee not to stay",
+        "verified": true,
+        "acceptable_answers": [
+          "advised Lee not to stay"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 47,
+        "type": "rewrite",
+        "page": 6,
+        "exercise_number": 41,
+        "sentence_given": "Her mother won't tolerate rudeness.",
+        "keyword": "PUT",
+        "incomplete_phrase": "Her mother ... rudeness.",
+        "correct_answer": "will not put up with",
+        "verified": true,
+        "acceptable_answers": [
+          "will not put up with",
+          "won't put up with"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 48,
+        "type": "rewrite",
+        "page": 6,
+        "exercise_number": 42,
+        "sentence_given": "Natalie didn't listen carefully enough to the spoken instructions.",
+        "keyword": "ATTENTION",
+        "incomplete_phrase": "Natalie didn't ... the spoken instructions.",
+        "correct_answer": "pay enough attention to",
+        "verified": true,
+        "acceptable_answers": [
+          "pay enough attention to"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      }
+    ],
+    "book": "libro_clase"
+  },
+  {
+    "page_identifier": "Page 7",
+    "exercises": [
+      {
+        "id": 49,
+        "type": "rewrite",
+        "page": 7,
+        "exercise_number": 35,
+        "sentence_given": "Luggage must not be left unattended.",
+        "keyword": "REQUESTED",
+        "incomplete_phrase": "You ... your luggage unattended.",
+        "correct_answer": "are requested not to leave",
+        "verified": true,
+        "acceptable_answers": [
+          "are requested not to leave"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 50,
+        "type": "rewrite",
+        "page": 7,
+        "exercise_number": 36,
+        "sentence_given": "I don't see why I should try harder.",
+        "keyword": "WORTH",
+        "incomplete_phrase": "In my opinion, it ... harder.",
+        "correct_answer": "is not worth trying",
+        "verified": true,
+        "acceptable_answers": [
+          "is not worth trying",
+          "isn't worth trying"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 51,
+        "type": "rewrite",
+        "page": 7,
+        "exercise_number": 37,
+        "sentence_given": "They decided to throw out all the old furniture.",
+        "keyword": "RID",
+        "incomplete_phrase": "They decided ... all the old furniture.",
+        "correct_answer": "to get rid of",
+        "verified": true,
+        "acceptable_answers": [
+          "to get rid of"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 52,
+        "type": "rewrite",
+        "page": 7,
+        "exercise_number": 38,
+        "sentence_given": "She spent her childhood in Spain.",
+        "keyword": "BROUGHT",
+        "incomplete_phrase": "She ... in Spain.",
+        "correct_answer": "was brought up",
+        "verified": true,
+        "acceptable_answers": [
+          "was brought up"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 53,
+        "type": "rewrite",
+        "page": 7,
+        "exercise_number": 39,
+        "sentence_given": "She likes to travel abroad.",
+        "keyword": "KEEN",
+        "incomplete_phrase": "She ... abroad.",
+        "correct_answer": "is keen on travelling",
+        "verified": true,
+        "acceptable_answers": [
+          "is keen on travelling"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 54,
+        "type": "rewrite",
+        "page": 7,
+        "exercise_number": 40,
+        "sentence_given": "You need to reach a decision as soon as possible.",
+        "keyword": "MIND",
+        "incomplete_phrase": "You need to ... as soon as possible.",
+        "correct_answer": "make up your mind",
+        "verified": true,
+        "acceptable_answers": [
+          "make up your mind"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 55,
+        "type": "rewrite",
+        "page": 7,
+        "exercise_number": 41,
+        "sentence_given": "He wasn't involved in the project.",
+        "keyword": "NOTHING",
+        "incomplete_phrase": "The project ... him.",
+        "correct_answer": "had nothing to do with",
+        "verified": true,
+        "acceptable_answers": [
+          "had nothing to do with"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 56,
+        "type": "rewrite",
+        "page": 7,
+        "exercise_number": 42,
+        "sentence_given": "You can stay here, but don't make too much noise.",
+        "keyword": "LONG",
+        "incomplete_phrase": "You can stay here ... not make too much noise.",
+        "correct_answer": "as long as you do",
+        "verified": true,
+        "acceptable_answers": [
+          "as long as you do"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      }
+    ],
+    "book": "libro_clase"
+  },
+  {
+    "page_identifier": "Page 8",
+    "exercises": [
+      {
+        "id": 57,
+        "type": "rewrite",
+        "page": 8,
+        "exercise_number": 1,
+        "sentence_given": "Clothing costs the same as it did last year.",
+        "keyword": "CHANGED",
+        "incomplete_phrase": "Clothing prices ... last year.",
+        "correct_answer": "have not changed since",
+        "verified": true,
+        "acceptable_answers": [
+          "have not changed since",
+          "haven't changed since"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 58,
+        "type": "rewrite",
+        "page": 8,
+        "exercise_number": 2,
+        "sentence_given": "Steve could only go on holiday because his best mate gave him the money.",
+        "keyword": "ABLE",
+        "incomplete_phrase": "If Steve's best mate hadn't given him the money, he ... to go on holiday.",
+        "correct_answer": "would not have been able",
+        "verified": true,
+        "acceptable_answers": [
+          "would not have been able",
+          "wouldn't have been able"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 59,
+        "type": "rewrite",
+        "page": 8,
+        "exercise_number": 3,
+        "sentence_given": "\"Yes, I gave away your secret,\" she said to me.",
+        "keyword": "GIVING",
+        "incomplete_phrase": "She ... secret.",
+        "correct_answer": "admitted giving away my",
+        "verified": true,
+        "acceptable_answers": [
+          "admitted giving away my",
+          "admitted to giving away my"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 60,
+        "type": "rewrite",
+        "page": 8,
+        "exercise_number": 4,
+        "sentence_given": "We have never met anyone as famous as he is.",
+        "keyword": "MOST",
+        "incomplete_phrase": "He ... we have ever met.",
+        "correct_answer": "is the most famous person",
+        "verified": true,
+        "acceptable_answers": [
+          "is the most famous person"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 61,
+        "type": "rewrite",
+        "page": 8,
+        "exercise_number": 5,
+        "sentence_given": "It's three weeks since I last went out.",
+        "keyword": "BEEN",
+        "incomplete_phrase": "I ... three weeks.",
+        "correct_answer": "have not been out for",
+        "verified": true,
+        "acceptable_answers": [
+          "have not been out for",
+          "haven't been out for"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 62,
+        "type": "rewrite",
+        "page": 8,
+        "exercise_number": 6,
+        "sentence_given": "They are going to add a new wing to the hospital.",
+        "keyword": "BE",
+        "incomplete_phrase": "A new wing ... to the hospital.",
+        "correct_answer": "is going to be added",
+        "verified": true,
+        "acceptable_answers": [
+          "is going to be added"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 63,
+        "type": "rewrite",
+        "page": 8,
+        "exercise_number": 7,
+        "sentence_given": "Thieves stole the old woman's savings.",
+        "keyword": "WAS",
+        "incomplete_phrase": "The old woman ... savings.",
+        "correct_answer": "was robbed of her",
+        "verified": true,
+        "acceptable_answers": [
+          "was robbed of her"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 64,
+        "type": "rewrite",
+        "page": 8,
+        "exercise_number": 8,
+        "sentence_given": "Please stop biting your nails.",
+        "keyword": "WISH",
+        "incomplete_phrase": "I ... biting your nails.",
+        "correct_answer": "wish you would stop",
+        "verified": true,
+        "acceptable_answers": [
+          "wish you would stop",
+          "wish you'd stop"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 65,
+        "type": "rewrite",
+        "page": 8,
+        "exercise_number": 9,
+        "sentence_given": "Take my advice and don't believe everything he says.",
+        "keyword": "WERE",
+        "incomplete_phrase": "If I ... believe everything he says.",
+        "correct_answer": "were you, I would not",
+        "verified": true,
+        "acceptable_answers": [
+          "were you, I would not",
+          "were you, i wouldn't"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 66,
+        "type": "rewrite",
+        "page": 8,
+        "exercise_number": 10,
+        "sentence_given": "There aren't any eggs left.",
+        "keyword": "RUN",
+        "incomplete_phrase": "We ... eggs.",
+        "correct_answer": "have run out of",
+        "verified": true,
+        "acceptable_answers": [
+          "have run out of"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 67,
+        "type": "rewrite",
+        "page": 8,
+        "exercise_number": 11,
+        "sentence_given": "I'm sure your little brother didn't mean to upset you.",
+        "keyword": "INTENTION",
+        "incomplete_phrase": "I'm sure your little brother ... you.",
+        "correct_answer": "had no intention of upsetting",
+        "verified": true,
+        "acceptable_answers": [
+          "had no intention of upsetting"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 68,
+        "type": "rewrite",
+        "page": 8,
+        "exercise_number": 12,
+        "sentence_given": "It wasn't Mary's fault that your property was damaged.",
+        "keyword": "BLAME",
+        "incomplete_phrase": "You can't ... damage done to your property.",
+        "correct_answer": "blame Mary for the",
+        "verified": true,
+        "acceptable_answers": [
+          "blame Mary for the"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 69,
+        "type": "rewrite",
+        "page": 8,
+        "exercise_number": 13,
+        "sentence_given": "John apologised for forgetting to take out the rubbish.",
+        "keyword": "SORRY",
+        "incomplete_phrase": "John said he ... forgotten to take out the rubbish.",
+        "correct_answer": "was sorry for having",
+        "verified": true,
+        "acceptable_answers": [
+          "was sorry for having"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 70,
+        "type": "rewrite",
+        "page": 8,
+        "exercise_number": 14,
+        "sentence_given": "This motorcycle is able to do 200 kilometres per hour.",
+        "keyword": "CAPABLE",
+        "incomplete_phrase": "This motorcycle ... 200 kilometres per hour.",
+        "correct_answer": "is capable of doing",
+        "verified": true,
+        "acceptable_answers": [
+          "is capable of doing"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 71,
+        "type": "rewrite",
+        "page": 8,
+        "exercise_number": 15,
+        "sentence_given": "The carpenter had to get someone to help him as there was so much work to do.",
+        "keyword": "SUCH",
+        "incomplete_phrase": "There was ... to do, that the carpenter had to get someone to help him.",
+        "correct_answer": "such a lot of work",
+        "verified": true,
+        "acceptable_answers": [
+          "such a lot of work"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 72,
+        "type": "rewrite",
+        "page": 8,
+        "exercise_number": 16,
+        "sentence_given": "Unfortunately, I can't attend your party next week.",
+        "keyword": "PRESENT",
+        "incomplete_phrase": "Unfortunately, I won't be able ... your party next week.",
+        "correct_answer": "to be present at",
+        "verified": true,
+        "acceptable_answers": [
+          "to be present at"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 73,
+        "type": "rewrite",
+        "page": 8,
+        "exercise_number": 17,
+        "sentence_given": "Judy became quite famous for performing in that play.",
+        "keyword": "NAME",
+        "incomplete_phrase": "Judy ... by performing in that play.",
+        "correct_answer": "made a name for herself",
+        "verified": true,
+        "acceptable_answers": [
+          "made a name for herself"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 74,
+        "type": "rewrite",
+        "page": 8,
+        "exercise_number": 18,
+        "sentence_given": "'We'll miss the train if we don't run,' said Mike.",
+        "keyword": "UNLESS",
+        "incomplete_phrase": "Mike said that ... miss the train.",
+        "correct_answer": "unless they ran they would",
+        "verified": true,
+        "acceptable_answers": [
+          "unless they ran they would",
+          "unless they ran they'd"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 75,
+        "type": "rewrite",
+        "page": 8,
+        "exercise_number": 19,
+        "sentence_given": "Would you mind if I shut the door?",
+        "keyword": "TO",
+        "incomplete_phrase": "Would you object ... the door?",
+        "correct_answer": "to my shutting",
+        "verified": true,
+        "acceptable_answers": [
+          "to my shutting",
+          "to me shutting"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 76,
+        "type": "rewrite",
+        "page": 8,
+        "exercise_number": 20,
+        "sentence_given": "'I can't find my car keys - have you seen them?' my sister asked.",
+        "keyword": "SEEN",
+        "incomplete_phrase": "My sister asked me ... her keys.",
+        "correct_answer": "if I had seen",
+        "verified": true,
+        "acceptable_answers": [
+          "if I had seen",
+          "whether I had seen",
+          "whether i had seen"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 77,
+        "type": "rewrite",
+        "page": 8,
+        "exercise_number": 21,
+        "sentence_given": "My mother insisted on my doing some chores every day.",
+        "keyword": "MADE",
+        "incomplete_phrase": "My mother ... some chores every day.",
+        "correct_answer": "made me do",
+        "verified": true,
+        "acceptable_answers": [
+          "made me do"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 78,
+        "type": "rewrite",
+        "page": 8,
+        "exercise_number": 22,
+        "sentence_given": "You might get hungry on the journey, so you should take plenty of snacks.",
+        "keyword": "CASE",
+        "incomplete_phrase": "Take plenty of snacks ... hungry on the journey.",
+        "correct_answer": "in case you get",
+        "verified": true,
+        "acceptable_answers": [
+          "in case you get"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      }
+    ],
+    "book": "libro_clase"
+  },
+  {
+    "page_identifier": "Page 9",
+    "exercises": [
+      {
+        "id": 79,
+        "type": "rewrite",
+        "page": 9,
+        "exercise_number": 47,
+        "sentence_given": "He was offered a job abroad but rejected it for family reasons.",
+        "keyword": "TURNED",
+        "incomplete_phrase": "He was offered a job but ... for family reasons.",
+        "correct_answer": "turned it down",
+        "verified": true,
+        "acceptable_answers": [
+          "turned it down"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 80,
+        "type": "rewrite",
+        "page": 9,
+        "exercise_number": 48,
+        "sentence_given": "The cyclist had to stop because his bicycle had a flat tyre.",
+        "keyword": "CONTINUE",
+        "incomplete_phrase": "The cyclist ... his tyre had been repaired.",
+        "correct_answer": "could not continue until",
+        "verified": true,
+        "acceptable_answers": [
+          "could not continue until",
+          "couldn't continue until"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 81,
+        "type": "rewrite",
+        "page": 9,
+        "exercise_number": 49,
+        "sentence_given": "Today's football match is postponed and will be held next Wednesday.",
+        "keyword": "PUT",
+        "incomplete_phrase": "Today's football match has ... next Wednesday.",
+        "correct_answer": "been put off until",
+        "verified": true,
+        "acceptable_answers": [
+          "been put off until"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 82,
+        "type": "rewrite",
+        "page": 9,
+        "exercise_number": 50,
+        "sentence_given": "Unfortunately, Jessica couldn't go on holiday because she didn't have any money.",
+        "keyword": "ABLE",
+        "incomplete_phrase": "If Jessica had had some money, she ... go on holiday.",
+        "correct_answer": "would have been able to",
+        "verified": true,
+        "acceptable_answers": [
+          "would have been able to"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 83,
+        "type": "rewrite",
+        "page": 9,
+        "exercise_number": 51,
+        "sentence_given": "There's no chance of Mark getting to the train on time.",
+        "keyword": "POSSIBLE",
+        "incomplete_phrase": "It won't be ... to the train on time.",
+        "correct_answer": "possible for Mark to get",
+        "verified": true,
+        "acceptable_answers": [
+          "possible for Mark to get"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 84,
+        "type": "rewrite",
+        "page": 9,
+        "exercise_number": 52,
+        "sentence_given": "Cars couldn't turn down the street because of road works.",
+        "keyword": "PREVENTED",
+        "incomplete_phrase": "Road works ... down the street.",
+        "correct_answer": "prevented cars from turning",
+        "verified": true,
+        "acceptable_answers": [
+          "prevented cars from turning"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 85,
+        "type": "rewrite",
+        "page": 9,
+        "exercise_number": 53,
+        "sentence_given": "The restaurant we ate in was the best one that we could have chosen for last night.",
+        "keyword": "MADE",
+        "incomplete_phrase": "We couldn't ... choice than the restaurant we ate in last night.",
+        "correct_answer": "have made a better",
+        "verified": true,
+        "acceptable_answers": [
+          "have made a better"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 86,
+        "type": "rewrite",
+        "page": 9,
+        "exercise_number": 54,
+        "sentence_given": "'Did you go to the beach on Saturday?' David asked me.",
+        "keyword": "BEEN",
+        "incomplete_phrase": "David wanted to know ... the beach on Saturday.",
+        "correct_answer": "if I had been to",
+        "verified": true,
+        "acceptable_answers": [
+          "if I had been to",
+          "whether i had been to",
+          "whether I had been to"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 87,
+        "type": "rewrite",
+        "page": 9,
+        "exercise_number": 55,
+        "sentence_given": "Joe had not expected the concert to be so good.",
+        "keyword": "BETTER",
+        "incomplete_phrase": "The concert ... had expected.",
+        "correct_answer": "was better than Joe",
+        "verified": true,
+        "acceptable_answers": [
+          "was better than Joe"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 88,
+        "type": "rewrite",
+        "page": 9,
+        "exercise_number": 56,
+        "sentence_given": "This is a 'no smoking' office.",
+        "keyword": "ALLOWED",
+        "incomplete_phrase": "You ... in this office.",
+        "correct_answer": "are not allowed to smoke",
+        "verified": true,
+        "acceptable_answers": [
+          "are not allowed to smoke",
+          "aren't allowed to smoke"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 89,
+        "type": "rewrite",
+        "page": 9,
+        "exercise_number": 57,
+        "sentence_given": "Paperback books are a lot cheaper than hardback books.",
+        "keyword": "FAR",
+        "incomplete_phrase": "Hardback books ... paperback books.",
+        "correct_answer": "are far more expensive than",
+        "verified": true,
+        "acceptable_answers": [
+          "are far more expensive than"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 90,
+        "type": "rewrite",
+        "page": 9,
+        "exercise_number": 58,
+        "sentence_given": "My brother is too young to drive a car.",
+        "keyword": "NOT",
+        "incomplete_phrase": "My brother ... drive a car.",
+        "correct_answer": "is not old enough to",
+        "verified": true,
+        "acceptable_answers": [
+          "is not old enough to",
+          "isn't old enough to"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 91,
+        "type": "rewrite",
+        "page": 9,
+        "exercise_number": 59,
+        "sentence_given": "Why are you interested in getting a new job?",
+        "keyword": "WANT",
+        "incomplete_phrase": "Why ... a new job?",
+        "correct_answer": "do you want to get",
+        "verified": true,
+        "acceptable_answers": [
+          "do you want to get"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 92,
+        "type": "rewrite",
+        "page": 9,
+        "exercise_number": 60,
+        "sentence_given": "'Have you seen my gloves anywhere, Amy?' asked Mrs Wheatley.",
+        "keyword": "SEEN",
+        "incomplete_phrase": "Mrs Wheatley asked Amy ... her gloves anywhere.",
+        "correct_answer": "if she had seen",
+        "verified": true,
+        "acceptable_answers": [
+          "if she had seen",
+          "whether she had seen"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 93,
+        "type": "rewrite",
+        "page": 9,
+        "exercise_number": 61,
+        "sentence_given": "Suzanne was too excited to sleep.",
+        "keyword": "THAT",
+        "incomplete_phrase": "Suzanne was ... not sleep.",
+        "correct_answer": "so excited that she could",
+        "verified": true,
+        "acceptable_answers": [
+          "so excited that she could"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 94,
+        "type": "rewrite",
+        "page": 9,
+        "exercise_number": 62,
+        "sentence_given": "She finished her last painting while staying in Paris.",
+        "keyword": "DURING",
+        "incomplete_phrase": "The painter's last painting ... stay in Paris.",
+        "correct_answer": "was finished during her",
+        "verified": true,
+        "acceptable_answers": [
+          "was finished during her"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 95,
+        "type": "rewrite",
+        "page": 9,
+        "exercise_number": 63,
+        "sentence_given": "The newspaper offered Lynda £5,000 for her story, but she refused.",
+        "keyword": "TURNED",
+        "incomplete_phrase": "Lynda ... of £5,000 from the newspaper for her story.",
+        "correct_answer": "turned down the offer",
+        "verified": true,
+        "acceptable_answers": [
+          "turned down the offer"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 96,
+        "type": "rewrite",
+        "page": 9,
+        "exercise_number": 64,
+        "sentence_given": "She pretended to be ill in order to avoid going to school.",
+        "keyword": "SO",
+        "incomplete_phrase": "She pretended to be ill ... to go to school.",
+        "correct_answer": "so as not to have",
+        "verified": true,
+        "acceptable_answers": [
+          "so as not to have",
+          "so she wouldnt have to"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 97,
+        "type": "rewrite",
+        "page": 9,
+        "exercise_number": 65,
+        "sentence_given": "Jamie found the instructions for assembling the furniture very difficult to understand.",
+        "keyword": "IN",
+        "incomplete_phrase": "Jamie had great ... instructions for assembling the furniture.",
+        "correct_answer": "difficulty in understanding the",
+        "verified": true,
+        "acceptable_answers": [
+          "difficulty in understanding the",
+          "difficulty in following the"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 98,
+        "type": "rewrite",
+        "page": 9,
+        "exercise_number": 66,
+        "sentence_given": "We last went abroad a long time ago.",
+        "keyword": "NOT",
+        "incomplete_phrase": "We ... a long time.",
+        "correct_answer": "have not been abroad for",
+        "verified": true,
+        "acceptable_answers": [
+          "have not been abroad for",
+          "haven't been abroad for"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 99,
+        "type": "rewrite",
+        "page": 9,
+        "exercise_number": 67,
+        "sentence_given": "When did they start living in the suburbs?",
+        "keyword": "HAVE",
+        "incomplete_phrase": "How ... in the suburbs?",
+        "correct_answer": "long have they lived",
+        "verified": true,
+        "acceptable_answers": [
+          "long have they lived"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 100,
+        "type": "rewrite",
+        "page": 9,
+        "exercise_number": 68,
+        "sentence_given": "I haven't caught a cold for ages.",
+        "keyword": "DOWN",
+        "incomplete_phrase": "I last ... ages ago.",
+        "correct_answer": "came down with a cold",
+        "verified": true,
+        "acceptable_answers": [
+          "came down with a cold"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 101,
+        "type": "rewrite",
+        "page": 9,
+        "exercise_number": 69,
+        "sentence_given": "I'm certain that Alice didn't intend to keep my book.",
+        "keyword": "INTENTION",
+        "incomplete_phrase": "I'm certain Alice ... my book.",
+        "correct_answer": "had no intention of keeping",
+        "verified": true,
+        "acceptable_answers": [
+          "had no intention of keeping"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 102,
+        "type": "rewrite",
+        "page": 9,
+        "exercise_number": 70,
+        "sentence_given": "I saw the film although I strongly dislike thrillers.",
+        "keyword": "SPITE",
+        "incomplete_phrase": "I saw the film ... dislike of thrillers.",
+        "correct_answer": "in spite of my strong",
+        "verified": true,
+        "acceptable_answers": [
+          "in spite of my strong",
+          "in spite of my"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      }
+    ],
+    "book": "libro_clase"
+  },
+  {
+    "page_identifier": "Page 10",
+    "exercises": [
+      {
+        "id": 103,
+        "type": "rewrite",
+        "page": 10,
+        "exercise_number": 23,
+        "sentence_given": "My parents moved to New Zealand five years ago.",
+        "keyword": "SINCE",
+        "incomplete_phrase": "It ... my parents moved to New Zealand.",
+        "correct_answer": "has been five years since",
+        "verified": true,
+        "acceptable_answers": [
+          "has been five years since"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 104,
+        "type": "rewrite",
+        "page": 10,
+        "exercise_number": 24,
+        "sentence_given": "The family left their home very early because they wanted to be sure of catching their flight.",
+        "keyword": "ORDER",
+        "incomplete_phrase": "The family left their home very early ... miss their flight.",
+        "correct_answer": "in order not to",
+        "verified": true,
+        "acceptable_answers": [
+          "in order not to"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 105,
+        "type": "rewrite",
+        "page": 10,
+        "exercise_number": 25,
+        "sentence_given": "On arriving at the restaurant, we went straight to the head waiter.",
+        "keyword": "SOON",
+        "incomplete_phrase": "We went straight to the head waiter ... at the restaurant.",
+        "correct_answer": "as soon as we arrived",
+        "verified": true,
+        "acceptable_answers": [
+          "as soon as we arrived"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 106,
+        "type": "rewrite",
+        "page": 10,
+        "exercise_number": 26,
+        "sentence_given": "I haven't heard from my aunt in London for over ten years.",
+        "keyword": "MORE",
+        "incomplete_phrase": "It is ... I have heard from my aunt in London.",
+        "correct_answer": "more than ten years since",
+        "verified": true,
+        "acceptable_answers": [
+          "more than ten years since"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 107,
+        "type": "rewrite",
+        "page": 10,
+        "exercise_number": 27,
+        "sentence_given": "I find it easy to understand your accent.",
+        "keyword": "DIFFICULTY",
+        "incomplete_phrase": "I ... your accent.",
+        "correct_answer": "have no difficulty in understanding",
+        "verified": true,
+        "acceptable_answers": [
+          "have no difficulty in understanding",
+          "have no difficulty understanding"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 108,
+        "type": "rewrite",
+        "page": 10,
+        "exercise_number": 28,
+        "sentence_given": "I haven't tried windsurfing before.",
+        "keyword": "FIRST",
+        "incomplete_phrase": "This is ... tried windsurfing.",
+        "correct_answer": "the first time I have",
+        "verified": true,
+        "acceptable_answers": [
+          "the first time I have"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 109,
+        "type": "rewrite",
+        "page": 10,
+        "exercise_number": 29,
+        "sentence_given": "The committee has rejected the new proposal.",
+        "keyword": "TURNED",
+        "incomplete_phrase": "The new proposal ... the committee.",
+        "correct_answer": "has been turned down by",
+        "verified": true,
+        "acceptable_answers": [
+          "has been turned down by"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 110,
+        "type": "rewrite",
+        "page": 10,
+        "exercise_number": 30,
+        "sentence_given": "I'm certain Julie didn't tell him.",
+        "keyword": "HAVE",
+        "incomplete_phrase": "It ... Julie who told him.",
+        "correct_answer": "cannot have been",
+        "verified": true,
+        "acceptable_answers": [
+          "cannot have been",
+          "can't have been"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 111,
+        "type": "rewrite",
+        "page": 10,
+        "exercise_number": 31,
+        "sentence_given": "An American company has bought this office block.",
+        "keyword": "BEEN",
+        "incomplete_phrase": "This office block ... an American company.",
+        "correct_answer": "has been bought by",
+        "verified": true,
+        "acceptable_answers": [
+          "has been bought by"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 112,
+        "type": "rewrite",
+        "page": 10,
+        "exercise_number": 32,
+        "sentence_given": "Experts are repairing the van.",
+        "keyword": "HAVING",
+        "incomplete_phrase": "We ... by experts.",
+        "correct_answer": "are having the van repaired",
+        "verified": true,
+        "acceptable_answers": [
+          "are having the van repaired"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 113,
+        "type": "rewrite",
+        "page": 10,
+        "exercise_number": 33,
+        "sentence_given": "The police are investigating the theft.",
+        "keyword": "LOOKED",
+        "incomplete_phrase": "The theft ... by the police.",
+        "correct_answer": "is being looked into",
+        "verified": true,
+        "acceptable_answers": [
+          "is being looked into"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 114,
+        "type": "rewrite",
+        "page": 10,
+        "exercise_number": 34,
+        "sentence_given": "Tomorrow is our tenth wedding anniversary.",
+        "keyword": "BEEN",
+        "incomplete_phrase": "Tomorrow we ... for ten years.",
+        "correct_answer": "will have been married",
+        "verified": true,
+        "acceptable_answers": [
+          "will have been married"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 115,
+        "type": "rewrite",
+        "page": 10,
+        "exercise_number": 35,
+        "sentence_given": "She claims she didn't steal the brooch.",
+        "keyword": "STOLEN",
+        "incomplete_phrase": "She claims ... the brooch.",
+        "correct_answer": "not to have stolen",
+        "verified": true,
+        "acceptable_answers": [
+          "not to have stolen"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 116,
+        "type": "rewrite",
+        "page": 10,
+        "exercise_number": 36,
+        "sentence_given": "Danny found it difficult to control his bicycle on the steep slope.",
+        "keyword": "UNDER",
+        "incomplete_phrase": "Danny found it difficult to ... on the steep slope",
+        "correct_answer": "keep his bicycle under control",
+        "verified": true,
+        "acceptable_answers": [
+          "keep his bicycle under control"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 117,
+        "type": "rewrite",
+        "page": 10,
+        "exercise_number": 37,
+        "sentence_given": "Everyone thinks the company will relocate to New York next year.",
+        "keyword": "EXPECTED",
+        "incomplete_phrase": "The company ... to New York next year.",
+        "correct_answer": "is expected to relocate",
+        "verified": true,
+        "acceptable_answers": [
+          "is expected to relocate"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 118,
+        "type": "rewrite",
+        "page": 10,
+        "exercise_number": 38,
+        "sentence_given": "How good is your relationship with the people next door?",
+        "keyword": "GET",
+        "incomplete_phrase": "How well ... with the people next door?",
+        "correct_answer": "do you get on",
+        "verified": true,
+        "acceptable_answers": [
+          "do you get on"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 119,
+        "type": "rewrite",
+        "page": 10,
+        "exercise_number": 39,
+        "sentence_given": "I showed no talent for rugby at university.",
+        "keyword": "GOOD",
+        "incomplete_phrase": "I ... rugby at university.",
+        "correct_answer": "was not good at",
+        "verified": true,
+        "acceptable_answers": [
+          "was not good at",
+          "wasn't good at"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 120,
+        "type": "rewrite",
+        "page": 10,
+        "exercise_number": 40,
+        "sentence_given": "The storm made it impossible for us to go hiking.",
+        "keyword": "PREVENTED",
+        "incomplete_phrase": "We ... by the storm.",
+        "correct_answer": "were prevented from going hiking",
+        "verified": true,
+        "acceptable_answers": [
+          "were prevented from going hiking"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 121,
+        "type": "rewrite",
+        "page": 10,
+        "exercise_number": 41,
+        "sentence_given": "Jessica's favourite food is pizza.",
+        "keyword": "RATHER",
+        "incomplete_phrase": "Jessica ... anything else.",
+        "correct_answer": "would rather eat pizza than",
+        "verified": true,
+        "acceptable_answers": [
+          "would rather eat pizza than"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 122,
+        "type": "rewrite",
+        "page": 10,
+        "exercise_number": 42,
+        "sentence_given": "They may ask to see your identification at the door.",
+        "keyword": "REQUESTED",
+        "incomplete_phrase": "You may ... your identification at the door.",
+        "correct_answer": "be requested to show",
+        "verified": true,
+        "acceptable_answers": [
+          "be requested to show"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 123,
+        "type": "rewrite",
+        "page": 10,
+        "exercise_number": 43,
+        "sentence_given": "I regret not visiting Versailles when I was in France last year.",
+        "keyword": "WISH",
+        "incomplete_phrase": "I ... Versailles when I was in France last year.",
+        "correct_answer": "wish I had visited",
+        "verified": true,
+        "acceptable_answers": [
+          "wish I had visited",
+          "wish that I had visited",
+          "wish that i had visited"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 124,
+        "type": "rewrite",
+        "page": 10,
+        "exercise_number": 44,
+        "sentence_given": "I use an encyclopaedia to check any facts that I'm not sure of.",
+        "keyword": "UP",
+        "incomplete_phrase": "If I'm not sure of a fact, ... an excyclopaedia.",
+        "correct_answer": "look it up in",
+        "verified": true,
+        "acceptable_answers": [
+          "look it up in",
+          "i look up"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 125,
+        "type": "rewrite",
+        "page": 10,
+        "exercise_number": 45,
+        "sentence_given": "'Don't blame me if you can't find your favourite shirt,' my sister said.",
+        "keyword": "HER",
+        "incomplete_phrase": "My sister said that it ... that I couldn't find my favourite shirt.",
+        "correct_answer": "was not her fault",
+        "verified": true,
+        "acceptable_answers": [
+          "was not her fault",
+          "wasn't her fault"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 126,
+        "type": "rewrite",
+        "page": 10,
+        "exercise_number": 46,
+        "sentence_given": "There are fewer charities in this area than there were a few years ago.",
+        "keyword": "AS",
+        "incomplete_phrase": "There ... charities in this area as there were a few years ago.",
+        "correct_answer": "are not as many",
+        "verified": true,
+        "acceptable_answers": [
+          "are not as many",
+          "aren't as many"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      }
+    ],
+    "book": "libro_clase"
+  },
+  {
+    "page_identifier": "Page 11",
+    "exercises": [
+      {
+        "id": 127,
+        "type": "rewrite",
+        "page": 11,
+        "exercise_number": 120,
+        "sentence_given": "Steve isn't capable of doing a good job on the project.",
+        "keyword": "ABILITY",
+        "incomplete_phrase": "Steve doesn't ... a good job on the project.",
+        "correct_answer": "have the ability to do",
+        "verified": true,
+        "acceptable_answers": [
+          "have the ability to do"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 128,
+        "type": "rewrite",
+        "page": 11,
+        "exercise_number": 121,
+        "sentence_given": "James became extremely angry with the waiter for serving his food cold.",
+        "keyword": "TEMPER",
+        "incomplete_phrase": "James ... the waiter for serving his food cold.",
+        "correct_answer": "lost his temper with",
+        "verified": true,
+        "acceptable_answers": [
+          "lost his temper with"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 129,
+        "type": "rewrite",
+        "page": 11,
+        "exercise_number": 122,
+        "sentence_given": "I don't usually jog at night, so I was a bit nervous.",
+        "keyword": "USED",
+        "incomplete_phrase": "I ... at night, so I was a bit nervous.",
+        "correct_answer": "was not used to jogging",
+        "verified": true,
+        "acceptable_answers": [
+          "was not used to jogging",
+          "wasn't used to jogging"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 130,
+        "type": "rewrite",
+        "page": 11,
+        "exercise_number": 123,
+        "sentence_given": "Could you give me your opinion on my new dress?",
+        "keyword": "KNOW",
+        "incomplete_phrase": "Could you ... think about my new dress?",
+        "correct_answer": "let me know what you",
+        "verified": true,
+        "acceptable_answers": [
+          "let me know what you"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 131,
+        "type": "rewrite",
+        "page": 11,
+        "exercise_number": 124,
+        "sentence_given": "The two football referees were in complete agreement.",
+        "keyword": "COMPLETELY",
+        "incomplete_phrase": "The football referees ... other.",
+        "correct_answer": "agreed completely with each",
+        "verified": true,
+        "acceptable_answers": [
+          "agreed completely with each"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 132,
+        "type": "rewrite",
+        "page": 11,
+        "exercise_number": 125,
+        "sentence_given": "My dad always arrives late to pick me up from school.",
+        "keyword": "RIGHT",
+        "incomplete_phrase": "My dad never ... to pick me up from school.",
+        "correct_answer": "arrives at the right time",
+        "verified": true,
+        "acceptable_answers": [
+          "arrives at the right time"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 133,
+        "type": "rewrite",
+        "page": 11,
+        "exercise_number": 126,
+        "sentence_given": "The professor will distribute the assignment at the beginning of class.",
+        "keyword": "GIVEN",
+        "incomplete_phrase": "The assignment ... by the professor at the beginning of class.",
+        "correct_answer": "will be given out",
+        "verified": true,
+        "acceptable_answers": [
+          "will be given out"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 134,
+        "type": "rewrite",
+        "page": 11,
+        "exercise_number": 127,
+        "sentence_given": "There were no tickets left for the show at the ticket office.",
+        "keyword": "RUN",
+        "incomplete_phrase": "The ticket office ... tickets for the show.",
+        "correct_answer": "had run out of",
+        "verified": true,
+        "acceptable_answers": [
+          "had run out of"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 135,
+        "type": "rewrite",
+        "page": 11,
+        "exercise_number": 128,
+        "sentence_given": "Today, big cinemas are rarely found outside the town centre.",
+        "keyword": "RARE",
+        "incomplete_phrase": "Today ... big cinemas outside the town centre.",
+        "correct_answer": "it is rare to find",
+        "verified": true,
+        "acceptable_answers": [
+          "it is rare to find",
+          "it's rare to find"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 136,
+        "type": "rewrite",
+        "page": 11,
+        "exercise_number": 129,
+        "sentence_given": "The ending of the book was so unexpected that Sally was shocked.",
+        "keyword": "SUCH",
+        "incomplete_phrase": "The book ended in ... that Sally was shocked.",
+        "correct_answer": "such an unexpected way",
+        "verified": true,
+        "acceptable_answers": [
+          "such an unexpected way"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 137,
+        "type": "rewrite",
+        "page": 11,
+        "exercise_number": 130,
+        "sentence_given": "I saw the film because I had read the book it was based on.",
+        "keyword": "WOULD",
+        "incomplete_phrase": "If I hadn't read the book it was based on, ... the film.",
+        "correct_answer": "I would not have seen",
+        "verified": true,
+        "acceptable_answers": [
+          "I would not have seen",
+          "i wouldn't have seen"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 138,
+        "type": "rewrite",
+        "page": 11,
+        "exercise_number": 131,
+        "sentence_given": "I'm going to leave school early because Suzy may drop by.",
+        "keyword": "CASE",
+        "incomplete_phrase": "I'm going to leave school early just ... by.",
+        "correct_answer": "in case Suzy drops",
+        "verified": true,
+        "acceptable_answers": [
+          "in case Suzy drops"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 139,
+        "type": "rewrite",
+        "page": 11,
+        "exercise_number": 132,
+        "sentence_given": "Stupidly, I didn't lock the door when we went out for dinner.",
+        "keyword": "LEFT",
+        "incomplete_phrase": "Stupidly, I ... when we went out for dinner.",
+        "correct_answer": "left the door unlocked",
+        "verified": true,
+        "acceptable_answers": [
+          "left the door unlocked"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 140,
+        "type": "rewrite",
+        "page": 11,
+        "exercise_number": 133,
+        "sentence_given": "The security gates made it impossible for us to enter the park.",
+        "keyword": "PREVENTED",
+        "incomplete_phrase": "We ... the park by the security gates.",
+        "correct_answer": "were prevented from entering",
+        "verified": true,
+        "acceptable_answers": [
+          "were prevented from entering"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 141,
+        "type": "rewrite",
+        "page": 11,
+        "exercise_number": 134,
+        "sentence_given": "I'd rather you didn't borrow my favourite jumper.",
+        "keyword": "MIND",
+        "incomplete_phrase": "Would ... my favourite jumper?",
+        "correct_answer": "you mind not borrowing",
+        "verified": true,
+        "acceptable_answers": [
+          "you mind not borrowing"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 142,
+        "type": "rewrite",
+        "page": 11,
+        "exercise_number": 135,
+        "sentence_given": "Mary is interested in knowing more about football.",
+        "keyword": "LIKE",
+        "incomplete_phrase": "Mary ... more about football.",
+        "correct_answer": "would like to know",
+        "verified": true,
+        "acceptable_answers": [
+          "would like to know"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 143,
+        "type": "rewrite",
+        "page": 11,
+        "exercise_number": 136,
+        "sentence_given": "Arnold lives near the library.",
+        "keyword": "FAR",
+        "incomplete_phrase": "The library ... house.",
+        "correct_answer": "is not far from Arnold's",
+        "verified": true,
+        "acceptable_answers": [
+          "is not far from Arnold's",
+          "isn't far from arnold's"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 144,
+        "type": "rewrite",
+        "page": 11,
+        "exercise_number": 137,
+        "sentence_given": "The jumper was much too small to fit Jane.",
+        "keyword": "ENOUGH",
+        "incomplete_phrase": "The jumper ... to fit Jane.",
+        "correct_answer": "was not big enough",
+        "verified": true,
+        "acceptable_answers": [
+          "was not big enough",
+          "wasn't big enough"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 145,
+        "type": "rewrite",
+        "page": 11,
+        "exercise_number": 138,
+        "sentence_given": "It isn't easy for John to do maths.",
+        "keyword": "DIFFICULTY",
+        "incomplete_phrase": "John ... maths.",
+        "correct_answer": "has difficulty in doing",
+        "verified": true,
+        "acceptable_answers": [
+          "has difficulty in doing",
+          "has difficulty doing"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 146,
+        "type": "rewrite",
+        "page": 11,
+        "exercise_number": 139,
+        "sentence_given": "There was no one in the theatre but us.",
+        "keyword": "APART",
+        "incomplete_phrase": "The theatre ... us.",
+        "correct_answer": "was empty apart from",
+        "verified": true,
+        "acceptable_answers": [
+          "was empty apart from"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 147,
+        "type": "rewrite",
+        "page": 11,
+        "exercise_number": 140,
+        "sentence_given": "Critics say his new book is the best he's ever written.",
+        "keyword": "SUPPOSED",
+        "incomplete_phrase": "His new book ... the best he's ever written.",
+        "correct_answer": "is supposed to be",
+        "verified": true,
+        "acceptable_answers": [
+          "is supposed to be"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 148,
+        "type": "rewrite",
+        "page": 11,
+        "exercise_number": 141,
+        "sentence_given": "I don't think Michael will quit his job.",
+        "keyword": "INTENTION",
+        "incomplete_phrase": "I don't think Michael ... his job.",
+        "correct_answer": "has any intention of quitting",
+        "verified": true,
+        "acceptable_answers": [
+          "has any intention of quitting"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 149,
+        "type": "rewrite",
+        "page": 11,
+        "exercise_number": 142,
+        "sentence_given": "The twins, Peter and Simon, looked exactly the same to me.",
+        "keyword": "TELL",
+        "incomplete_phrase": "I wasn't ... between the twins, Peter and Simon.",
+        "correct_answer": "able to tell the difference",
+        "verified": true,
+        "acceptable_answers": [
+          "able to tell the difference"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 150,
+        "type": "rewrite",
+        "page": 11,
+        "exercise_number": 143,
+        "sentence_given": "She won't have a problem finishing the race because she runs 10 kilometres a day.",
+        "keyword": "USED",
+        "incomplete_phrase": "She ... 10 kilometres a day, so she won't have a problem finishing the race.",
+        "correct_answer": "is used to running",
+        "verified": true,
+        "acceptable_answers": [
+          "is used to running"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      }
+    ],
+    "book": "libro_clase"
+  },
+  {
+    "page_identifier": "Page 12",
+    "exercises": [
+      {
+        "id": 151,
+        "type": "rewrite",
+        "page": 12,
+        "exercise_number": 71,
+        "sentence_given": "Mr Jones needn't go if he doesn't want to.",
+        "keyword": "OBLIGED",
+        "incomplete_phrase": "Mr Jones ... if he doesn't want to.",
+        "correct_answer": "is not obliged to go",
+        "verified": true,
+        "acceptable_answers": [
+          "is not obliged to go",
+          "isn't obliged to go"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 152,
+        "type": "rewrite",
+        "page": 12,
+        "exercise_number": 72,
+        "sentence_given": "He locked the gate so that the dog wouldn't escape.",
+        "keyword": "PREVENT",
+        "incomplete_phrase": "He locked the gate ... escaping.",
+        "correct_answer": "to prevent the dog from",
+        "verified": true,
+        "acceptable_answers": [
+          "to prevent the dog from"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 153,
+        "type": "rewrite",
+        "page": 12,
+        "exercise_number": 73,
+        "sentence_given": "It was unkind of you to talk to her like that.",
+        "keyword": "NOT",
+        "incomplete_phrase": "You ... to her like that.",
+        "correct_answer": "should not have talked",
+        "verified": true,
+        "acceptable_answers": [
+          "should not have talked",
+          "shouldn't have talked"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 154,
+        "type": "rewrite",
+        "page": 12,
+        "exercise_number": 74,
+        "sentence_given": "\"Did you write a note for Steven?\" I asked my father.",
+        "keyword": "HE",
+        "incomplete_phrase": "I asked my father ... a note for Steven.",
+        "correct_answer": "if he had written",
+        "verified": true,
+        "acceptable_answers": [
+          "if he had written",
+          "whether he had written"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 155,
+        "type": "rewrite",
+        "page": 12,
+        "exercise_number": 75,
+        "sentence_given": "I don't find it difficult to get up early any more.",
+        "keyword": "USED",
+        "incomplete_phrase": "I ... up early.",
+        "correct_answer": "am used to getting",
+        "verified": true,
+        "acceptable_answers": [
+          "am used to getting"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 156,
+        "type": "rewrite",
+        "page": 12,
+        "exercise_number": 76,
+        "sentence_given": "People say Japanese is a difficult language to learn.",
+        "keyword": "SAID",
+        "incomplete_phrase": "Japanese ... difficult language to learn.",
+        "correct_answer": "is said to be a",
+        "verified": true,
+        "acceptable_answers": [
+          "is said to be a"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 157,
+        "type": "rewrite",
+        "page": 12,
+        "exercise_number": 77,
+        "sentence_given": "His boss made Mark stay late.",
+        "keyword": "MADE",
+        "incomplete_phrase": "Mark ... by his boss.",
+        "correct_answer": "was made to stay late",
+        "verified": true,
+        "acceptable_answers": [
+          "was made to stay late"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 158,
+        "type": "rewrite",
+        "page": 12,
+        "exercise_number": 78,
+        "sentence_given": "People say that the pyramids are worth visiting.",
+        "keyword": "SUPPOSED",
+        "incomplete_phrase": "The pyramids ... worth visiting.",
+        "correct_answer": "are supposed to be",
+        "verified": true,
+        "acceptable_answers": [
+          "are supposed to be"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 159,
+        "type": "rewrite",
+        "page": 12,
+        "exercise_number": 79,
+        "sentence_given": "Simon is slower at doing things than Howard.",
+        "keyword": "FAST",
+        "incomplete_phrase": "Simon is ... Howard at doing things.",
+        "correct_answer": "not as fast as",
+        "verified": true,
+        "acceptable_answers": [
+          "not as fast as"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 160,
+        "type": "rewrite",
+        "page": 12,
+        "exercise_number": 80,
+        "sentence_given": "You were late, so you missed the match.",
+        "keyword": "LATE",
+        "incomplete_phrase": "If you hadn't ... have missed the match.",
+        "correct_answer": "been late, you would not",
+        "verified": true,
+        "acceptable_answers": [
+          "been late, you would not",
+          "been late, you wouldn't"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 161,
+        "type": "rewrite",
+        "page": 12,
+        "exercise_number": 81,
+        "sentence_given": "Bob is interested in learning how to snowboard.",
+        "keyword": "LIKE",
+        "incomplete_phrase": "Bob ... how to snowboard.",
+        "correct_answer": "would like to learn",
+        "verified": true,
+        "acceptable_answers": [
+          "would like to learn"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 162,
+        "type": "rewrite",
+        "page": 12,
+        "exercise_number": 82,
+        "sentence_given": "The family went skiing a month ago.",
+        "keyword": "SINCE",
+        "incomplete_phrase": "It ... the family went skiing.",
+        "correct_answer": "has been a month since",
+        "verified": true,
+        "acceptable_answers": [
+          "has been a month since"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 163,
+        "type": "rewrite",
+        "page": 12,
+        "exercise_number": 83,
+        "sentence_given": "You must do exactly what the teacher tells you.",
+        "keyword": "CARRY",
+        "incomplete_phrase": "You must ... instructions exactly.",
+        "correct_answer": "carry out the teacher's",
+        "verified": true,
+        "acceptable_answers": [
+          "carry out the teacher's"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 164,
+        "type": "rewrite",
+        "page": 12,
+        "exercise_number": 84,
+        "sentence_given": "My mother doesn't like us to stay out late.",
+        "keyword": "APPROVE",
+        "incomplete_phrase": "My mother doesn't ... out late.",
+        "correct_answer": "approve of our staying",
+        "verified": true,
+        "acceptable_answers": [
+          "approve of our staying"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 165,
+        "type": "rewrite",
+        "page": 12,
+        "exercise_number": 85,
+        "sentence_given": "Jamie is employed by Mactrons, isn't he?",
+        "keyword": "WORKS",
+        "incomplete_phrase": "Jamie ... he?",
+        "correct_answer": "works for Mactrons, doesn't",
+        "verified": true,
+        "acceptable_answers": [
+          "works for Mactrons, doesn't",
+          "works for mactrons, does not"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 166,
+        "type": "rewrite",
+        "page": 12,
+        "exercise_number": 86,
+        "sentence_given": "The company is considering your application.",
+        "keyword": "IS",
+        "incomplete_phrase": "Your application ... the company.",
+        "correct_answer": "is being considered by",
+        "verified": true,
+        "acceptable_answers": [
+          "is being considered by"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 167,
+        "type": "rewrite",
+        "page": 12,
+        "exercise_number": 87,
+        "sentence_given": "The shelf was so high that he couldn't reach it.",
+        "keyword": "ENOUGH",
+        "incomplete_phrase": "The shelf was not ... reach.",
+        "correct_answer": "low enough for him to",
+        "verified": true,
+        "acceptable_answers": [
+          "low enough for him to"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 168,
+        "type": "rewrite",
+        "page": 12,
+        "exercise_number": 88,
+        "sentence_given": "I've never seen such a bad film.",
+        "keyword": "EVER",
+        "incomplete_phrase": "It's the ... seen.",
+        "correct_answer": "worst film I have ever",
+        "verified": true,
+        "acceptable_answers": [
+          "worst film I have ever"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 169,
+        "type": "rewrite",
+        "page": 12,
+        "exercise_number": 89,
+        "sentence_given": "She was very rude when she spoke to the shopkeeper.",
+        "keyword": "POLITELY",
+        "incomplete_phrase": "She ... the shopkeeper.",
+        "correct_answer": "did not speak politely to",
+        "verified": true,
+        "acceptable_answers": [
+          "did not speak politely to",
+          "didn't speak politely to"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 170,
+        "type": "rewrite",
+        "page": 12,
+        "exercise_number": 90,
+        "sentence_given": "\"Well done! You've got the job you applied for,\" she said to him.",
+        "keyword": "CONGRATULATED",
+        "incomplete_phrase": "She ... the job he had applied for.",
+        "correct_answer": "congratulated him on getting",
+        "verified": true,
+        "acceptable_answers": [
+          "congratulated him on getting"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 171,
+        "type": "rewrite",
+        "page": 12,
+        "exercise_number": 91,
+        "sentence_given": "It's possible that she didn't understand what I had said.",
+        "keyword": "MIGHT",
+        "incomplete_phrase": "She ... what I had said.",
+        "correct_answer": "might not have understood",
+        "verified": true,
+        "acceptable_answers": [
+          "might not have understood"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 172,
+        "type": "rewrite",
+        "page": 12,
+        "exercise_number": 92,
+        "sentence_given": "William was forty before he took up writing professionally.",
+        "keyword": "BECOME",
+        "incomplete_phrase": "William did not ... he was forty.",
+        "correct_answer": "become a professional writer until",
+        "verified": true,
+        "acceptable_answers": [
+          "become a professional writer until"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 173,
+        "type": "rewrite",
+        "page": 12,
+        "exercise_number": 93,
+        "sentence_given": "Joe regrets not buying a flat in the city centre.",
+        "keyword": "WISHES",
+        "incomplete_phrase": "Joe ... a flat in the city centre.",
+        "correct_answer": "wishes he had bought",
+        "verified": true,
+        "acceptable_answers": [
+          "wishes he had bought"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 174,
+        "type": "rewrite",
+        "page": 12,
+        "exercise_number": 94,
+        "sentence_given": "I regret not contacting Sarah when I was in London.",
+        "keyword": "TOUCH",
+        "incomplete_phrase": "I wish that I ... Sarah when I was in London.",
+        "correct_answer": "had got in touch with",
+        "verified": true,
+        "acceptable_answers": [
+          "had got in touch with",
+          "had gotten in touch with"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      }
+    ],
+    "book": "libro_clase"
+  },
+  {
+    "page_identifier": "Page 13",
+    "exercises": [
+      {
+        "id": 175,
+        "type": "rewrite",
+        "page": 13,
+        "exercise_number": 95,
+        "sentence_given": "I don't know why Paul left the classroom so suddenly.",
+        "keyword": "MADE",
+        "incomplete_phrase": "I don't know ... the classroom so suddenly.",
+        "correct_answer": "what made Paul leave",
+        "verified": true,
+        "acceptable_answers": [
+          "what made Paul leave"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 176,
+        "type": "rewrite",
+        "page": 13,
+        "exercise_number": 96,
+        "sentence_given": "They discussed the problem but no-one had a solution.",
+        "keyword": "CAME",
+        "incomplete_phrase": "They discussed the problem but no-one ... a solution.",
+        "correct_answer": "came up with",
+        "verified": true,
+        "acceptable_answers": [
+          "came up with"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 177,
+        "type": "rewrite",
+        "page": 13,
+        "exercise_number": 97,
+        "sentence_given": "I arrived late to the meeting because I missed the bus.",
+        "keyword": "TURNED",
+        "incomplete_phrase": "If I'd caught the bus, I ... the meeting on time.",
+        "correct_answer": "would have turned up for",
+        "verified": true,
+        "acceptable_answers": [
+          "would have turned up for"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 178,
+        "type": "rewrite",
+        "page": 13,
+        "exercise_number": 98,
+        "sentence_given": "Heavy rains meant the workers could not get through to their worksite.",
+        "keyword": "PREVENTED",
+        "incomplete_phrase": "The workers ... their worksite by heavy rains.",
+        "correct_answer": "were prevented from getting to",
+        "verified": true,
+        "acceptable_answers": [
+          "were prevented from getting to"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 179,
+        "type": "rewrite",
+        "page": 13,
+        "exercise_number": 99,
+        "sentence_given": "We must contact Shirley about the party.",
+        "keyword": "TOUCH",
+        "incomplete_phrase": "We must ... Shirley about the party.",
+        "correct_answer": "get in touch with",
+        "verified": true,
+        "acceptable_answers": [
+          "get in touch with"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 180,
+        "type": "rewrite",
+        "page": 13,
+        "exercise_number": 100,
+        "sentence_given": "Robert didn't bring the cake that is sitting on the table.",
+        "keyword": "WHO",
+        "incomplete_phrase": "It ... the cake that is sitting on the table.",
+        "correct_answer": "was not Robert who brought",
+        "verified": true,
+        "acceptable_answers": [
+          "was not Robert who brought",
+          "wasn't robert who brought"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 181,
+        "type": "rewrite",
+        "page": 13,
+        "exercise_number": 101,
+        "sentence_given": "Josie last called me two years ago.",
+        "keyword": "HEARD",
+        "incomplete_phrase": "I ... Josie for two years.",
+        "correct_answer": "have not heard from",
+        "verified": true,
+        "acceptable_answers": [
+          "have not heard from",
+          "haven't heard from"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 182,
+        "type": "rewrite",
+        "page": 13,
+        "exercise_number": 102,
+        "sentence_given": "The two sisters were sitting by themselves in the living room.",
+        "keyword": "OWN",
+        "incomplete_phrase": "The two sisters were sitting ... in the living room.",
+        "correct_answer": "on their own",
+        "verified": true,
+        "acceptable_answers": [
+          "on their own"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 183,
+        "type": "rewrite",
+        "page": 13,
+        "exercise_number": 103,
+        "sentence_given": "I have a meeting this afternoon, so I ought to leave soon,' Sally said",
+        "keyword": "BETTER",
+        "incomplete_phrase": "'I have a meeting this afternoon, so I ... soon,' Sally said.",
+        "correct_answer": "had better leave",
+        "verified": true,
+        "acceptable_answers": [
+          "had better leave"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 184,
+        "type": "rewrite",
+        "page": 13,
+        "exercise_number": 104,
+        "sentence_given": "Janet arrived late to her appointment because her train was delayed.",
+        "keyword": "TIME",
+        "incomplete_phrase": "If the train ..., Janet would not have arrived late to her appointment.",
+        "correct_answer": "had been on time",
+        "verified": true,
+        "acceptable_answers": [
+          "had been on time"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 185,
+        "type": "rewrite",
+        "page": 13,
+        "exercise_number": 105,
+        "sentence_given": "I had never been to a theme park before.",
+        "keyword": "FIRST",
+        "incomplete_phrase": "It ... I had ever been to a theme park.",
+        "correct_answer": "was the first time",
+        "verified": true,
+        "acceptable_answers": [
+          "was the first time"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 186,
+        "type": "rewrite",
+        "page": 13,
+        "exercise_number": 106,
+        "sentence_given": "The number of recycling plants has risen over the past ten years.",
+        "keyword": "RISE",
+        "incomplete_phrase": "Over the past ten years, there ... the number of recycling plants.",
+        "correct_answer": "has been a rise in",
+        "verified": true,
+        "acceptable_answers": [
+          "has been a rise in"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 187,
+        "type": "rewrite",
+        "page": 13,
+        "exercise_number": 107,
+        "sentence_given": "George regrets spending all of his savings on holiday.",
+        "keyword": "HE",
+        "incomplete_phrase": "George wishes ... all his savings on holiday.",
+        "correct_answer": "he had not spent",
+        "verified": true,
+        "acceptable_answers": [
+          "he had not spent",
+          "he hadn't spent"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 188,
+        "type": "rewrite",
+        "page": 13,
+        "exercise_number": 108,
+        "sentence_given": "It was a mistake for us to install taps without filters on them.",
+        "keyword": "SHOULD",
+        "incomplete_phrase": "We ... taps without filters on them.",
+        "correct_answer": "should not have installed",
+        "verified": true,
+        "acceptable_answers": [
+          "should not have installed",
+          "shouldn't have installed"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 189,
+        "type": "rewrite",
+        "page": 13,
+        "exercise_number": 109,
+        "sentence_given": "We mended the fence to prevent our dog from running away.",
+        "keyword": "SO",
+        "incomplete_phrase": "We mended the fence ... not run away.",
+        "correct_answer": "so that our dog would",
+        "verified": true,
+        "acceptable_answers": [
+          "so that our dog would"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 190,
+        "type": "rewrite",
+        "page": 13,
+        "exercise_number": 110,
+        "sentence_given": "I shouldn't bother washing my car today because it's going to rain.",
+        "keyword": "WORTH",
+        "incomplete_phrase": "It ... my car today because it's going to rain.",
+        "correct_answer": "is not worth washing",
+        "verified": true,
+        "acceptable_answers": [
+          "is not worth washing",
+          "isn't worth washing"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 191,
+        "type": "rewrite",
+        "page": 13,
+        "exercise_number": 111,
+        "sentence_given": "Harvey isn't trying to improve his grades at all.",
+        "keyword": "EFFORT",
+        "incomplete_phrase": "Harvey is ... improve his grades at all.",
+        "correct_answer": "making no effort to",
+        "verified": true,
+        "acceptable_answers": [
+          "making no effort to"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 192,
+        "type": "rewrite",
+        "page": 13,
+        "exercise_number": 112,
+        "sentence_given": "By the time we arrived at the restaurant, nearly all the tables had been taken.",
+        "keyword": "HARDLY",
+        "incomplete_phrase": "There were ... left by the time we arrived at the restaurant.",
+        "correct_answer": "hardly any tables",
+        "verified": true,
+        "acceptable_answers": [
+          "hardly any tables"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 193,
+        "type": "rewrite",
+        "page": 13,
+        "exercise_number": 113,
+        "sentence_given": "I'd rather you didn't play the drums right now.",
+        "keyword": "MIND",
+        "incomplete_phrase": "Would ... the drums right now?",
+        "correct_answer": "you mind not playing",
+        "verified": true,
+        "acceptable_answers": [
+          "you mind not playing"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 194,
+        "type": "rewrite",
+        "page": 13,
+        "exercise_number": 114,
+        "sentence_given": "All the employees handed in their reports apart from Gene.",
+        "keyword": "WHO",
+        "incomplete_phrase": "Gene was the ... hand in his report.",
+        "correct_answer": "only employee who didn't",
+        "verified": true,
+        "acceptable_answers": [
+          "only employee who didn't",
+          "only employee who did not"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 195,
+        "type": "rewrite",
+        "page": 13,
+        "exercise_number": 115,
+        "sentence_given": "The teacher prevented us from loitering on the school grounds.",
+        "keyword": "LET",
+        "incomplete_phrase": "The teacher ... on the school grounds.",
+        "correct_answer": "did not let us loiter",
+        "verified": true,
+        "acceptable_answers": [
+          "did not let us loiter",
+          "didn't let us loiter"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 196,
+        "type": "rewrite",
+        "page": 13,
+        "exercise_number": 116,
+        "sentence_given": "You can use my computer, but you must be careful with it.",
+        "keyword": "LONG",
+        "incomplete_phrase": "You can use my computer ... careful with it.",
+        "correct_answer": "as long as you are",
+        "verified": true,
+        "acceptable_answers": [
+          "as long as you are"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 197,
+        "type": "rewrite",
+        "page": 13,
+        "exercise_number": 117,
+        "sentence_given": "The interviewer asked me to describe my experience in detail.",
+        "keyword": "FULL",
+        "incomplete_phrase": "The interviewer asked me to give him ... my experience.",
+        "correct_answer": "a full description of",
+        "verified": true,
+        "acceptable_answers": [
+          "a full description of"
+        ],
+        "is_locked": true,
+        "book": "libro_clase"
+      },
+      {
+        "id": 198,
+        "type": "rewrite",
+        "page": 13,
+        "exercise_number": 118,
+        "sentence_given": "As it began to snow the race was cancelled.",
+        "keyword": "CALLED",
+        "incomplete_phrase": "The race ... the snow.",
+        "correct_answer": "was called off due to",
+        "verified": true,
+        "acceptable_answers": [
+          "was called off due to"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      },
+      {
+        "id": 199,
+        "type": "rewrite",
+        "page": 13,
+        "exercise_number": 119,
+        "sentence_given": "Jason was the only one who didn't enjoy the play.",
+        "keyword": "APART",
+        "incomplete_phrase": "Everybody ... Jason.",
+        "correct_answer": "enjoyed the play apart from",
+        "verified": true,
+        "acceptable_answers": [
+          "enjoyed the play apart from"
+        ],
+        "is_locked": false,
+        "book": "libro_clase"
+      }
+    ],
+    "book": "libro_clase"
+  },
+  {
+    "page_identifier": "Page 1",
+    "book": "libro_clase",
+    "test": "Test 1",
+    "exercises": [
+      {
+        "exercise_number": 0,
+        "sentence_given": "What type of music do you like best?",
+        "keyword": "FAVOURITE",
+        "incomplete_phrase": "What ... type of music?",
+        "correct_answer": "is your favourite",
+        "acceptable_answers": [
+          "is your favourite",
+          "is your favorite"
+        ],
+        "id": 200,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 1,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 25,
+        "sentence_given": "Brad speaks English better than his parents do.",
+        "keyword": "AS",
+        "incomplete_phrase": "Brad's parents don't ... he does.",
+        "correct_answer": "speak English as well as",
+        "acceptable_answers": [
+          "speak English as well as"
+        ],
+        "id": 201,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 1,
+        "is_locked": true,
+        "verified": true
+      },
+      {
+        "exercise_number": 26,
+        "sentence_given": "Cycling is not allowed in the park.",
+        "keyword": "SUPPOSED",
+        "incomplete_phrase": "You ... in the park.",
+        "correct_answer": "are not supposed to cycle",
+        "acceptable_answers": [
+          "are not supposed to cycle",
+          "aren't supposed to cycle",
+          "are not supposed to ride",
+          "aren't supposed to ride"
+        ],
+        "id": 202,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 1,
+        "is_locked": true,
+        "verified": true
+      },
+      {
+        "exercise_number": 27,
+        "sentence_given": "'I'm sorry I didn't let you know I was going to be late, Ann,' said Jamie.",
+        "keyword": "APOLOGISED",
+        "incomplete_phrase": "Jamie ... Ann know that he was going to be late.",
+        "correct_answer": "apologised for not letting",
+        "acceptable_answers": [
+          "apologised for not letting",
+          "apologized for not letting"
+        ],
+        "id": 203,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 1,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 28,
+        "sentence_given": "A heavy fall of snow prevented them from getting home that night.",
+        "keyword": "ABLE",
+        "incomplete_phrase": "They ... home that night because of a heavy fall of snow.",
+        "correct_answer": "were not able to get",
+        "acceptable_answers": [
+          "were not able to get",
+          "weren't able to get"
+        ],
+        "id": 204,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 1,
+        "is_locked": true,
+        "verified": true
+      },
+      {
+        "exercise_number": 29,
+        "sentence_given": "Ursula was disappointed not to win the competition.",
+        "keyword": "CAME",
+        "incomplete_phrase": "Not winning the competition ... to Ursula.",
+        "correct_answer": "came as a disappointment",
+        "acceptable_answers": [
+          "came as a disappointment"
+        ],
+        "id": 205,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 1,
+        "is_locked": true,
+        "verified": true
+      },
+      {
+        "exercise_number": 30,
+        "sentence_given": "I paid far more money for my new computer than I expected to.",
+        "keyword": "SO",
+        "incomplete_phrase": "I didn't expect ... money for my new computer.",
+        "correct_answer": "to pay so much",
+        "acceptable_answers": [
+          "to pay so much",
+          "to spend so much"
+        ],
+        "id": 206,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 1,
+        "is_locked": true,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "Page 2",
+    "book": "libro_clase",
+    "test": "Test 2",
+    "exercises": [
+      {
+        "exercise_number": 25,
+        "sentence_given": "Tania hasn't played volleyball for three years.",
+        "keyword": "SINCE",
+        "incomplete_phrase": "It ... Tania last played volleyball.",
+        "correct_answer": "is three years since",
+        "acceptable_answers": [
+          "is three years since",
+          "has been three years since"
+        ],
+        "id": 207,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 2,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 26,
+        "sentence_given": "The only thing Carl forgot to buy was a new battery for his watch.",
+        "keyword": "EVERYTHING",
+        "incomplete_phrase": "Carl remembered to ... a new battery for his watch.",
+        "correct_answer": "buy everything except",
+        "acceptable_answers": [
+          "buy everything except",
+          "buy everything apart from",
+          "get everything except"
+        ],
+        "id": 208,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 2,
+        "is_locked": true,
+        "verified": true
+      },
+      {
+        "exercise_number": 27,
+        "sentence_given": "Declan was angry because Claire arrived late.",
+        "keyword": "TIME",
+        "incomplete_phrase": "If Claire ... , Declan would not have been angry.",
+        "correct_answer": "had arrived on time",
+        "acceptable_answers": [
+          "had arrived on time",
+          "had been on time"
+        ],
+        "id": 209,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 2,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 28,
+        "sentence_given": "I don't usually wear a hat and so it feels strange.",
+        "keyword": "USED",
+        "incomplete_phrase": "I am ... a hat and so it feels strange.",
+        "correct_answer": "not used to wearing",
+        "acceptable_answers": [
+          "not used to wearing",
+          "n't used to wearing"
+        ],
+        "id": 210,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 2,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 29,
+        "sentence_given": "Rob said to Jennifer: 'You broke the strap on my new camera.'",
+        "keyword": "ACCUSED",
+        "incomplete_phrase": "Rob ... the strap on his new camera.",
+        "correct_answer": "accused Jennifer of breaking",
+        "acceptable_answers": [
+          "accused Jennifer of breaking"
+        ],
+        "id": 211,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 2,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 30,
+        "sentence_given": "Mark can't wait to use his new computer-games console.",
+        "keyword": "FORWARD",
+        "incomplete_phrase": "Mark is ... his new computer-games console.",
+        "correct_answer": "looking forward to using",
+        "acceptable_answers": [
+          "looking forward to using"
+        ],
+        "id": 212,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 2,
+        "is_locked": true,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "Page 3",
+    "book": "libro_clase",
+    "test": "Test 3",
+    "exercises": [
+      {
+        "exercise_number": 25,
+        "sentence_given": "The band probably won't do another tour this year.",
+        "keyword": "UNLIKELY",
+        "incomplete_phrase": "The band ... another tour this year.",
+        "correct_answer": "is unlikely to do",
+        "acceptable_answers": [
+          "is unlikely to do",
+          "are unlikely to do"
+        ],
+        "id": 213,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 3,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 26,
+        "sentence_given": "It's very hard for Alex to get up in the morning.",
+        "keyword": "TROUBLE",
+        "incomplete_phrase": "Alex ... up in the morning.",
+        "correct_answer": "has trouble getting",
+        "acceptable_answers": [
+          "has trouble getting",
+          "has trouble in getting",
+          "has great trouble getting"
+        ],
+        "id": 214,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 3,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 27,
+        "sentence_given": "Lily is so good at swimming that she is going to train for the Olympics.",
+        "keyword": "SUCH",
+        "incomplete_phrase": "Lily ... that she is going to train for the Olympics.",
+        "correct_answer": "is such a good swimmer",
+        "acceptable_answers": [
+          "is such a good swimmer"
+        ],
+        "id": 215,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 3,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 28,
+        "sentence_given": "One of us ought to go and meet the visitor at the airport.",
+        "keyword": "SHOULD",
+        "incomplete_phrase": "The visitor ... one of us at the airport.",
+        "correct_answer": "should be met by",
+        "acceptable_answers": [
+          "should be met by"
+        ],
+        "id": 216,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 3,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 29,
+        "sentence_given": "I went to the dentist's because I couldn't stand the toothache any longer.",
+        "keyword": "UP",
+        "incomplete_phrase": "I couldn't ... the toothache any longer, so I went to the dentist's.",
+        "correct_answer": "put up with",
+        "acceptable_answers": [
+          "put up with"
+        ],
+        "id": 217,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 3,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 30,
+        "sentence_given": "I wasn't invited to the party and feel sad about that.",
+        "keyword": "WISH",
+        "incomplete_phrase": "I ... invited to the party.",
+        "correct_answer": "wish I had been",
+        "acceptable_answers": [
+          "wish I had been",
+          "wish that I had been"
+        ],
+        "id": 218,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 3,
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "Page 4",
+    "book": "libro_clase",
+    "test": "Test 4",
+    "exercises": [
+      {
+        "exercise_number": 25,
+        "sentence_given": "Heidi stayed with a friend when she went to London.",
+        "keyword": "PUT",
+        "incomplete_phrase": "A friend ... when she went to London.",
+        "correct_answer": "put Heidi up",
+        "acceptable_answers": [
+          "put Heidi up",
+          "put her up"
+        ],
+        "id": 219,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 4,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 26,
+        "sentence_given": "The singer dislikes people asking for his autograph in the street.",
+        "keyword": "LIKE",
+        "incomplete_phrase": "The singer ... people ask him for his autograph in the street.",
+        "correct_answer": "does not like it when",
+        "acceptable_answers": [
+          "does not like it when",
+          "doesn't like it when"
+        ],
+        "id": 220,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 4,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 27,
+        "sentence_given": "I advised Kylie to enrol at a gym, which she did.",
+        "keyword": "ADVICE",
+        "incomplete_phrase": "Kylie ... and enrolled at a gym.",
+        "correct_answer": "took my advice",
+        "acceptable_answers": [
+          "took my advice",
+          "followed my advice"
+        ],
+        "id": 221,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 4,
+        "is_locked": true,
+        "verified": true
+      },
+      {
+        "exercise_number": 28,
+        "sentence_given": "I had no idea that a famous film star was born in the town.",
+        "keyword": "UNAWARE",
+        "incomplete_phrase": "I ... fact that a famous film star was born in the town.",
+        "correct_answer": "was unaware of the",
+        "acceptable_answers": [
+          "was unaware of the"
+        ],
+        "id": 222,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 4,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 29,
+        "sentence_given": "Simon was the only student to apply for a scholarship.",
+        "keyword": "NONE",
+        "incomplete_phrase": "Apart ... the students applied for a scholarship.",
+        "correct_answer": "from Simon, none of",
+        "acceptable_answers": [
+          "from Simon, none of",
+          "from Simon none of"
+        ],
+        "id": 223,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 4,
+        "is_locked": true,
+        "verified": true
+      },
+      {
+        "exercise_number": 30,
+        "sentence_given": "Debbie wore a jumper because she thought it might be cold in the mountains.",
+        "keyword": "CASE",
+        "incomplete_phrase": "Debbie wore a jumper ... in the mountains.",
+        "correct_answer": "in case it was cold",
+        "acceptable_answers": [
+          "in case it was cold"
+        ],
+        "id": 224,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 4,
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "Page 5",
+    "book": "libro_clase",
+    "test": "Test 5",
+    "exercises": [
+      {
+        "exercise_number": 25,
+        "sentence_given": "Learning to sew seemed a waste of time to Lisa.",
+        "keyword": "POINT",
+        "incomplete_phrase": "Lisa couldn't ... learning to sew.",
+        "correct_answer": "see any point in",
+        "acceptable_answers": [
+          "see any point in",
+          "see the point in",
+          "see the point of"
+        ],
+        "id": 225,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 5,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 26,
+        "sentence_given": "I reckon Barry was relieved to find his missing cellphone again.",
+        "keyword": "BEEN",
+        "incomplete_phrase": "Barry must ... he found his missing cellphone.",
+        "correct_answer": "have been relieved when",
+        "acceptable_answers": [
+          "have been relieved when"
+        ],
+        "id": 226,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 5,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 27,
+        "sentence_given": "According to the gossip, the actress will be getting married soon.",
+        "keyword": "RUMOURED",
+        "incomplete_phrase": "The actress ... getting married soon.",
+        "correct_answer": "is rumoured to be",
+        "acceptable_answers": [
+          "is rumoured to be",
+          "is rumored to be"
+        ],
+        "id": 227,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 5,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 28,
+        "sentence_given": "Pamela said that she regretted sending that angry text message to Harry.",
+        "keyword": "ONLY",
+        "incomplete_phrase": "'If ... that angry text message to Harry', said Pamela.",
+        "correct_answer": "only I had not sent",
+        "acceptable_answers": [
+          "only I had not sent",
+          "only I hadn't sent"
+        ],
+        "id": 228,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 5,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 29,
+        "sentence_given": "Ashley always eats a big breakfast before going out in the morning.",
+        "keyword": "WITHOUT",
+        "incomplete_phrase": "Ashley never goes out in the morning ... a big breakfast.",
+        "correct_answer": "without having eaten",
+        "acceptable_answers": [
+          "without having eaten",
+          "without eating",
+          "without having"
+        ],
+        "id": 229,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 5,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 30,
+        "sentence_given": "Liam has decided not to go to football practice any more.",
+        "keyword": "GIVE",
+        "incomplete_phrase": "Liam has decided ... to football practice.",
+        "correct_answer": "to give up going",
+        "acceptable_answers": [
+          "to give up going"
+        ],
+        "id": 230,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 5,
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "Page 6",
+    "book": "libro_clase",
+    "test": "Test 6",
+    "exercises": [
+      {
+        "exercise_number": 25,
+        "sentence_given": "Is it all right if I turn the television off?",
+        "keyword": "MIND",
+        "incomplete_phrase": "Would ... the television off?",
+        "correct_answer": "you mind if I turned",
+        "acceptable_answers": [
+          "you mind if I turned",
+          "you mind my turning",
+          "you mind me turning"
+        ],
+        "id": 231,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 6,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 26,
+        "sentence_given": "We're not going to have our car washed because it costs too much.",
+        "keyword": "AFFORD",
+        "incomplete_phrase": "We ... have our car washed.",
+        "correct_answer": "cannot afford to",
+        "acceptable_answers": [
+          "cannot afford to",
+          "can't afford to"
+        ],
+        "id": 232,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 6,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 27,
+        "sentence_given": "Grace knows a lot about Web design, even though she has never studied it.",
+        "keyword": "HAVING",
+        "incomplete_phrase": "Despite ... , Grace knows a lot about Web design.",
+        "correct_answer": "never having studied it",
+        "acceptable_answers": [
+          "never having studied it",
+          "not having studied it"
+        ],
+        "id": 233,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 6,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 28,
+        "sentence_given": "Damon looked so funny in his brother's tracksuit that we had to laugh.",
+        "keyword": "HELP",
+        "incomplete_phrase": "We ... at Damon because he looked so funny in his brother's tracksuit.",
+        "correct_answer": "could not help laughing",
+        "acceptable_answers": [
+          "could not help laughing",
+          "couldn't help laughing"
+        ],
+        "id": 234,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 6,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 29,
+        "sentence_given": "An electric fence kept visitors away from the animals.",
+        "keyword": "PREVENTED",
+        "incomplete_phrase": "An electric fence ... close to the animals.",
+        "correct_answer": "prevented visitors from getting",
+        "acceptable_answers": [
+          "prevented visitors from getting",
+          "prevented visitors from coming",
+          "prevented visitors from being"
+        ],
+        "id": 235,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 6,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 30,
+        "sentence_given": "Graham likes to spend time alone just before a race.",
+        "keyword": "BY",
+        "incomplete_phrase": "Graham likes to spend time ... just before a race.",
+        "correct_answer": "by himself",
+        "acceptable_answers": [
+          "by himself"
+        ],
+        "id": 236,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 6,
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "Page 7",
+    "book": "libro_clase",
+    "test": "Test 7",
+    "exercises": [
+      {
+        "exercise_number": 25,
+        "sentence_given": "John qualified as an instructor three years ago.",
+        "keyword": "BEEN",
+        "incomplete_phrase": "John ... instructor for three years.",
+        "correct_answer": "has been a qualified",
+        "acceptable_answers": [
+          "has been a qualified",
+          "has been an"
+        ],
+        "id": 237,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 7,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 26,
+        "sentence_given": "Although we thought the minibus would be comfortable, we were mistaken.",
+        "keyword": "TURN",
+        "incomplete_phrase": "The minibus did ... as comfortable as we had expected.",
+        "correct_answer": "not turn out to be",
+        "acceptable_answers": [
+          "not turn out to be"
+        ],
+        "id": 238,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 7,
+        "is_locked": true,
+        "verified": true
+      },
+      {
+        "exercise_number": 27,
+        "sentence_given": "The tour bus stopped frequently to let people admire the view.",
+        "keyword": "THAT",
+        "incomplete_phrase": "The tour bus stopped frequently ... admire the view.",
+        "correct_answer": "so that people could",
+        "acceptable_answers": [
+          "so that people could"
+        ],
+        "id": 239,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 7,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 28,
+        "sentence_given": "Faye hadn't finished her dinner when Steve called her.",
+        "keyword": "STILL",
+        "incomplete_phrase": "Faye ... when Steve called her.",
+        "correct_answer": "was still having dinner",
+        "acceptable_answers": [
+          "was still having dinner",
+          "was still eating dinner",
+          "was still having her dinner",
+          "was still eating her dinner"
+        ],
+        "id": 240,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 7,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 29,
+        "sentence_given": "'It's getting late, so I ought to go home', said Zoe.",
+        "keyword": "BETTER",
+        "incomplete_phrase": "Zoe said it was getting late and that ... home.",
+        "correct_answer": "she had better go",
+        "acceptable_answers": [
+          "she had better go",
+          "she'd better go"
+        ],
+        "id": 241,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 7,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 30,
+        "sentence_given": "Sandra's sister can ski better than she can.",
+        "keyword": "SKIER",
+        "incomplete_phrase": "Sandra is ... as her sister.",
+        "correct_answer": "not as good a skier",
+        "acceptable_answers": [
+          "not as good a skier",
+          "not so good a skier"
+        ],
+        "id": 242,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 7,
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "Page 8",
+    "book": "libro_clase",
+    "test": "Test 8",
+    "exercises": [
+      {
+        "exercise_number": 25,
+        "sentence_given": "I think you should complain about that horrible meal.",
+        "keyword": "WERE",
+        "incomplete_phrase": "If I ... a complaint about that horrible meal.",
+        "correct_answer": "were you I would make",
+        "acceptable_answers": [
+          "were you I would make",
+          "were you, I would make",
+          "were you I'd make",
+          "were you, I'd make"
+        ],
+        "id": 243,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 8,
+        "is_locked": true,
+        "verified": true
+      },
+      {
+        "exercise_number": 26,
+        "sentence_given": "Christina had never visited Venice before.",
+        "keyword": "FIRST",
+        "incomplete_phrase": "It was ... to Venice.",
+        "correct_answer": "Christina's first visit",
+        "acceptable_answers": [
+          "Christina's first visit",
+          "the first time Christina went",
+          "the first time Christina visited"
+        ],
+        "id": 244,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 8,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 27,
+        "sentence_given": "No matter how hard he tried, Victor couldn't open the box.",
+        "keyword": "VERY",
+        "incomplete_phrase": "Even ... , Victor couldn't open the box.",
+        "correct_answer": "though he tried very hard",
+        "acceptable_answers": [
+          "though he tried very hard"
+        ],
+        "id": 245,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 8,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 28,
+        "sentence_given": "It isn't really worth trying to fly the kite when there's no wind.",
+        "keyword": "HARDLY",
+        "incomplete_phrase": "It ... fly the kite when there's no wind.",
+        "correct_answer": "is hardly worth trying to",
+        "acceptable_answers": [
+          "is hardly worth trying to"
+        ],
+        "id": 246,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 8,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 29,
+        "sentence_given": "Oliver says he will only play football if he can be team captain.",
+        "keyword": "UNLESS",
+        "incomplete_phrase": "Oliver says that he ... he can be team captain.",
+        "correct_answer": "will not play football unless",
+        "acceptable_answers": [
+          "will not play football unless",
+          "won't play football unless"
+        ],
+        "id": 247,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 8,
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "exercise_number": 30,
+        "sentence_given": "Dancing was an activity that David had never wanted to do.",
+        "keyword": "APPEALED",
+        "incomplete_phrase": "Dancing was an activity that ... David.",
+        "correct_answer": "had never appealed to",
+        "acceptable_answers": [
+          "had never appealed to"
+        ],
+        "id": 248,
+        "book": "libro_clase",
+        "type": "rewrite",
+        "page": 8,
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,592 @@
+[
+  {
+    "page_identifier": "ENG XAM - Exercise 1",
+    "test": 1,
+    "book": "ENG XAM",
+    "exercises": [
+      {
+        "id": 600,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 1",
+        "test": 1,
+        "page": 1,
+        "exercise_number": 1,
+        "sentence_given": "You should try and take advantage of his help.",
+        "keyword": "MOST",
+        "incomplete_phrase": "You should try and ... help he gives you.",
+        "correct_answer": "make the most of the",
+        "acceptable_answers": [
+          "make the most of the",
+          "make the most of any"
+        ],
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 601,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 1",
+        "test": 1,
+        "page": 1,
+        "exercise_number": 2,
+        "sentence_given": "My sister was involved in her school spelling competition.",
+        "keyword": "PART",
+        "incomplete_phrase": "My sister ... spelling competition.",
+        "correct_answer": "took part in her school",
+        "acceptable_answers": [
+          "took part in her school",
+          "was part of her school"
+        ],
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 602,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 1",
+        "test": 1,
+        "page": 1,
+        "exercise_number": 3,
+        "sentence_given": "Could they grow anything here after the war?",
+        "keyword": "ABLE",
+        "incomplete_phrase": "Were ... here after the war?",
+        "correct_answer": "they able to grow anything",
+        "acceptable_answers": [
+          "they able to grow anything"
+        ],
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 603,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 1",
+        "test": 1,
+        "page": 1,
+        "exercise_number": 4,
+        "sentence_given": "'Why didn't you call me?' asked Joe.",
+        "keyword": "ASKED",
+        "incomplete_phrase": "Joe ... not called him.",
+        "correct_answer": "asked me why I had",
+        "acceptable_answers": [
+          "asked me why I had",
+          "asked why I had"
+        ],
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 604,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 1",
+        "test": 1,
+        "page": 1,
+        "exercise_number": 5,
+        "sentence_given": "Driving that fast was a stupid thing to do.",
+        "keyword": "ONLY",
+        "incomplete_phrase": "If ... driving so fast.",
+        "correct_answer": "only I hadn't been",
+        "acceptable_answers": [
+          "only I hadn't been",
+          "only I had not been"
+        ],
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 605,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 1",
+        "test": 1,
+        "page": 1,
+        "exercise_number": 6,
+        "sentence_given": "I hadn't seen my sister for about a year, when I saw her last.",
+        "keyword": "GONE",
+        "incomplete_phrase": "About ... before I saw my sister again, after the last time I saw her.",
+        "correct_answer": "a year had gone by",
+        "acceptable_answers": [
+          "a year had gone by"
+        ],
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "ENG XAM - Exercise 2",
+    "test": 2,
+    "book": "ENG XAM",
+    "exercises": [
+      {
+        "id": 606,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 2",
+        "test": 2,
+        "page": 2,
+        "exercise_number": 1,
+        "sentence_given": "I don't earn anything like the amount I did before.",
+        "keyword": "NOWHERE",
+        "incomplete_phrase": "I earn ... as I did before.",
+        "correct_answer": "nowhere near as much",
+        "acceptable_answers": [
+          "nowhere near as much"
+        ],
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 607,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 2",
+        "test": 2,
+        "page": 2,
+        "exercise_number": 2,
+        "sentence_given": "The date for the Barcelona Conference is the 23rd of March.",
+        "keyword": "PLACE",
+        "incomplete_phrase": "The Barcelona Conference ... the 23rd of March.",
+        "correct_answer": "takes place",
+        "acceptable_answers": [
+          "takes place",
+          "will take place",
+          "is taking place on"
+        ],
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 608,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 2",
+        "test": 2,
+        "page": 2,
+        "exercise_number": 3,
+        "sentence_given": "The house was not very attractive in appearance when we first saw it.",
+        "keyword": "MUCH",
+        "incomplete_phrase": "The house was ... at when we first saw it.",
+        "correct_answer": "not much to look",
+        "acceptable_answers": [
+          "not much to look"
+        ],
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 609,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 2",
+        "test": 2,
+        "page": 2,
+        "exercise_number": 4,
+        "sentence_given": "No-one wants to buy this type of music any more.",
+        "keyword": "LONGER",
+        "incomplete_phrase": "There ... for this type of music.",
+        "correct_answer": "is no longer any demand",
+        "acceptable_answers": [
+          "is no longer any demand"
+        ],
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 610,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 2",
+        "test": 2,
+        "page": 2,
+        "exercise_number": 5,
+        "sentence_given": "Looking back, I think I was right to study mathematics at university.",
+        "keyword": "REGRET",
+        "incomplete_phrase": "Looking back, I ... mathematics at university.",
+        "correct_answer": "do not regret studying",
+        "acceptable_answers": [
+          "do not regret studying",
+          "don't regret studying"
+        ],
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 611,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 2",
+        "test": 2,
+        "page": 2,
+        "exercise_number": 6,
+        "sentence_given": "Our spending will have to be reduced next year.",
+        "keyword": "BACK",
+        "incomplete_phrase": "We will have ... our spending next year.",
+        "correct_answer": "to cut back on",
+        "acceptable_answers": [
+          "to cut back on"
+        ],
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "ENG XAM - Exercise 3",
+    "test": 3,
+    "book": "ENG XAM",
+    "exercises": [
+      {
+        "id": 612,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 3",
+        "test": 3,
+        "page": 3,
+        "exercise_number": 1,
+        "sentence_given": "While we were going home yesterday we got caught in a thunderstorm.",
+        "keyword": "WAY",
+        "incomplete_phrase": "We got caught in a thunderstorm while we were ... yesterday.",
+        "correct_answer": "on our way home",
+        "acceptable_answers": [
+          "on our way home"
+        ],
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 613,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 3",
+        "test": 3,
+        "page": 3,
+        "exercise_number": 2,
+        "sentence_given": "Has Mary altered her decision about moving to the countryside?",
+        "keyword": "MIND",
+        "incomplete_phrase": "Do you know if Mary ... about moving to the countryside?",
+        "correct_answer": "has changed her mind",
+        "acceptable_answers": [
+          "has changed her mind"
+        ],
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 614,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 3",
+        "test": 3,
+        "page": 3,
+        "exercise_number": 3,
+        "sentence_given": "I'd like Kevin to stop telling me what to do.",
+        "keyword": "WISH",
+        "incomplete_phrase": "I ... telling me what to do!",
+        "correct_answer": "wish kevin would stop",
+        "acceptable_answers": [
+          "wish kevin would stop",
+          "wish that kevin would stop"
+        ],
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 615,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 3",
+        "test": 3,
+        "page": 3,
+        "exercise_number": 4,
+        "sentence_given": "'Are you pleased it's nearly half-term?' said the teacher to us.",
+        "keyword": "KNOW",
+        "incomplete_phrase": "The teacher wanted ... pleased it was nearly half-term.",
+        "correct_answer": "to know if we were",
+        "acceptable_answers": [
+          "to know if we were"
+        ],
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 616,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 3",
+        "test": 3,
+        "page": 3,
+        "exercise_number": 5,
+        "sentence_given": "We are earning less than we are spending, I'm afraid.",
+        "keyword": "EXPENDITURE",
+        "incomplete_phrase": "Our ... our income, I'm afraid.",
+        "correct_answer": "expenditure is more than",
+        "acceptable_answers": [
+          "expenditure is more than",
+          "expenditure is greater than"
+        ],
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 617,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 3",
+        "test": 3,
+        "page": 3,
+        "exercise_number": 6,
+        "sentence_given": "I don't think having luxuries in life is necessary.",
+        "keyword": "NECESSITY",
+        "incomplete_phrase": "I don't ... having luxuries in life.",
+        "correct_answer": "see the necessity of",
+        "acceptable_answers": [
+          "see the necessity of",
+          "see the necessity in",
+          "see any necessity of",
+          "see any necessity in"
+        ],
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "ENG XAM - Exercise 4",
+    "test": 4,
+    "book": "ENG XAM",
+    "exercises": [
+      {
+        "id": 618,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 4",
+        "test": 4,
+        "page": 4,
+        "exercise_number": 1,
+        "sentence_given": "I am starting to find watching television boring.",
+        "keyword": "FED",
+        "incomplete_phrase": "I am beginning to get ... television.",
+        "correct_answer": "fed up with watching",
+        "acceptable_answers": [
+          "fed up with watching"
+        ],
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 619,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 4",
+        "test": 4,
+        "page": 4,
+        "exercise_number": 2,
+        "sentence_given": "Bad weather makes me feel really unhappy in the winter.",
+        "keyword": "DOWN",
+        "incomplete_phrase": "Bad weather ... in the winter.",
+        "correct_answer": "really gets me down",
+        "acceptable_answers": [
+          "really gets me down"
+        ],
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 620,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 4",
+        "test": 4,
+        "page": 4,
+        "exercise_number": 3,
+        "sentence_given": "Fog delayed my flight to Moscow this morning.",
+        "keyword": "UP",
+        "incomplete_phrase": "My flight to Moscow ... this morning",
+        "correct_answer": "was held up by fog",
+        "acceptable_answers": [
+          "was held up by fog"
+        ],
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 621,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 4",
+        "test": 4,
+        "page": 4,
+        "exercise_number": 4,
+        "sentence_given": "Help was urgently needed in the flooded area of the country.",
+        "keyword": "NEED",
+        "incomplete_phrase": "They were ... in the flooded area of the country.",
+        "correct_answer": "in urgent need of help",
+        "acceptable_answers": [
+          "in urgent need of help"
+        ],
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 622,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 4",
+        "test": 4,
+        "page": 4,
+        "exercise_number": 5,
+        "sentence_given": "I went to Italy with the intention of learning Italian.",
+        "keyword": "THAT",
+        "incomplete_phrase": "I went to Italy ... Italian.",
+        "correct_answer": "so that I could learn",
+        "acceptable_answers": [
+          "so that I could learn"
+        ],
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 623,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 4",
+        "test": 4,
+        "page": 4,
+        "exercise_number": 6,
+        "sentence_given": "Remember to return the videos you have rented.",
+        "keyword": "BACK",
+        "incomplete_phrase": "Don't ... the videos you have rented.",
+        "correct_answer": "forget to take back",
+        "acceptable_answers": [
+          "forget to take back",
+          "forget to bring back"
+        ],
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "ENG XAM - Exercise 5",
+    "test": 5,
+    "book": "ENG XAM",
+    "exercises": [
+      {
+        "id": 624,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 5",
+        "test": 5,
+        "page": 5,
+        "exercise_number": 1,
+        "sentence_given": "To tell the truth, we need a swimming pool for this school.",
+        "keyword": "WHAT",
+        "incomplete_phrase": "To tell the truth, ... a swimming pool for this school.",
+        "correct_answer": "what we need is",
+        "acceptable_answers": [
+          "what we need is"
+        ],
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 625,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 5",
+        "test": 5,
+        "page": 5,
+        "exercise_number": 2,
+        "sentence_given": "Do you know whose this umbrella is, by any chance?",
+        "keyword": "BELONGS",
+        "incomplete_phrase": "Do you know ... , by any chance?",
+        "correct_answer": "who this umbrella belongs to",
+        "acceptable_answers": [
+          "who this umbrella belongs to"
+        ],
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 626,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 5",
+        "test": 5,
+        "page": 5,
+        "exercise_number": 3,
+        "sentence_given": "Was it Paul's idea to go to the cinema?",
+        "keyword": "CAME",
+        "incomplete_phrase": "Was it Paul ... the idea of going to the cinema?",
+        "correct_answer": "who came up with",
+        "acceptable_answers": [
+          "who came up with",
+          "that came up with"
+        ],
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 627,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 5",
+        "test": 5,
+        "page": 5,
+        "exercise_number": 4,
+        "sentence_given": "The boats began to move slowly out of the harbour.",
+        "keyword": "WAY",
+        "incomplete_phrase": "The boats slowly ... out of the harbour.",
+        "correct_answer": "made their way",
+        "acceptable_answers": [
+          "made their way"
+        ],
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 628,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 5",
+        "test": 5,
+        "page": 5,
+        "exercise_number": 5,
+        "sentence_given": "One runner did not succeed in finishing the race.",
+        "keyword": "ABLE",
+        "incomplete_phrase": "One runner ... the race.",
+        "correct_answer": "wasn't able to finish",
+        "acceptable_answers": [
+          "wasn't able to finish",
+          "was not able to finish"
+        ],
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 629,
+        "book": "ENG XAM",
+        "type": "rewrite",
+        "section": "Exercise 5",
+        "test": 5,
+        "page": 5,
+        "exercise_number": 6,
+        "sentence_given": "It is not my fault that the glass broke.",
+        "keyword": "BLAME",
+        "incomplete_phrase": "You cannot ... the glass.",
+        "correct_answer": "blame me for breaking",
+        "acceptable_answers": [
+          "blame me for breaking"
+        ],
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  }
+]

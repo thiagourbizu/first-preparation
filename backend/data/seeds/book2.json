@@ -1,0 +1,4439 @@
+[
+  {
+    "page_identifier": "ENG Exam - Test 1",
+    "test": 1,
+    "book": "ENG Exam",
+    "exercises": [
+      {
+        "id": 300,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 1,
+        "page": 1,
+        "exercise_number": 1,
+        "sentence_given": "Timothy doesn't understand how to do this task.",
+        "keyword": "CLUE",
+        "incomplete_phrase": "Timothy ... to do this task.",
+        "correct_answer": "has no clue how",
+        "acceptable_answers": [
+          "has no clue how"
+        ],
+        "explanation": "A simple paraphrase is needed here. If you have no clue how to do something, it means you have no idea about it or how it works.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 301,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 1,
+        "page": 1,
+        "exercise_number": 2,
+        "sentence_given": "I will come to the party, I promise!",
+        "keyword": "WOULD",
+        "incomplete_phrase": "He said that ... the party.",
+        "correct_answer": "he would come to",
+        "acceptable_answers": [
+          "he would come to"
+        ],
+        "explanation": "An example of reported speech with all the necessary transformations. Note that in different cases of reported speech you will need to change tense, prepositions and modal verbs.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 302,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 1,
+        "page": 1,
+        "exercise_number": 3,
+        "sentence_given": "Having run for ten minutes straight, I had difficulties breathing.",
+        "keyword": "BREATH",
+        "incomplete_phrase": "I was ... I had been running for ten minutes straight.",
+        "correct_answer": "out of breath because",
+        "acceptable_answers": [
+          "out of breath because"
+        ],
+        "explanation": "To be out of breath means to have difficulty breathing because of physical exertion. Be aware of the differences in spelling: the verb is \"to breathe\", whereas the noun is \"breath\".",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 303,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 1,
+        "page": 1,
+        "exercise_number": 4,
+        "sentence_given": "Working is much less tiring than simply doing nothing.",
+        "keyword": "MORE",
+        "incomplete_phrase": "Simply doing nothing is ... working.",
+        "correct_answer": "much more tiring than",
+        "acceptable_answers": [
+          "much more tiring than"
+        ],
+        "explanation": "'Way more tiring' is an answer that would get you 1 point instead of 2 in the exam. That is because you are discouraged from introducing any additional changes unless they are necessary. 'Way' is more informal than 'much', even though it has the same meaning.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 304,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 1,
+        "page": 1,
+        "exercise_number": 5,
+        "sentence_given": "I don't think it is going to rain today.",
+        "keyword": "UNLIKELY",
+        "incomplete_phrase": "I think ... today.",
+        "correct_answer": "rain is unlikely",
+        "acceptable_answers": [
+          "rain is unlikely",
+          "rain is unlikely to fall"
+        ],
+        "explanation": "The word 'fall' is optional here as it does not add anything to the sentence, however its addition does not change the meaning in a negative way either. Keep in mind that any transformation in FCE Use of English 4 has to be justified.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 305,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 1,
+        "page": 1,
+        "exercise_number": 6,
+        "sentence_given": "I missed the meeting because my car broke down.",
+        "keyword": "BROKEN",
+        "incomplete_phrase": "Had my car ... not have missed the meeting.",
+        "correct_answer": "not broken down i would",
+        "acceptable_answers": [
+          "not broken down i would"
+        ],
+        "explanation": "A case of Third Conditional sentence is present here - an unreal result of an action, that didn't take place. The usual structure is If + Past Perfect in the condition part and Present Perfect in the result part. Remember that with the conditionals you never use \"if\" and \"will/would\" in the same part of the sentence.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 306,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 1,
+        "page": 1,
+        "exercise_number": 7,
+        "sentence_given": "Our manager told me that quitting is not a good idea.",
+        "keyword": "DISCOURAGED",
+        "incomplete_phrase": "I was ... our manager.",
+        "correct_answer": "discouraged from quitting by",
+        "acceptable_answers": [
+          "discouraged from quitting by"
+        ],
+        "explanation": "An important thing to keep in mind is the verb pattern - to discourage somebody from doing something. Only the gerund should be used after this particular structure. Knowing verb patterns helps with this part of the exam considerably.",
+        "is_locked": true,
+        "verified": true
+      },
+      {
+        "id": 307,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 1,
+        "page": 1,
+        "exercise_number": 8,
+        "sentence_given": "The police are interrogating the suspect now.",
+        "keyword": "INTERROGATED",
+        "incomplete_phrase": "The suspect ... the police now.",
+        "correct_answer": "is being interrogated by",
+        "acceptable_answers": [
+          "is being interrogated by"
+        ],
+        "explanation": "A past continuous passive structure is required to make the transformation. Failing to use the continuous form will mean that you only get 1 out of the two points possible for this task.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 308,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 1,
+        "page": 1,
+        "exercise_number": 9,
+        "sentence_given": "This weather is very fitting for a picnic.",
+        "keyword": "SUCH",
+        "incomplete_phrase": "This ... for a picnic.",
+        "correct_answer": "is such fitting weather",
+        "acceptable_answers": [
+          "is such fitting weather"
+        ],
+        "explanation": "An important note to make is that 'weather' is uncountable and doesn't require an article, even despite taking an adjective 'fitting' here. This is a trap as most students are used to the structure 'such a …' and are tempted to use it without thinking about the purpose of the indefinite article.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 309,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 1,
+        "page": 1,
+        "exercise_number": 10,
+        "sentence_given": "Dereck managed to avoid going to prison for the crime.",
+        "keyword": "AWAY",
+        "incomplete_phrase": "Dereck ... the crime.",
+        "correct_answer": "got away with",
+        "acceptable_answers": [
+          "got away with",
+          "got away with doing",
+          "got away with committing",
+          "got away with doing/committing"
+        ],
+        "explanation": "If you get away with something, you go unpunished for it. Here, the test-taker gets some leeway with the choice of words, the last part can be omitted altogether without affecting the meaning of the sentence.",
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "ENG Exam - Test 2",
+    "test": 2,
+    "book": "ENG Exam",
+    "exercises": [
+      {
+        "id": 310,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 2,
+        "page": 2,
+        "exercise_number": 1,
+        "sentence_given": "They are blaming me for their own mistakes.",
+        "keyword": "ACCOUNTABLE",
+        "incomplete_phrase": "They are ... their own mistakes.",
+        "correct_answer": "holding me accountable for",
+        "acceptable_answers": [
+          "holding me accountable for"
+        ],
+        "explanation": "To hold somebody accountable for something is to make them responsible for it. It is chiefly used in the negative meaning, e.g. somebody making a mistake and having to answer for it. 'To make somebody accountable' is not a collocation and should not be given as the answer.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 311,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 2,
+        "page": 2,
+        "exercise_number": 2,
+        "sentence_given": "Waking up early hardly improved her productivity.",
+        "keyword": "MUCH",
+        "incomplete_phrase": "Waking up early ... to her productivity.",
+        "correct_answer": "did not do much good",
+        "acceptable_answers": [
+          "did not do much good",
+          "didn",
+          "did not do much good."
+        ],
+        "explanation": "'Hardly improved' in this context means that the improvement wasn't very big or noticeable. Therefore, we need to use 'much' achieve the same effect. Omitting the word 'good' changes the meaning considerably - it means that almost no effect was made, neither positive nor negative.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 312,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 2,
+        "page": 2,
+        "exercise_number": 3,
+        "sentence_given": "They are not in the mood for swimming right now.",
+        "keyword": "FEEL",
+        "incomplete_phrase": "They ... right now.",
+        "correct_answer": "do not feel like swimming",
+        "acceptable_answers": [
+          "do not feel like swimming",
+          "don"
+        ],
+        "explanation": "To feel reluctant or unwilling to do something. Note the gerund form in this phrase.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 313,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 2,
+        "page": 2,
+        "exercise_number": 4,
+        "sentence_given": "My uncle holds that I should not agree to this deal.",
+        "keyword": "PULL",
+        "incomplete_phrase": "I should ... deal, according to my uncle.",
+        "correct_answer": "pull out of this",
+        "acceptable_answers": [
+          "pull out of this"
+        ],
+        "explanation": "A more informal phrasal verbs, 'to pull out of something' is used figuratively to mean to stop being a part of something like a business deal or a project.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 314,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 2,
+        "page": 2,
+        "exercise_number": 5,
+        "sentence_given": "I believe that you should continue studying at university.",
+        "keyword": "MIND",
+        "incomplete_phrase": "To ... stop studying at university.",
+        "correct_answer": "my mind you should not",
+        "acceptable_answers": [
+          "my mind you should not",
+          "my mind you shouldn"
+        ],
+        "explanation": "The phrase 'to my mind' is a common way to paraphrase 'in my opinion', 'I think' or 'I believe'. An important point - you can use both 'should not' and 'shouldn't', however both would count as two words. In your exam paper, I would advise using the full form.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 315,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 2,
+        "page": 2,
+        "exercise_number": 6,
+        "sentence_given": "The trip was much better than they had expected.",
+        "keyword": "NEARLY",
+        "incomplete_phrase": "The trip ... as they had expected.",
+        "correct_answer": "was not nearly as bad",
+        "acceptable_answers": [
+          "was not nearly as bad",
+          "wasn"
+        ],
+        "explanation": "A comparative structure 'as … as ...' is used instead of the original 'much better than'. The negative form here is dictated by 'nearly', as it is only used in the negative in a structure like this one.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 316,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 2,
+        "page": 2,
+        "exercise_number": 7,
+        "sentence_given": "Students must attend all classes on time.",
+        "keyword": "REQUIRED",
+        "incomplete_phrase": "Students ... all classes on time.",
+        "correct_answer": "are required to attend",
+        "acceptable_answers": [
+          "are required to attend"
+        ],
+        "explanation": "We use a straightforward active to passive voice transformation. Make sure to keep the tense consistent with the original sentence.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 317,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 2,
+        "page": 2,
+        "exercise_number": 8,
+        "sentence_given": "They say that success comes to those who work for it.",
+        "keyword": "BELIEF",
+        "incomplete_phrase": "There ... success comes to those who work for it.",
+        "correct_answer": "exists a belief that",
+        "acceptable_answers": [
+          "exists a belief that",
+          "is a belief that",
+          "is/exists a belief that"
+        ],
+        "explanation": "Remember that 'belief' is the noun, whereas 'believe' is the verb form - an easy mistake to make that could ruin the transformation.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 318,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 2,
+        "page": 2,
+        "exercise_number": 9,
+        "sentence_given": "During my stay in Canada I met some old friends.",
+        "keyword": "ACROSS",
+        "incomplete_phrase": "I ... during my stay in Canada.",
+        "correct_answer": "came across some old friends",
+        "acceptable_answers": [
+          "came across some old friends"
+        ],
+        "explanation": "A phrasal verb 'to come across' means to meet somebody, especially if that was not planned or intentional.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 319,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 2,
+        "page": 2,
+        "exercise_number": 10,
+        "sentence_given": "I had to run after the bus not to miss it.",
+        "keyword": "ORDER",
+        "incomplete_phrase": "In ... I had to run after it.",
+        "correct_answer": "order to catch the bus",
+        "acceptable_answers": [
+          "order to catch the bus"
+        ],
+        "explanation": "Keep in mind the five word limit in the gap - that is why 'in order not to miss the bus' is wrong - it goes over the limit.",
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "ENG Exam - Test 3",
+    "test": 3,
+    "book": "ENG Exam",
+    "exercises": [
+      {
+        "id": 320,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 3,
+        "page": 3,
+        "exercise_number": 1,
+        "sentence_given": "After you wash the dishes you should rinse them thoroughly.",
+        "keyword": "REQUIRE",
+        "incomplete_phrase": "Dishes ... after washing.",
+        "correct_answer": "require a through rinse",
+        "acceptable_answers": [
+          "require a through rinse",
+          "require thorough rinsing",
+          "require a through rinse/require thorough rinsing"
+        ],
+        "explanation": "In the case of 'rinse' we need an indefinite article as the noun is in the singular. However, in the second case we refer to the activity in general, so the gerund 'rinsing' requires no indefinite article. 'Require to be rinsed' is not a correct form and shouldn't be used.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 321,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 3,
+        "page": 3,
+        "exercise_number": 2,
+        "sentence_given": "The building got demolished because of its poor state.",
+        "keyword": "WHY",
+        "incomplete_phrase": "The ... was its poor state.",
+        "correct_answer": "reason why the building was",
+        "acceptable_answers": [
+          "reason why the building was",
+          "reason why the building got",
+          "reason why the building was/got"
+        ],
+        "explanation": "Both phrases do not alter the original meaning of change, at the same time making the necessary switch to passive voice.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 322,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 3,
+        "page": 3,
+        "exercise_number": 3,
+        "sentence_given": "There was no connection between her mood and the weather.",
+        "keyword": "NOTHING",
+        "incomplete_phrase": "Her mood ... the weather.",
+        "correct_answer": "had nothing to do with",
+        "acceptable_answers": [
+          "had nothing to do with"
+        ],
+        "explanation": "A good phrase to show connection between things. Keep in mind that the tense has to be consistent with the original sentence - changing the meaning slightly, keeping the grammar and the message correct will mean you get 1 of the 2 possible points for the task.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 323,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 3,
+        "page": 3,
+        "exercise_number": 4,
+        "sentence_given": "Michael told me that we should talk before the meeting.",
+        "keyword": "WORD",
+        "incomplete_phrase": "Michael told me ... before the meeting..",
+        "correct_answer": "we should have a word",
+        "acceptable_answers": [
+          "we should have a word"
+        ],
+        "explanation": "To have a word means to discuss something, to have a conversation. Note that 'we need to have a word' has the same meaning, but exceeds the limit of five words dictated by the task.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 324,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 3,
+        "page": 3,
+        "exercise_number": 5,
+        "sentence_given": "I need somebody to fix my car before we can leave.",
+        "keyword": "FIXED",
+        "incomplete_phrase": "I need ... before we can leave.",
+        "correct_answer": "to have my car fixed",
+        "acceptable_answers": [
+          "to have my car fixed"
+        ],
+        "explanation": "A structure that shows that someone else does the work for you or provides you with a service. \"I need to fix my car\" is incorrect as it would imply that you do the work yourself, which is clearly not the case in the original sentence.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 325,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 3,
+        "page": 3,
+        "exercise_number": 6,
+        "sentence_given": "Bob and I like the same movies.",
+        "keyword": "TASTE",
+        "incomplete_phrase": "Bob has ... I do.",
+        "correct_answer": "the same taste in movies",
+        "acceptable_answers": [
+          "the same taste in movies",
+          "the same taste in movies as"
+        ],
+        "explanation": "The idea of \"taste\" here is about preferences when it comes to something - what one likes and dislikes. Using 'similar' instead of 'same' is not recommended as the first word does not mean that you like exactly the same movies, but movies that are like those.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 326,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 3,
+        "page": 3,
+        "exercise_number": 7,
+        "sentence_given": "I made a sandwich for you to make you feel better.",
+        "keyword": "UP",
+        "incomplete_phrase": "To ... you a sandwich.",
+        "correct_answer": "сheer you up i made",
+        "acceptable_answers": [
+          "сheer you up i made"
+        ],
+        "explanation": "When we cheer somebody up, we try to improve their mood or try to make them feel better about themselves, especially in a bad situation or circumstances.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 327,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 3,
+        "page": 3,
+        "exercise_number": 8,
+        "sentence_given": "We won despite the fact the other team was much stronger.",
+        "keyword": "EVEN",
+        "incomplete_phrase": "They ... was much weaker.",
+        "correct_answer": "lost even though our team",
+        "acceptable_answers": [
+          "lost even though our team"
+        ],
+        "explanation": "\"They\" in the transformed sentence clearly points to the other team. \"Even though\" is a contrasting structure similar to \"in spite of\" and \"despite\".",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 328,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 3,
+        "page": 3,
+        "exercise_number": 9,
+        "sentence_given": "I didn't expect her to win the competition.",
+        "keyword": "CAME",
+        "incomplete_phrase": "Her victory ... as a surprise to me.",
+        "correct_answer": "in the competition came",
+        "acceptable_answers": [
+          "in the competition came"
+        ],
+        "explanation": "One part of \"come as a surprise\" is already given in the second half of the transformed sentence, so the rest shouldn't be difficult if you are familiar with the phrase.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 329,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 3,
+        "page": 3,
+        "exercise_number": 10,
+        "sentence_given": "I can't see why we shouldn't trust Richard's judgment.",
+        "keyword": "REASON",
+        "incomplete_phrase": "There ... not to trust Richard's judgment.",
+        "correct_answer": "is no reason for us",
+        "acceptable_answers": [
+          "is no reason for us"
+        ],
+        "explanation": "Make sure to add \"for us\" as it is a part of the original sentence, otherwise you will likely lose one of the two points for this sentence.",
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "ENG Exam - Test 4",
+    "test": 4,
+    "book": "ENG Exam",
+    "exercises": [
+      {
+        "id": 330,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 4,
+        "page": 4,
+        "exercise_number": 1,
+        "sentence_given": "I wish I went to your party",
+        "keyword": "REGRET",
+        "incomplete_phrase": "I ... to your party.",
+        "correct_answer": "regret not going",
+        "acceptable_answers": [
+          "regret not going",
+          "regret not coming",
+          "Regret not going/coming"
+        ],
+        "explanation": "Verb pattern of regret requires an -ing form of the verb that follows. Giving the answer 'not attending your party' is not recommended as it introduces a more formal language structure. This would normally give you only 1 of the 2 possible points.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 331,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 4,
+        "page": 4,
+        "exercise_number": 2,
+        "sentence_given": "\"How much money do they pay you\" Michael asked me.",
+        "keyword": "WANTED",
+        "incomplete_phrase": "Michael ... they paid me.",
+        "correct_answer": "wanted to know how much",
+        "acceptable_answers": [
+          "wanted to know how much"
+        ],
+        "explanation": "Present Simple to Past Simple transformation in the reported speech is already done for you here - in the key word. Do not be tempted to include 'money' at the end, as it would break the word limit of 5 words in the answer.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 332,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 4,
+        "page": 4,
+        "exercise_number": 3,
+        "sentence_given": "She doesn't usually come so early.",
+        "keyword": "UNCOMMON",
+        "incomplete_phrase": "It ... come so early.",
+        "correct_answer": "is uncommon for her to",
+        "acceptable_answers": [
+          "is uncommon for her to"
+        ],
+        "explanation": "Getting the right preposition is probably the only difficult part here. 'Uncommon with' is incorrect.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 333,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 4,
+        "page": 4,
+        "exercise_number": 4,
+        "sentence_given": "Teachers see Johan as the brightest student in the class.",
+        "keyword": "CONSIDERED",
+        "incomplete_phrase": "Among teachers, Johan ... the brightest student in the class.",
+        "correct_answer": "is considered as",
+        "acceptable_answers": [
+          "is considered as",
+          "is considered to be",
+          "Is considered as/is considered to be"
+        ],
+        "explanation": "Note that 'to consider as' is a much less used variant, but it is still acceptable.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 334,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 4,
+        "page": 4,
+        "exercise_number": 5,
+        "sentence_given": "The current policy is very likely to change.",
+        "keyword": "CHANCES",
+        "incomplete_phrase": "There are ... the current policy will change.",
+        "correct_answer": "high chances/all the chances that",
+        "acceptable_answers": [
+          "high chances/all the chances that",
+          "all the chances that"
+        ],
+        "explanation": "The phrase 'All the chances' is less known, but it fits the context just as well as the more common 'high chances'. Note the definite article in 'all the chances' - it is an integral part of this set phrase and should not be removed.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 335,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 4,
+        "page": 4,
+        "exercise_number": 6,
+        "sentence_given": "I can't wait for the summer break.",
+        "keyword": "FORWARD",
+        "incomplete_phrase": "I ... the summer break.",
+        "correct_answer": "am looking forward to",
+        "acceptable_answers": [
+          "am looking forward to"
+        ],
+        "explanation": "If you look forward to something, it means you want it to happen as soon as possible because of how interesting, attractive or enjoyable it is going to be.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 336,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 4,
+        "page": 4,
+        "exercise_number": 7,
+        "sentence_given": "When I was younger, I used to spend more time outdoors.",
+        "keyword": "WOULD",
+        "incomplete_phrase": "I ... when I was younger.",
+        "correct_answer": "would spend more time outdoors",
+        "acceptable_answers": [
+          "would spend more time outdoors"
+        ],
+        "explanation": "Both \"would\" and \"used to\" are ways of expressing something that happened in the past, but does not happen now. Remember that \"would\" is only used for past actions, whereas \"used to\" is both for past actions as well as past states.",
+        "is_locked": true,
+        "verified": true
+      },
+      {
+        "id": 337,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 4,
+        "page": 4,
+        "exercise_number": 8,
+        "sentence_given": "She has no plans to join the competition this year.",
+        "keyword": "PARTICIPATING",
+        "incomplete_phrase": "She ... competition this year.",
+        "correct_answer": "is not participating in the",
+        "acceptable_answers": [
+          "is not participating in the"
+        ],
+        "explanation": "Answering 'will not be participating in the' is incorrect for the reason of the 5-word limit.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 338,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 4,
+        "page": 4,
+        "exercise_number": 9,
+        "sentence_given": "I support the idea that we join forces in this situation.",
+        "keyword": "FAVOUR",
+        "incomplete_phrase": "I ... forces in this situation.",
+        "correct_answer": "am in favour of joining",
+        "acceptable_answers": [
+          "am in favour of joining"
+        ],
+        "explanation": "To be in favour of doing something; the -ing form is dictated by the phrase 'to be in favour' here.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 339,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 4,
+        "page": 4,
+        "exercise_number": 10,
+        "sentence_given": "You don't have to do your homework today.",
+        "keyword": "NEED",
+        "incomplete_phrase": "There ... your homework today.",
+        "correct_answer": "is no need to do",
+        "acceptable_answers": [
+          "is no need to do"
+        ],
+        "explanation": "It is not necessary to do it. The trick is to understand you can't just replace 'have' with 'need' and call it a day - naturally, more transformation is needed here.",
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "ENG Exam - Test 5",
+    "test": 5,
+    "book": "ENG Exam",
+    "exercises": [
+      {
+        "id": 340,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 5,
+        "page": 5,
+        "exercise_number": 1,
+        "sentence_given": "Sarah is not going to help you with this matter.",
+        "keyword": "INTENTION",
+        "incomplete_phrase": "Sarah ... you with this matter.",
+        "correct_answer": "has no intention of helping",
+        "acceptable_answers": [
+          "has no intention of helping"
+        ],
+        "explanation": "The negative form is formed with the help of adding 'no' to the sentence. Note that the phrase requires the usage of the -ing form of 'helping'.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 341,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 5,
+        "page": 5,
+        "exercise_number": 2,
+        "sentence_given": "Many colleagues have a lot of respect for him because of his professionalism.",
+        "keyword": "LOOK",
+        "incomplete_phrase": "Many colleagues ... because of his professionalism.",
+        "correct_answer": "look up to him",
+        "acceptable_answers": [
+          "look up to him"
+        ],
+        "explanation": "A phrasal verb that means that somebody respects somebody or holds them in high regard.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 342,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 5,
+        "page": 5,
+        "exercise_number": 3,
+        "sentence_given": "I am just browsing your wares right now.",
+        "keyword": "LOOK",
+        "incomplete_phrase": "I am just ... your wares right now.",
+        "correct_answer": "having a look",
+        "acceptable_answers": [
+          "having a look",
+          "taking a look",
+          "Taking/having a look"
+        ],
+        "explanation": "The original sentence might be a bit confusing - to browse means to look through something, such as things at a shop. The word 'internet browser' should give you an idea of other usages for it. Both 'take a look' and 'have a look' fit well here.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 343,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 5,
+        "page": 5,
+        "exercise_number": 4,
+        "sentence_given": "\"Get a driving licence as soon as you can\" my father told me.",
+        "keyword": "URGED",
+        "incomplete_phrase": "My father ... a driving licence.",
+        "correct_answer": "urged me to get",
+        "acceptable_answers": [
+          "urged me to get"
+        ],
+        "explanation": "The word 'urge' already implies that something has to be done as soon as possible, that is why the original phrasing can be made shorter.",
+        "is_locked": true,
+        "verified": true
+      },
+      {
+        "id": 344,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 5,
+        "page": 5,
+        "exercise_number": 5,
+        "sentence_given": "Linda criticised me for failing the exam.",
+        "keyword": "TOLD",
+        "incomplete_phrase": "Linda ... for failing the exam.",
+        "correct_answer": "told me off",
+        "acceptable_answers": [
+          "told me off"
+        ],
+        "explanation": "To tell somebody off means to reprimand or criticise somebody for doing something. Good knowledge of phrasal verbs is essential to getting a high score in Part 4 of FCE Use of English.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 345,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 5,
+        "page": 5,
+        "exercise_number": 6,
+        "sentence_given": "You should know all the exits in case there is a fire.",
+        "keyword": "EVENT",
+        "incomplete_phrase": "You should know all the exits ... a fire.",
+        "correct_answer": "in the event of",
+        "acceptable_answers": [
+          "in the event of"
+        ],
+        "explanation": "If (or when) something happens or takes place.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 346,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 5,
+        "page": 5,
+        "exercise_number": 7,
+        "sentence_given": "I wasn't planning to go on a package tour for our vacation.",
+        "keyword": "MIND",
+        "incomplete_phrase": "Package tour was not ... for our vacation.",
+        "correct_answer": "what i had in mind",
+        "acceptable_answers": [
+          "what i had in mind"
+        ],
+        "explanation": "Here, 'to have something in mind' means to have some plan or opinion regarding something. Don't forget that Past Simple is needed to maintain tense consistency with the original sentence.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 347,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 5,
+        "page": 5,
+        "exercise_number": 8,
+        "sentence_given": "You have to clean these shoes well before you can wear them.",
+        "keyword": "NEED",
+        "incomplete_phrase": "These shoes are ... before you can wear them.",
+        "correct_answer": "in need of thorough cleaning",
+        "acceptable_answers": [
+          "in need of thorough cleaning",
+          "in need of good cleaning",
+          "In need of good/thorough cleaning"
+        ],
+        "explanation": "The option of 'thorough' is included as an answer because 'thorough cleaning' is a well-established collocation.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 348,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 5,
+        "page": 5,
+        "exercise_number": 9,
+        "sentence_given": "I used to cycle much more often when I was younger.",
+        "keyword": "NEARLY",
+        "incomplete_phrase": "I don't ... I did when I was younger.",
+        "correct_answer": "cycle nearly as often as",
+        "acceptable_answers": [
+          "cycle nearly as often as",
+          "cycle nearly as much as",
+          "Cycle nearly as much/often as"
+        ],
+        "explanation": "We introduce a comparative structure to draw parallels between what happens now and how it was in the past.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 349,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 5,
+        "page": 5,
+        "exercise_number": 10,
+        "sentence_given": "Meteorologists say that the weather is going to improve.",
+        "keyword": "EXPECTED",
+        "incomplete_phrase": "The weather ... according to meteorologists.",
+        "correct_answer": "is expected to improve",
+        "acceptable_answers": [
+          "is expected to improve"
+        ],
+        "explanation": "A simple active-to-passive voice transformation that is quite common for FCE Use of English Part 4.",
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "ENG Exam - Test 6",
+    "test": 6,
+    "book": "ENG Exam",
+    "exercises": [
+      {
+        "id": 350,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 6,
+        "page": 6,
+        "exercise_number": 1,
+        "sentence_given": "I am going to pass the exams as long as I study hard for them.",
+        "keyword": "PROVIDED",
+        "incomplete_phrase": "I am going to pass the exams ... for them.",
+        "correct_answer": "provided that i study hard",
+        "acceptable_answers": [
+          "provided that i study hard",
+          "provided i study hard"
+        ],
+        "explanation": "The phrase 'provided that' is basically a fancy replacement for 'if' - in other words, a way to introduce a conditional sentence. 'That' is optional and can be omitted here.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 351,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 6,
+        "page": 6,
+        "exercise_number": 2,
+        "sentence_given": "We received a hateful letter as an answer to our policy.",
+        "keyword": "RESPONSE",
+        "incomplete_phrase": "The ... to our policy was a hateful letter.",
+        "correct_answer": "response that we received",
+        "acceptable_answers": [
+          "response that we received"
+        ],
+        "explanation": "The difficulty here might be understanding whether 'response' should be a noun or a verb. Stay focused spell 'received' correctly - it is one of the most often misspelled words. 'That we' should be added to keep the original meaning intact, even though grammatically it is not necessary.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 352,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 6,
+        "page": 6,
+        "exercise_number": 3,
+        "sentence_given": "Angela asked us to talk about something else.",
+        "keyword": "SUBJECT",
+        "incomplete_phrase": "Angela wanted to ... to a different one.",
+        "correct_answer": "change the subject",
+        "acceptable_answers": [
+          "change the subject"
+        ],
+        "explanation": "To change the topic of conversation, to talk about something else.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 353,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 6,
+        "page": 6,
+        "exercise_number": 4,
+        "sentence_given": "Richard said that it would be great if we came to meet him at the airport.",
+        "keyword": "APPRECIATE",
+        "incomplete_phrase": "Richard said he ... came to meet him at the airport.",
+        "correct_answer": "would appreciate it if we",
+        "acceptable_answers": [
+          "would appreciate it if we",
+          "would appreciate if we"
+        ],
+        "explanation": "An unusual transformation where we let go of the adjective and use a verb to convey a similar idea. 'It' is optional, given the 5 word limit.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 354,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 6,
+        "page": 6,
+        "exercise_number": 5,
+        "sentence_given": "This is the tool he invented before leaving the country.",
+        "keyword": "CAME",
+        "incomplete_phrase": "This tool is ... before leaving the country.",
+        "correct_answer": "what he came up with",
+        "acceptable_answers": [
+          "what he came up with"
+        ],
+        "explanation": "A phrasal verb 'to come up with something' that means 'to invent, to create something original'. One wrong answer is 'what came to his mind' - it fits the word limit, but it doesn't say whether he actually created it, he could have just thought about it.",
+        "is_locked": true,
+        "verified": true
+      },
+      {
+        "id": 355,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 6,
+        "page": 6,
+        "exercise_number": 6,
+        "sentence_given": "I can't understand his ideas at all.",
+        "keyword": "SENSE",
+        "incomplete_phrase": "His ideas ... at all.",
+        "correct_answer": "make no sense to me",
+        "acceptable_answers": [
+          "make no sense to me"
+        ],
+        "explanation": "If something makes no (or little) sense to you, it means you don't understand it or have difficulty understanding it. Note that if we used 'little' it would alter the meaning slightly, taking one of the two possible points for this task.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 356,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 6,
+        "page": 6,
+        "exercise_number": 7,
+        "sentence_given": "In addition to your poor academic record you keep skipping classes.",
+        "keyword": "MENTION",
+        "incomplete_phrase": "You keep skipping classes, ... poor academic record.",
+        "correct_answer": "not to mention your",
+        "acceptable_answers": [
+          "not to mention your"
+        ],
+        "explanation": "A structure that can be used to introduce some additional idea, especially one that is negative and reinforces the negative aspect of the situation.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 357,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 6,
+        "page": 6,
+        "exercise_number": 8,
+        "sentence_given": "I could really use an hour of sleep now.",
+        "keyword": "DO",
+        "incomplete_phrase": "I could ... an hour of sleep now.",
+        "correct_answer": "really do with",
+        "acceptable_answers": [
+          "really do with"
+        ],
+        "explanation": "If you could do with something, it means you want or need it very much. 'Really' has to be included to maintain the original meaning and get both points for the task.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 358,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 6,
+        "page": 6,
+        "exercise_number": 9,
+        "sentence_given": "I tend to trust people of his social status.",
+        "keyword": "INCLINED",
+        "incomplete_phrase": "I ... people of his social status.",
+        "correct_answer": "am inclined to trust",
+        "acceptable_answers": [
+          "am inclined to trust"
+        ],
+        "explanation": "A very simple synonymisation. If you are inclined to do something, it means you have a tendency to do it.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 359,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 6,
+        "page": 6,
+        "exercise_number": 10,
+        "sentence_given": "You can spend the night here if you promise to keep it down.",
+        "keyword": "CONDITION",
+        "incomplete_phrase": "You can spend the night here ... keep it down.",
+        "correct_answer": "on condition that you",
+        "acceptable_answers": [
+          "on condition that you"
+        ],
+        "explanation": "Another structure commonly used in this part of FCE Use of English, 'on condition that' does exactly what it says - introduces a condition, e.g. \"You will get the money on condition that you promise to spend it wisely\".",
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "ENG Exam - Test 7",
+    "test": 7,
+    "book": "ENG Exam",
+    "exercises": [
+      {
+        "id": 360,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 7,
+        "page": 7,
+        "exercise_number": 1,
+        "sentence_given": "Julia asked me to help her renovate the apartment.",
+        "keyword": "HAND",
+        "incomplete_phrase": "Julia asked me to ... renovating the apartment.",
+        "correct_answer": "give her a hand",
+        "acceptable_answers": [
+          "give her a hand"
+        ],
+        "explanation": "While 'to offer a hand' is a well-known phrase, using it in this context doesn't make sense as you cannot ask somebody to offer you something.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 361,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 7,
+        "page": 7,
+        "exercise_number": 2,
+        "sentence_given": "I don't think you should take part in that risky venture.",
+        "keyword": "WERE",
+        "incomplete_phrase": "If ... not take part in that risky venture.",
+        "correct_answer": "i were you i would",
+        "acceptable_answers": [
+          "i were you i would"
+        ],
+        "explanation": "Here, we are looking a structure of an imaginary, unreal situation. The plural 'were' is often used to convey this idea, e.g. 'If we were to decide, we would make/would have made a better choice'.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 362,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 7,
+        "page": 7,
+        "exercise_number": 3,
+        "sentence_given": "Our senior manager appointed me to this position.",
+        "keyword": "BY",
+        "incomplete_phrase": "I was ... our senior manager.",
+        "correct_answer": "appointed to this position by",
+        "acceptable_answers": [
+          "appointed to this position by"
+        ],
+        "explanation": "A regular active-to-passive voice transformation. Be aware that 'appoint as' is used in a context where the title or the position is stated explicitly, e.g. 'Judy was appointed as the head of our department'.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 363,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 7,
+        "page": 7,
+        "exercise_number": 4,
+        "sentence_given": "I expected Helen to marry John.",
+        "keyword": "SURPRISE",
+        "incomplete_phrase": "Helen's decision to marry John ... to me.",
+        "correct_answer": "came as no surprise",
+        "acceptable_answers": [
+          "came as no surprise",
+          "was not a surprise",
+          "Was not a surprise/Came as no surprise"
+        ],
+        "explanation": "Answering 'Did not surprise' is incorrect as the last part of the sentence goes 'to me', so you are forced to use the keyword as a noun, not as a verb.",
+        "is_locked": true,
+        "verified": true
+      },
+      {
+        "id": 364,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 7,
+        "page": 7,
+        "exercise_number": 5,
+        "sentence_given": "\"Don't spend too much money on fast food\" my mother said.",
+        "keyword": "ADVISED",
+        "incomplete_phrase": "My mother ... spending too much money on fast food.",
+        "correct_answer": "advised against",
+        "acceptable_answers": [
+          "advised against",
+          "advised me against",
+          "advised me to avoid",
+          "advised to avoid",
+          "Advised me against/Advised me to avoid"
+        ],
+        "explanation": "Both options work well with the -ing form of 'spend' that comes right after the gap. 'To advise against' means to suggest that somebody shouldn't be doing something. Make sure to spell 'advise' correctly, as a very similar word 'advice' is a noun, whereas we are looking for a verb here.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 365,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 7,
+        "page": 7,
+        "exercise_number": 6,
+        "sentence_given": "How much time do you need to get to our place?",
+        "keyword": "TAKE",
+        "incomplete_phrase": "How long ... to get to our place?.",
+        "correct_answer": "will it take you",
+        "acceptable_answers": [
+          "will it take you"
+        ],
+        "explanation": "The phrase 'take you' refers to how much time somebody needs for something, e.g. 'it didn't take me long to realise I wasn't invited to the party'.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 366,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 7,
+        "page": 7,
+        "exercise_number": 7,
+        "sentence_given": "You should fix your bicycle before going on this long trip.",
+        "keyword": "BETTER",
+        "incomplete_phrase": "You ... your bicycle before going on this long trip.",
+        "correct_answer": "had better fix",
+        "acceptable_answers": [
+          "had better fix"
+        ],
+        "explanation": "Note that this is not a case of Past Perfect tense, even though it might look like one. Keeping this in mind, we do not need to put the verb in the Past Participle form.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 367,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 7,
+        "page": 7,
+        "exercise_number": 8,
+        "sentence_given": "I am still struggling with the new accounting system.",
+        "keyword": "USED",
+        "incomplete_phrase": "I still ... the new accounting system.",
+        "correct_answer": "did not get used to",
+        "acceptable_answers": [
+          "did not get used to",
+          "have not got used to",
+          "Did not get/Have not got used to"
+        ],
+        "explanation": "While 'still' normally accompanies a Present Perfect form ('still haven't got'), it is acceptable to use Past Simple here ('still did not get') as the original sentence does not explicitly limit us in the choice of tense. Note that 'I still am not used...' is incorrect as 'still' should be put after the auxiliary 'am'.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 368,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 7,
+        "page": 7,
+        "exercise_number": 9,
+        "sentence_given": "Why do you still have that old TV?",
+        "keyword": "RID",
+        "incomplete_phrase": "Why haven't ... that old TV yet?",
+        "correct_answer": "you got rid of",
+        "acceptable_answers": [
+          "you got rid of"
+        ],
+        "explanation": "Contrary to the previous sentence, our choice in this one is dictated by 'have' just before the gap. It forces us to stick to the Present Perfect form.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 369,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 7,
+        "page": 7,
+        "exercise_number": 10,
+        "sentence_given": "George has an annoying habit of taking things that do not belong to him.",
+        "keyword": "ALWAYS",
+        "incomplete_phrase": "George ... things that do not belong to him.",
+        "correct_answer": "is always taking",
+        "acceptable_answers": [
+          "is always taking"
+        ],
+        "explanation": "The biggest difficulty here is to understand that we have to use Present Continuous to express how annoyed we are with his habit. As a general rule, the structure 'always + -ing verb' is used to show that we dislike somebody's repeated action or manner of doing something.",
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "ENG Exam - Test 8",
+    "test": 8,
+    "book": "ENG Exam",
+    "exercises": [
+      {
+        "id": 370,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 8,
+        "page": 8,
+        "exercise_number": 1,
+        "sentence_given": "'Do your friends like this place?' asked the landlord.",
+        "keyword": "WANTED",
+        "incomplete_phrase": "The landlord ... liked that place.",
+        "correct_answer": "wanted to know if my friends",
+        "acceptable_answers": [
+          "wanted to know if my friends"
+        ],
+        "explanation": "Reported speech with a yes/no question (a question that can only receive 'yes' or 'no' as the answer). We introduce it with an 'if' structure. 'Wanted to ask' is incorrect, as the landlord clearly asked, not simply wanted to do so.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 371,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 8,
+        "page": 8,
+        "exercise_number": 2,
+        "sentence_given": "We are pretty similar in our food preferences.",
+        "keyword": "MUCH",
+        "incomplete_phrase": "There isn't ... food preferences.",
+        "correct_answer": "much difference in our",
+        "acceptable_answers": [
+          "much difference in our",
+          "much difference between our",
+          "Much difference between/in our"
+        ],
+        "explanation": "We are forced to use the opposite word (similarity-difference) because of the negative structure in the first part of the sentence. 'Difference between' and 'difference in' in this context are interchangeable, however, in certain context they can have different meaning. 'Difference in' refers to a particular aspect where things are not the same, whereas 'difference between' talks about a general dissimilarity.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 372,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 8,
+        "page": 8,
+        "exercise_number": 3,
+        "sentence_given": "We have almost no money left",
+        "keyword": "RUN",
+        "incomplete_phrase": "We have almost ... money.",
+        "correct_answer": "run out of",
+        "acceptable_answers": [
+          "run out of"
+        ],
+        "explanation": "A phrasal verbs which means that something such as money, patience or any other thing has ended or come to an end. Note the forms of the irregular verb 'to run' goes RUN-RAN-RUN.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 373,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 8,
+        "page": 8,
+        "exercise_number": 4,
+        "sentence_given": "The jury asked me to describe what happened that night.",
+        "keyword": "TOLD",
+        "incomplete_phrase": "I was ... to describe what happened that night.",
+        "correct_answer": "told by the jury",
+        "acceptable_answers": [
+          "told by the jury"
+        ],
+        "explanation": "We use a passive voice form and mention the agent (the jury), introducing it with 'by'.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 374,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 8,
+        "page": 8,
+        "exercise_number": 5,
+        "sentence_given": "To everyone's surprise, their new album was a great hit.",
+        "keyword": "EXPECTED",
+        "incomplete_phrase": "Nobody ... become a great hit.",
+        "correct_answer": "expected their new album would",
+        "acceptable_answers": [
+          "expected their new album would",
+          "expected their new album to",
+          "Expected their new album to/would"
+        ],
+        "explanation": "A paraphrased structure with some leeway in word choice at the end. Very often, the context in the second sentence forces you to approach the task with a paraphrase or a negative form.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 375,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 8,
+        "page": 8,
+        "exercise_number": 6,
+        "sentence_given": "The coach thinks he is not ready for the competition.",
+        "keyword": "FEEL",
+        "incomplete_phrase": "The coach ... is ready for the competition.",
+        "correct_answer": "does not feel he",
+        "acceptable_answers": [
+          "does not feel he",
+          "does not feel that he"
+        ],
+        "explanation": "The word 'feel' is used in the meaning 'have an opinion, believe'. 'That' is optional - note that sometimes the optional 'that' might exceed the word limit of 5 words. In a case like that, it obviously has to be omitted.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 376,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 8,
+        "page": 8,
+        "exercise_number": 7,
+        "sentence_given": "George promised he would handle the situation.",
+        "keyword": "WORD",
+        "incomplete_phrase": "George ... he would handle the situation.",
+        "correct_answer": "gave his word that",
+        "acceptable_answers": [
+          "gave his word that",
+          "gave his word"
+        ],
+        "explanation": "To give your word means to promise something. Another case with an omittable 'that'.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 377,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 8,
+        "page": 8,
+        "exercise_number": 8,
+        "sentence_given": "It took Jane two years to forget her boyfriend.",
+        "keyword": "OVER",
+        "incomplete_phrase": "It took Jane two years ... her boyfriend.",
+        "correct_answer": "to get over",
+        "acceptable_answers": [
+          "to get over"
+        ],
+        "explanation": "If you get over something, it means that you cope with or forget some unpleasant memory such as loss, breaking up and so on.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 378,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 8,
+        "page": 8,
+        "exercise_number": 9,
+        "sentence_given": "Do you want to go dancing or to the movies?",
+        "keyword": "RATHER",
+        "incomplete_phrase": "Would ... dancing or to the movies?",
+        "correct_answer": "you rather go",
+        "acceptable_answers": [
+          "you rather go"
+        ],
+        "explanation": "A 'would rather' structure, used to indicate one's preference or choice between several options. If you would rather do it, it means you want to do it more than something else.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 379,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 8,
+        "page": 8,
+        "exercise_number": 10,
+        "sentence_given": "The crime was prevented because the police arrived early enough.",
+        "keyword": "TIME",
+        "incomplete_phrase": "The police ... the crime.",
+        "correct_answer": "arrived in time to prevent",
+        "acceptable_answers": [
+          "arrived in time to prevent"
+        ],
+        "explanation": "Note the difference between 'in time' and 'on time'. 'In time' means soon enough, before it was too late. 'On time' means at some particular moment in time that was agreed upon, e.g. 'to arrive to the meeting on time' as opposed to 'to arrive in time to catch the last bus'.",
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "ENG Exam - Test 9",
+    "test": 9,
+    "book": "ENG Exam",
+    "exercises": [
+      {
+        "id": 380,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 9,
+        "page": 9,
+        "exercise_number": 1,
+        "sentence_given": "The celebration will be held inside the building of a local museum.",
+        "keyword": "PLACE",
+        "incomplete_phrase": "The celebration ... inside the building of a local museum.",
+        "correct_answer": "will be taking place",
+        "acceptable_answers": [
+          "will be taking place",
+          "will take place",
+          "Will take/Will be taking place"
+        ],
+        "explanation": "Both options stick to the general meaning of the original sentence. Note that 'will be taking' is a more formal way to convey the idea, and it emphasises the fact that the event has been planned in advance.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 381,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 9,
+        "page": 9,
+        "exercise_number": 2,
+        "sentence_given": "The rival team lost to us in the final round.",
+        "keyword": "BEAT",
+        "incomplete_phrase": "We ... in the final round.",
+        "correct_answer": "beat the rival team",
+        "acceptable_answers": [
+          "beat the rival team"
+        ],
+        "explanation": "'Beat' is an irregular verb that has both the first and second forms identical - the main challenge of this transformation.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 382,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 9,
+        "page": 9,
+        "exercise_number": 3,
+        "sentence_given": "The car was so expensive that we ended up not buying it.",
+        "keyword": "HIGH",
+        "incomplete_phrase": "The price of ... that we ended up not buying it.",
+        "correct_answer": "the car was so high",
+        "acceptable_answers": [
+          "the car was so high"
+        ],
+        "explanation": "We are looking for 'of the' structure here, as dictated by the first part of the transformed sentence. Be mindful not to answer 'was too high' as we are looking for a comparative structure to stick to the original meaning.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 383,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 9,
+        "page": 9,
+        "exercise_number": 4,
+        "sentence_given": "Judy always finds it easy to talk to people she doesn't know well.",
+        "keyword": "DIFFICULTY",
+        "incomplete_phrase": "Judy never ... to people she doesn't know well.",
+        "correct_answer": "has any difficulty talking",
+        "acceptable_answers": [
+          "has any difficulty talking"
+        ],
+        "explanation": "Do not use a double negative structure, e.g. 'Never has no difficulty' as grammatically it is incorrect, even though you can see it used in movies as a dialect.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 384,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 9,
+        "page": 9,
+        "exercise_number": 5,
+        "sentence_given": "The housemaid is going to vacuum the flat while we are out.",
+        "keyword": "HAVE",
+        "incomplete_phrase": "We are going to ... the housemaid while we are out.",
+        "correct_answer": "have the flat vacuumed by",
+        "acceptable_answers": [
+          "have the flat vacuumed by"
+        ],
+        "explanation": "The structure highlights the fact that somebody else is carrying out the action - the housemaid in this case.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 385,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 9,
+        "page": 9,
+        "exercise_number": 6,
+        "sentence_given": "There aren't many similarities between me and Josh.",
+        "keyword": "COMMON",
+        "incomplete_phrase": "Josh has ... with me.",
+        "correct_answer": "almost nothing in common",
+        "acceptable_answers": [
+          "almost nothing in common",
+          "very little in common",
+          "Very little / Almost nothing in common"
+        ],
+        "explanation": "A phrase 'to have in common' fits the idea of showing similarities (or lack of said similarities) between somebody or something.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 386,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 9,
+        "page": 9,
+        "exercise_number": 7,
+        "sentence_given": "I doubt Michael is brave enough to join the navy.",
+        "keyword": "THE",
+        "incomplete_phrase": "I believe ... to join the navy.",
+        "correct_answer": "michael lacks the bravery",
+        "acceptable_answers": [
+          "michael lacks the bravery"
+        ],
+        "explanation": "Answering 'Michael does not have the bravery' is grammatically acceptable, but it exceeds the imposed word limit. This limitation is often forgotten by the test-takers, so keep that factor in mind.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 387,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 9,
+        "page": 9,
+        "exercise_number": 8,
+        "sentence_given": "Nobody mentioned the problem during the meeting.",
+        "keyword": "BROUGHT",
+        "incomplete_phrase": "During the meeting ... the problem.",
+        "correct_answer": "nobody brought up",
+        "acceptable_answers": [
+          "nobody brought up"
+        ],
+        "explanation": "If you bring something up, you mention or discuss it. Be ready to see at least a couple phrasal verb transformation in your FCE Use of English Part 4 exam task.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 388,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 9,
+        "page": 9,
+        "exercise_number": 9,
+        "sentence_given": "\"Come to my place for dinner tonight\" he said.",
+        "keyword": "ROUND",
+        "incomplete_phrase": "He invited us ... dinner tonight.",
+        "correct_answer": "to come round for",
+        "acceptable_answers": [
+          "to come round for"
+        ],
+        "explanation": "To visit, especially for a particular occasion such as a meal or a celebration. Pay attention to the fact that despite using reported speech, we do not make the switch to the past tense - using 'invited' is enough in this case.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 389,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 9,
+        "page": 9,
+        "exercise_number": 10,
+        "sentence_given": "We had almost no chances of catching the train.",
+        "keyword": "HARDLY",
+        "incomplete_phrase": "We ... of catching the train.",
+        "correct_answer": "hardly had any chances",
+        "acceptable_answers": [
+          "hardly had any chances"
+        ],
+        "explanation": "The adverb 'hardly' introduces the negative aspect needed in the transformation, so 'any' has to included as well.",
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "ENG Exam - Test 10",
+    "test": 10,
+    "book": "ENG Exam",
+    "exercises": [
+      {
+        "id": 390,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 10,
+        "page": 10,
+        "exercise_number": 1,
+        "sentence_given": "I have last seen Simon a long time ago.",
+        "keyword": "AGES",
+        "incomplete_phrase": "It ... since I last saw Simon.",
+        "correct_answer": "has been ages",
+        "acceptable_answers": [
+          "has been ages"
+        ],
+        "explanation": "A set phrase with the meaning that a lot of time has passed since some event. Make sure to use Present Perfect, otherwise you might lose 1 point for introducing an unnecessary change in the meaning.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 391,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 10,
+        "page": 10,
+        "exercise_number": 2,
+        "sentence_given": "Nothing prevents us from going on a trip right now.",
+        "keyword": "WAY",
+        "incomplete_phrase": "Nothing ... us going on a trip right now.",
+        "correct_answer": "stands in the way of",
+        "acceptable_answers": [
+          "stands in the way of",
+          "is in the way of",
+          "Is/Stands in the way of"
+        ],
+        "explanation": "Another phrase, this time it means that something acts as an obstacle. Note that 'nothing' is singular, so the verb has to be in the singular form as well.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 392,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 10,
+        "page": 10,
+        "exercise_number": 3,
+        "sentence_given": "Kevin doesn't speak the local language too well.",
+        "keyword": "COMMAND",
+        "incomplete_phrase": "Kevin's ... is not too good.",
+        "correct_answer": "command of the local language",
+        "acceptable_answers": [
+          "command of the local language"
+        ],
+        "explanation": "As a learner and an exam-taker of FCE, you should be well familiar with 'command of language'. It means how skilled you are in a language.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 393,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 10,
+        "page": 10,
+        "exercise_number": 4,
+        "sentence_given": "Even though we were late to the party, we didn't miss much.",
+        "keyword": "SPITE",
+        "incomplete_phrase": "In ... to the party, we didn't miss much.",
+        "correct_answer": "spite of coming late",
+        "acceptable_answers": [
+          "spite of coming late",
+          "spite of being late",
+          "Spite of being/coming late"
+        ],
+        "explanation": "A structure to introduce contrast in the sentence with some freedom of choice.",
+        "is_locked": true,
+        "verified": true
+      },
+      {
+        "id": 394,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 10,
+        "page": 10,
+        "exercise_number": 5,
+        "sentence_given": "I train so much but I still feel anxious before every competition.",
+        "keyword": "MATTER",
+        "incomplete_phrase": "No ... I still fell anxious before every competition.",
+        "correct_answer": "matter how much i train",
+        "acceptable_answers": [
+          "matter how much i train"
+        ],
+        "explanation": "If something doesn't matter, then it makes no difference, it has no significant effect. It can also mean that it is not important (but not in the context of this sentence).",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 395,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 10,
+        "page": 10,
+        "exercise_number": 6,
+        "sentence_given": "They promised to pay us on time.",
+        "keyword": "PAID",
+        "incomplete_phrase": "We ... on time.",
+        "correct_answer": "were promised to get paid",
+        "acceptable_answers": [
+          "were promised to get paid",
+          "were promised to be paid",
+          "Were promised to be/get paid"
+        ],
+        "explanation": "We are switching from active voice in the original sentence to passive voice - a common transformation in FCE Use of English Part 4.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 396,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 10,
+        "page": 10,
+        "exercise_number": 7,
+        "sentence_given": "The only thing I want is to try this.",
+        "keyword": "GO",
+        "incomplete_phrase": "To have ... this is all I want.",
+        "correct_answer": "a go at",
+        "acceptable_answers": [
+          "a go at"
+        ],
+        "explanation": "If you have a go at something, you try to do it, you make an attempt to do it. Interestingly, 'to have a go at someone' means to blame or critisize them.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 397,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 10,
+        "page": 10,
+        "exercise_number": 8,
+        "sentence_given": "\"Call me when you get home\" said Melinda.",
+        "keyword": "MOMENT",
+        "incomplete_phrase": "Melinda asked me ... I got home.",
+        "correct_answer": "to call her the moment",
+        "acceptable_answers": [
+          "to call her the moment"
+        ],
+        "explanation": "A simple paraphrase here - if you do something the moment something happens, you do it immediately after that. Also note the required transformations when you convert direct speech to indirect.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 398,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 10,
+        "page": 10,
+        "exercise_number": 9,
+        "sentence_given": "Even though my salary is higher, I still have financial difficulties.",
+        "keyword": "INCREASE",
+        "incomplete_phrase": "The ... didn't help with my financial difficulties.",
+        "correct_answer": "increase in my salary",
+        "acceptable_answers": [
+          "increase in my salary",
+          "increase in salary"
+        ],
+        "explanation": "The definite article in the beginning forces us to use 'increase' as a noun, rather than a verb. In this case, 'my' is optional, as the context clearly points at whose salary we are talking about. Moreover, we already have one 'my' in the second part of the paraphrased sentence.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 399,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 10,
+        "page": 10,
+        "exercise_number": 10,
+        "sentence_given": "I was about to leave when the phone rang.",
+        "keyword": "POINT",
+        "incomplete_phrase": "The phone rang when I was ... leaving.",
+        "correct_answer": "on the point of",
+        "acceptable_answers": [
+          "on the point of",
+          "at the point of",
+          "On/At the point of"
+        ],
+        "explanation": "To be on/at the point of doing something means to be about to or ready to do it. It is normally used in cases where the person chooses not to take the intended action.",
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "ENG Exam - Test 11",
+    "test": 11,
+    "book": "ENG Exam",
+    "exercises": [
+      {
+        "id": 400,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 11,
+        "page": 11,
+        "exercise_number": 1,
+        "sentence_given": "When you drive fast, you endanger other motorists.",
+        "keyword": "PUT",
+        "incomplete_phrase": "You ... when you drive fast.",
+        "correct_answer": "put other motorists at risk",
+        "acceptable_answers": [
+          "put other motorists at risk"
+        ],
+        "explanation": "If you put somebody at risk, you expose them to danger. Even though grammatically you can answer \"You are putting other motorists at risk\", remember that your answer should not exceed 5 words.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 401,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 11,
+        "page": 11,
+        "exercise_number": 2,
+        "sentence_given": "We went to the same college and that's why we became good friends.",
+        "keyword": "IF",
+        "incomplete_phrase": "I wouldn't have become good friends with him ... to the same college.",
+        "correct_answer": "if we had not gone",
+        "acceptable_answers": [
+          "if we had not gone"
+        ],
+        "explanation": "A case of Third Conditional sentence is present here. Be ready to see (and know how to use) all types of mixed conditionals in FCE Use of English Part 4.",
+        "is_locked": true,
+        "verified": true
+      },
+      {
+        "id": 402,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 11,
+        "page": 11,
+        "exercise_number": 3,
+        "sentence_given": "\"I can lend you some money if you like\" Josh said.",
+        "keyword": "OFFERED",
+        "incomplete_phrase": "Josh ... some money.",
+        "correct_answer": "offered to lend me",
+        "acceptable_answers": [
+          "offered to lend me"
+        ],
+        "explanation": "Be careful not to confuse the words 'lend' and 'borrow'. To borrow is to take money from somebody in order to pay it back later, whereas to lend is to give the money and receive it later.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 403,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 11,
+        "page": 11,
+        "exercise_number": 4,
+        "sentence_given": "My shyness makes it difficult for me to meet new people.",
+        "keyword": "PREVENTS",
+        "incomplete_phrase": "My shyness ... new people easily.",
+        "correct_answer": "prevents me from meeting",
+        "acceptable_answers": [
+          "prevents me from meeting"
+        ],
+        "explanation": "The structure 'Prevents from' requires a gerund form.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 404,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 11,
+        "page": 11,
+        "exercise_number": 5,
+        "sentence_given": "I didn't expect him to know math so well.",
+        "keyword": "OF",
+        "incomplete_phrase": "His ... a surprise to me.",
+        "correct_answer": "knowledge of math was",
+        "acceptable_answers": [
+          "knowledge of math was",
+          "good knowledge of math was"
+        ],
+        "explanation": "Try to stay as close to the original as possible - so turning 'know' into 'knowledge' is the only viable option. This is also important for tense consistency - both the original and the changed sentences are in Past Simple.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 405,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 11,
+        "page": 11,
+        "exercise_number": 6,
+        "sentence_given": "I offered him 100 dollars for the book.",
+        "keyword": "OFFER",
+        "incomplete_phrase": "I ... 100 dollars for the book.",
+        "correct_answer": "made him an offer of",
+        "acceptable_answers": [
+          "made him an offer of"
+        ],
+        "explanation": "Do not be tempted to use verbs in the past, e.g. \"I decided to offer him\" - first of all, you won't be able to squeeze them into the 5 word limit, and secondly, the meaning of the original sentence will be changed as a result. Another key thing is when you introduce a number in a word like 'offer' or 'amount', it should come with the 'of' preposition.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 406,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 11,
+        "page": 11,
+        "exercise_number": 7,
+        "sentence_given": "The kids should really go to bed now.",
+        "keyword": "WENT",
+        "incomplete_phrase": "It's ... to bed now.",
+        "correct_answer": "high time the kids went",
+        "acceptable_answers": [
+          "high time the kids went"
+        ],
+        "explanation": "The expression 'It's high time somebody did something' means that the time for it has come or is past due. Note that the phrase 'It is high time' is normally followed by a structure in the Past Simple.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 407,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 11,
+        "page": 11,
+        "exercise_number": 8,
+        "sentence_given": "The fireworks could be heard exploding from a mile away.",
+        "keyword": "GOING",
+        "incomplete_phrase": "I could hear ... from a mile away..",
+        "correct_answer": "the fireworks going off",
+        "acceptable_answers": [
+          "the fireworks going off"
+        ],
+        "explanation": "The phrasal verb 'to go off' in this context means to explore or to make a distinct noise. Answering 'The fireworks were going to explode' would obviously be wrong, as the action has already taken place according to the original sentence.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 408,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 11,
+        "page": 11,
+        "exercise_number": 9,
+        "sentence_given": "Mary managed to convince me not to quit the job.",
+        "keyword": "MIND",
+        "incomplete_phrase": "Mary managed to ... the job.",
+        "correct_answer": "change my mind about quitting",
+        "acceptable_answers": [
+          "change my mind about quitting"
+        ],
+        "explanation": "If you change somebody's mind it means you convince them to change their decision or opinion regarding something.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 409,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 11,
+        "page": 11,
+        "exercise_number": 10,
+        "sentence_given": "I found it difficult to reach the train station.",
+        "keyword": "GETTING",
+        "incomplete_phrase": "I had ... the train station.",
+        "correct_answer": "difficulties getting to",
+        "acceptable_answers": [
+          "difficulties getting to"
+        ],
+        "explanation": "To have difficulties doing something should be pretty self-explanatory - it means that something wasn't easy for somebody.",
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "ENG Exam - Test 12",
+    "test": 12,
+    "book": "ENG Exam",
+    "exercises": [
+      {
+        "id": 410,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 12,
+        "page": 12,
+        "exercise_number": 1,
+        "sentence_given": "Because I wanted to get scholarship at university, I had to study hard.",
+        "keyword": "AS",
+        "incomplete_phrase": "I had to study hard ... scholarship at university.",
+        "correct_answer": "as I wanted to get",
+        "acceptable_answers": [
+          "as I wanted to get",
+          "so as to get",
+          "As I wanted to get/So as to get"
+        ],
+        "explanation": "A rather straightforward structure to show the reason for some particular action. The second suggested structure is more advanced and is more commonly used by C1/C2 speakers.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 411,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 12,
+        "page": 12,
+        "exercise_number": 2,
+        "sentence_given": "I refused their promotion offer for personal reasons.",
+        "keyword": "TURNED",
+        "incomplete_phrase": "For personal reasons, ... down.",
+        "correct_answer": "i turned their promotion offer",
+        "acceptable_answers": [
+          "i turned their promotion offer"
+        ],
+        "explanation": "If you turn something down, you reject or decline it. It can be used for figurative cases (e.g. an offer) or literal (a gift or other material thing).",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 412,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 12,
+        "page": 12,
+        "exercise_number": 3,
+        "sentence_given": "Mother told me to finish eating all the potatoes before I could get dessert.",
+        "keyword": "UP",
+        "incomplete_phrase": "Mother told me to ... before I could get dessert.",
+        "correct_answer": "eat up the potatoes",
+        "acceptable_answers": [
+          "eat up the potatoes",
+          "eat the potatoes up",
+          "Eat up the potatoes/Eat the potatoes up"
+        ],
+        "explanation": "To eat something up in this context has the meaning to eat all of it, to finish eating a dish or a meal. Do not use 'finish up' as it is not normally used in relation to food.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 413,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 12,
+        "page": 12,
+        "exercise_number": 4,
+        "sentence_given": "We occasionally meet at this pub.",
+        "keyword": "FROM",
+        "incomplete_phrase": "We meet at this pub ... time.",
+        "correct_answer": "from time to",
+        "acceptable_answers": [
+          "from time to"
+        ],
+        "explanation": "If something takes place from time to time, then it happens fairly regularly, but without any definite system or timetable.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 414,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 12,
+        "page": 12,
+        "exercise_number": 5,
+        "sentence_given": "I used to go to the cinema every Tuesday when I was in college.",
+        "keyword": "WOULD",
+        "incomplete_phrase": "When I was in college I ... every Tuesday.",
+        "correct_answer": "would go to the cinema",
+        "acceptable_answers": [
+          "would go to the cinema"
+        ],
+        "explanation": "The original sentence expresses the idea that the speaker no longer does that. A structure that is quite similar to 'used to', it is only used with actions, while 'used to' can be used both with actions and states.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 415,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 12,
+        "page": 12,
+        "exercise_number": 6,
+        "sentence_given": "My camera broke down on my first day of vacation.",
+        "keyword": "APART",
+        "incomplete_phrase": "My camera ... on my first day of vacation.",
+        "correct_answer": "fell apart",
+        "acceptable_answers": [
+          "fell apart",
+          "came apart",
+          "Fell/Came apart"
+        ],
+        "explanation": "Please note that 'break apart' is incorrect in this context as it means 'to disassemble, to take apart', whereas we are looking for a phrasal verb that means 'to stop functioning'.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 416,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 12,
+        "page": 12,
+        "exercise_number": 7,
+        "sentence_given": "I wanted to see the sea this summer",
+        "keyword": "GOING",
+        "incomplete_phrase": "I ... the sea this summer.",
+        "correct_answer": "was going to see",
+        "acceptable_answers": [
+          "was going to see"
+        ],
+        "explanation": "Be careful not to answer \"Was going to the sea\" - it means a more definite plan that involves somebody else. Remember that we use Present Continuous to express a more definite plan that takes others into account.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 417,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 12,
+        "page": 12,
+        "exercise_number": 8,
+        "sentence_given": "Grandmother often asks me to read the newspaper aloud for her.",
+        "keyword": "OUT",
+        "incomplete_phrase": "Grandmother often asks me to ... for her.",
+        "correct_answer": "read out the newspaper",
+        "acceptable_answers": [
+          "read out the newspaper",
+          "read the newspaper out",
+          "read the newspaper out loud",
+          "Read out the newspaper/Read the newspaper out/Read the newspaper out loud"
+        ],
+        "explanation": "To read something out means to read it aloud for somebody to hear. 'To read out loud' is also possible and is probably the first choice for most students at this level.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 418,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 12,
+        "page": 12,
+        "exercise_number": 9,
+        "sentence_given": "\"You may enter the room\" said Mary.",
+        "keyword": "US",
+        "incomplete_phrase": "Mary ... the room.",
+        "correct_answer": "allowed us to enter",
+        "acceptable_answers": [
+          "allowed us to enter"
+        ],
+        "explanation": "Both the original and the changed sentence should use a structure that gives permission to do something.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 419,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 12,
+        "page": 12,
+        "exercise_number": 10,
+        "sentence_given": "It took me a year to wake up easily in the morning.",
+        "keyword": "USED",
+        "incomplete_phrase": "It took me a year to ... easily in the morning.",
+        "correct_answer": "get used to waking up",
+        "acceptable_answers": [
+          "get used to waking up"
+        ],
+        "explanation": "We use the structure 'to get used to doing something' to express the idea of making a new habit, especially something that previously was not a part of our routine. Note the gerund form that is required in this structure.",
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "ENG Exam - Test 13",
+    "test": 13,
+    "book": "ENG Exam",
+    "exercises": [
+      {
+        "id": 420,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 13,
+        "page": 13,
+        "exercise_number": 1,
+        "sentence_given": "We have never had such an exciting trip before.",
+        "keyword": "EVER",
+        "incomplete_phrase": "This is the most ... had.",
+        "correct_answer": "exciting trip we have ever",
+        "acceptable_answers": [
+          "exciting trip we have ever"
+        ],
+        "explanation": "The switch from 'never' to 'ever' requires some additional changes in the transformed sentence. Make sure to keep the changed sentence in the Present Perfect.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 421,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 13,
+        "page": 13,
+        "exercise_number": 2,
+        "sentence_given": "In the end, we changed our decision about buying the boat.",
+        "keyword": "AGAINST",
+        "incomplete_phrase": "In the end, we ... the boat.",
+        "correct_answer": "decided against buying",
+        "acceptable_answers": [
+          "decided against buying"
+        ],
+        "explanation": "To decide against doing something is to choose not to do it. Note the -ing form that is used with this structure. The sentence 'We changed our decision against buying the boat' has double a negative meaning, which means that the speaker chose to buy it, which is not the message of the original sentence.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 422,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 13,
+        "page": 13,
+        "exercise_number": 3,
+        "sentence_given": "Can you still draw well?",
+        "keyword": "TO",
+        "incomplete_phrase": "Are ... draw well?",
+        "correct_answer": "you still able to",
+        "acceptable_answers": [
+          "you still able to"
+        ],
+        "explanation": "The beginning of the sentence forces us to look for an adjective instead of the verb in the original sentence. Failing to include 'still' will make you lose 1 of the 2 points for this sentence.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 423,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 13,
+        "page": 13,
+        "exercise_number": 4,
+        "sentence_given": "All I wanted was to escape this place.",
+        "keyword": "GET",
+        "incomplete_phrase": "All I wanted was to ... this place.",
+        "correct_answer": "get out of",
+        "acceptable_answers": [
+          "get out of",
+          "get away from",
+          "Get out of/get away from"
+        ],
+        "explanation": "Both of the phrasal verbs mean 'to leave some place'. Be careful to use the appropriate participle with each phrasal verb.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 424,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 13,
+        "page": 13,
+        "exercise_number": 5,
+        "sentence_given": "There was plenty of food for everyone at the party.",
+        "keyword": "MORE",
+        "incomplete_phrase": "There was ... for everyone at the party.",
+        "correct_answer": "more than enough food",
+        "acceptable_answers": [
+          "more than enough food"
+        ],
+        "explanation": "The phrase 'plenty of' means that there is no shortage of something, that it is available in great numbers or quantity.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 425,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 13,
+        "page": 13,
+        "exercise_number": 6,
+        "sentence_given": "\"Have you ever though about retiring?\" asked Suze.",
+        "keyword": "CONSIDERED",
+        "incomplete_phrase": "Suze wanted to know if ... retirement.",
+        "correct_answer": "i have ever considered",
+        "acceptable_answers": [
+          "i have ever considered",
+          "i had ever considered",
+          "I had/have ever considered"
+        ],
+        "explanation": "Remember to make the necessary transformation associated with reported speech. Here, Present Perfect to Past perfect change is optional as the idea works in both tenses. Remember than sometimes the tense change in reported speech is not necessary, particularly in cases with past experiences plans that affect the present situation.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 426,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 13,
+        "page": 13,
+        "exercise_number": 7,
+        "sentence_given": "I expected more from the meeting.",
+        "keyword": "UNDERWHELMED",
+        "incomplete_phrase": "I ... the meeting.",
+        "correct_answer": "was underwhelmed by",
+        "acceptable_answers": [
+          "was underwhelmed by"
+        ],
+        "explanation": "If you are underwhelmed by something, it means that it was less impressive or interesting than you had expected. Be careful not to answer 'got underwhelmed by'.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 427,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 13,
+        "page": 13,
+        "exercise_number": 8,
+        "sentence_given": "I have never been to this city before.",
+        "keyword": "TIME",
+        "incomplete_phrase": "This is ... this city.",
+        "correct_answer": "my first time in",
+        "acceptable_answers": [
+          "my first time in",
+          "my first time to",
+          "My first time in/to"
+        ],
+        "explanation": "While the phrase 'my first time' is easy to get, pay attention to the preposition that follows the phrase.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 428,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 13,
+        "page": 13,
+        "exercise_number": 9,
+        "sentence_given": "She decided to donate most of the money to various charities.",
+        "keyword": "AWAY",
+        "incomplete_phrase": "She ... the money to various charities.",
+        "correct_answer": "gave away most of",
+        "acceptable_answers": [
+          "gave away most of"
+        ],
+        "explanation": "To give something away means to give it to somebody without asking or expecting anything in return.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 429,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 13,
+        "page": 13,
+        "exercise_number": 10,
+        "sentence_given": "Richard is much less experienced than Dan.",
+        "keyword": "FAR",
+        "incomplete_phrase": "Dan ... experience than Richard.",
+        "correct_answer": "has far more",
+        "acceptable_answers": [
+          "has far more"
+        ],
+        "explanation": "'Far' is used as an intensifier, similarly to 'much' in the first sentence. Don't be misguided by the inverted word order in the transformed sentence.",
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "ENG Exam - Test 14",
+    "test": 14,
+    "book": "ENG Exam",
+    "exercises": [
+      {
+        "id": 430,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 14,
+        "page": 14,
+        "exercise_number": 1,
+        "sentence_given": "\"I am sorry I interrupted your conversation\" Giorgio said.",
+        "keyword": "INTERRUPTING",
+        "incomplete_phrase": "Giorgio ... conversation.",
+        "correct_answer": "apologised for interrupting our",
+        "acceptable_answers": [
+          "apologised for interrupting our",
+          "apologized for interrupting our",
+          "Apologized/Apologised for interrupting our"
+        ],
+        "explanation": "Both spelling variants of the word 'to apologise' are acceptable. Make sure to change 'your conversation' to 'our conversation'. Saying 'my conversation' makes no logical sense as it means that only one person was involved in it.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 431,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 14,
+        "page": 14,
+        "exercise_number": 2,
+        "sentence_given": "Please keep in mind that you will be charged for the service as well as the food.",
+        "keyword": "ADVISED",
+        "incomplete_phrase": "Please ... you will be charged for the service as well as the food.",
+        "correct_answer": "be advised that",
+        "acceptable_answers": [
+          "be advised that"
+        ],
+        "explanation": "The expression 'be advised' is mostly found in formal texts such as notices, and they usually warn you about something important. 'Advice' is spelling for the noun, whereas 'advise' is the verb that we are looking for.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 432,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 14,
+        "page": 14,
+        "exercise_number": 3,
+        "sentence_given": "I never realised that they were twins.",
+        "keyword": "OCCURED",
+        "incomplete_phrase": "It ... they were twins.",
+        "correct_answer": "never occurred to me that",
+        "acceptable_answers": [
+          "never occurred to me that"
+        ],
+        "explanation": "If something occurs to you, it means that it crosses your mind, you think about it. The opposite structure is used here.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 433,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 14,
+        "page": 14,
+        "exercise_number": 4,
+        "sentence_given": "They had to cancel the meeting because some senior managers couldn't make there in time.",
+        "keyword": "OFF",
+        "incomplete_phrase": "The meeting had ... because some senior managers couldn't make there in time.",
+        "correct_answer": "to be called off",
+        "acceptable_answers": [
+          "to be called off"
+        ],
+        "explanation": "To call something off means to cancel a previously planned arrangement, especially one that involved preparation and many people were supposed to be a part of it.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 434,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 14,
+        "page": 14,
+        "exercise_number": 5,
+        "sentence_given": "The elevator didn't work so we had to use the stairs to get to the seventh floor.",
+        "keyword": "ORDER",
+        "incomplete_phrase": "The elevator ... so we had to use the stairs to get to the seventh floor.",
+        "correct_answer": "was out of order",
+        "acceptable_answers": [
+          "was out of order"
+        ],
+        "explanation": "'Out of order' is normally used with larger machinery that does not function properly. It is often written on signs that warn those who plan to use it that it is currently unavailable. A good example is public elevators.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 435,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 14,
+        "page": 14,
+        "exercise_number": 6,
+        "sentence_given": "Even though Rob tried his best, he came second in the race.",
+        "keyword": "SPITE",
+        "incomplete_phrase": "Rob came second in the race ... his best.",
+        "correct_answer": "in spite of trying",
+        "acceptable_answers": [
+          "in spite of trying"
+        ],
+        "explanation": "A common situation is when students confuse 'in spite of' and 'despite'. We need the first, longer structure.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 436,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 14,
+        "page": 14,
+        "exercise_number": 7,
+        "sentence_given": "I will help you with the project if you promise to study harder next year.",
+        "keyword": "THAT",
+        "incomplete_phrase": "I will help you with the project ... you promise to study harder next year.",
+        "correct_answer": "provided that",
+        "acceptable_answers": [
+          "provided that",
+          "on the condition that",
+          "on condition that",
+          "Provided that/On the condition that"
+        ],
+        "explanation": "The definite article in the second variant is optional, as both ways of phrasing are quite common.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 437,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 14,
+        "page": 14,
+        "exercise_number": 8,
+        "sentence_given": "\"Be careful, there is a storm coming from the sea\" said the old lady.",
+        "keyword": "ABOUT",
+        "incomplete_phrase": "The old lady ... a storm coming from the sea.",
+        "correct_answer": "warned us about",
+        "acceptable_answers": [
+          "warned us about"
+        ],
+        "explanation": "An interesting thing about this one is that technically you can use 'told us about' as the answer. However, this would fail to include the part where she stresses the danger of the situation. 'To warn about something' is the perfect phrase for that.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 438,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 14,
+        "page": 14,
+        "exercise_number": 9,
+        "sentence_given": "He drew my attention to my most serious mistakes.",
+        "keyword": "OUT",
+        "incomplete_phrase": "He ... most serious mistakes.",
+        "correct_answer": "pointed out all my",
+        "acceptable_answers": [
+          "pointed out all my"
+        ],
+        "explanation": "Note that with 'point out' you do not need a preposition 'to' from the original sentence.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 439,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 14,
+        "page": 14,
+        "exercise_number": 10,
+        "sentence_given": "You always leave the most difficult tasks until later.",
+        "keyword": "OFF",
+        "incomplete_phrase": "You always ... most difficult tasks.",
+        "correct_answer": "put off",
+        "acceptable_answers": [
+          "put off",
+          "put off doing"
+        ],
+        "explanation": "Putting something off means leaving it for later - that's why the transformed sentence omits the last part of the original one ('until later').",
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "ENG Exam - Test 15",
+    "test": 15,
+    "book": "ENG Exam",
+    "exercises": [
+      {
+        "id": 440,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 15,
+        "page": 15,
+        "exercise_number": 1,
+        "sentence_given": "We spend four days moving all the furniture into the new flat.",
+        "keyword": "US",
+        "incomplete_phrase": "It ... move all the furniture into the new flat.",
+        "correct_answer": "took us three days to",
+        "acceptable_answers": [
+          "took us three days to"
+        ],
+        "explanation": "A phrase to show that you need a certain amount of time for a particular action. Don't forget to make the switch to Past Simple!",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 441,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 15,
+        "page": 15,
+        "exercise_number": 2,
+        "sentence_given": "Liam was too slow and missed the morning train.",
+        "keyword": "ENOUGH",
+        "incomplete_phrase": "Liam ... catch the morning train.",
+        "correct_answer": "was not quick enough to",
+        "acceptable_answers": [
+          "was not quick enough to"
+        ],
+        "explanation": "Answering 'did not have enough time' is incorrect for two reasons. First, we need 'to' and there is no way to squeeze it into the given word limit without sacrificing meaning. Second, it is not about shortage of time, but about Liam being slow.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 442,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 15,
+        "page": 15,
+        "exercise_number": 3,
+        "sentence_given": "My mother was the only one to come to the party.",
+        "keyword": "FROM",
+        "incomplete_phrase": "Nobody came ... my mother.",
+        "correct_answer": "to the party apart from",
+        "acceptable_answers": [
+          "to the party apart from"
+        ],
+        "explanation": "Be careful not to answer 'except FROM', as the correct phrasing is 'except FOR'.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 443,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 15,
+        "page": 15,
+        "exercise_number": 4,
+        "sentence_given": "\"Don't come close to me\" the stranger told me.",
+        "keyword": "AGAINST",
+        "incomplete_phrase": "The stranger ... to him.",
+        "correct_answer": "advised me against coming close",
+        "acceptable_answers": [
+          "advised me against coming close",
+          "warned me against coming close",
+          "Advised/warned me against coming close"
+        ],
+        "explanation": "Both verbs work well with the preposition 'against' to show that somebody tells you it is not a good idea to do something. Note that the gerund form should follow both structures. Be mindful of the spelling: 'advise' is the verb and 'advice' is the noun spelling variant.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 444,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 15,
+        "page": 15,
+        "exercise_number": 5,
+        "sentence_given": "She said that she succeeded because of sheer luck.",
+        "keyword": "DOWN",
+        "incomplete_phrase": "She ... sheer luck.",
+        "correct_answer": "put her success down to",
+        "acceptable_answers": [
+          "put her success down to",
+          "put down her success",
+          "Put her success down to/Put down her success to"
+        ],
+        "explanation": "To put something down to something else means to give something as a reason. In this case, her determination was the reason for her success.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 445,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 15,
+        "page": 15,
+        "exercise_number": 6,
+        "sentence_given": "\"Do you have any questions?\" asked Jan.",
+        "keyword": "IF",
+        "incomplete_phrase": "Jan wanted ... any questions.",
+        "correct_answer": "to know if we had",
+        "acceptable_answers": [
+          "to know if we had"
+        ],
+        "explanation": "Even though 'whether' is a perfect replacement for 'if', you should not be using it because 'if' is given as a key word here and has to be present in the sentence.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 446,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 15,
+        "page": 15,
+        "exercise_number": 7,
+        "sentence_given": "We don't know for sure if they have met before.",
+        "keyword": "TELL",
+        "incomplete_phrase": "It ... they have met before.",
+        "correct_answer": "is hard to tell if",
+        "acceptable_answers": [
+          "is hard to tell if",
+          "is impossible to tell if",
+          "is hard to tell whether",
+          "is impossible to tell whether",
+          "Is hard/impossible to tell if/whether"
+        ],
+        "explanation": "If you can't tell something, it means that you have no information about it or you can't be sure about the things you know. Note the interchangeability of 'if' and 'whether'.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 447,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 15,
+        "page": 15,
+        "exercise_number": 8,
+        "sentence_given": "His family hasn't heard the news yet.",
+        "keyword": "STILL",
+        "incomplete_phrase": "His family ... the news.",
+        "correct_answer": "still has not read the news",
+        "acceptable_answers": [
+          "still has not read the news",
+          "still have not read the news",
+          "Still have/has not read the news"
+        ],
+        "explanation": "The word 'family' grammatically can be both singular and plural, depending on whether we mean the family as a whole or each person individually.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 448,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 15,
+        "page": 15,
+        "exercise_number": 9,
+        "sentence_given": "When do you expect Charles to return?",
+        "keyword": "COMING",
+        "incomplete_phrase": "When ... back?",
+        "correct_answer": "is charles coming",
+        "acceptable_answers": [
+          "is charles coming"
+        ],
+        "explanation": "Apart from using a phrasal verb, we resort to the Present Continuous to underline the fact of a planned event.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 449,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 15,
+        "page": 15,
+        "exercise_number": 10,
+        "sentence_given": "He began studying two months ago.",
+        "keyword": "FOR",
+        "incomplete_phrase": "He ... two months.",
+        "correct_answer": "has been studying for",
+        "acceptable_answers": [
+          "has been studying for"
+        ],
+        "explanation": "We cannot avoid using Present Perfect Continuous - we need the Perfect part because we are not using 'two months ago', but simply 'two months'. The Continuous part is dictated by the preposition 'for'.",
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "ENG Exam - Test 16",
+    "test": 16,
+    "book": "ENG Exam",
+    "exercises": [
+      {
+        "id": 450,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 16,
+        "page": 16,
+        "exercise_number": 1,
+        "sentence_given": "Bob and Marie seem to have a good relationship.",
+        "keyword": "GET",
+        "incomplete_phrase": "Bob and Marie ... with one another.",
+        "correct_answer": "seem to get along",
+        "acceptable_answers": [
+          "seem to get along",
+          "seem to get along well"
+        ],
+        "explanation": "To get along means to be in good or friendly relationship with somebody.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 451,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 16,
+        "page": 16,
+        "exercise_number": 2,
+        "sentence_given": "\"I will need you both to help me with this\" said Sandra.",
+        "keyword": "REQUIRE",
+        "incomplete_phrase": "Sandra said that she ... to help her with that.",
+        "correct_answer": "would require both of us",
+        "acceptable_answers": [
+          "would require both of us",
+          "would require us both",
+          "Would require both of us/us both"
+        ],
+        "explanation": "Changing 'will' to 'would' in reported speech is a common thing that is done almost always, unlike switching to a different tense, which is more context-sensitive.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 452,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 16,
+        "page": 16,
+        "exercise_number": 3,
+        "sentence_given": "They told us not to buy that plot of land.",
+        "keyword": "WERE",
+        "incomplete_phrase": "We ... buying that plot of land.",
+        "correct_answer": "were advised against",
+        "acceptable_answers": [
+          "were advised against",
+          "were dissuaded from",
+          "Were advised against/dissuaded from"
+        ],
+        "explanation": "Because the second part of the sentence starts with 'buying' we have to use a structure that works well with a gerund form. The second answer is much less likely to be given by a B2 learner, but it is included just in case.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 453,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 16,
+        "page": 16,
+        "exercise_number": 4,
+        "sentence_given": "Children nowadays prefer superhero movies to cartoons.",
+        "keyword": "RATHER",
+        "incomplete_phrase": "Children nowadays ... than cartoons.",
+        "correct_answer": "would rather see superhero movies",
+        "acceptable_answers": [
+          "would rather see superhero movies",
+          "would rather watch superhero movies",
+          "would rather watch/see superhero movies"
+        ],
+        "explanation": "Using 'would' helps us create an imaginary situation where the children are given a choice of things to see (or to watch!).",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 454,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 16,
+        "page": 16,
+        "exercise_number": 5,
+        "sentence_given": "The weather was much better than predicted.",
+        "keyword": "BAD",
+        "incomplete_phrase": "The weather ... as predicted.",
+        "correct_answer": "was not nearly as bad",
+        "acceptable_answers": [
+          "was not nearly as bad",
+          "was not as bad"
+        ],
+        "explanation": "'As' that comes right after the gap hints at a comparative structure that uses two of these words. The word 'nearly' is optional and does not grant you any additional points.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 455,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 16,
+        "page": 16,
+        "exercise_number": 6,
+        "sentence_given": "Matt should consider improving his command of English.",
+        "keyword": "UP",
+        "incomplete_phrase": "Matt should consider ... command of English.",
+        "correct_answer": "brushing up on his",
+        "acceptable_answers": [
+          "brushing up on his"
+        ],
+        "explanation": "If you brush up on something, you make it slightly better. Used figuratively to talk about skills and areas of knowledge.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 456,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 16,
+        "page": 16,
+        "exercise_number": 7,
+        "sentence_given": "The train should arrive any minute now.",
+        "keyword": "TO",
+        "incomplete_phrase": "The train ... any minute now.",
+        "correct_answer": "is expected to come",
+        "acceptable_answers": [
+          "is expected to come",
+          "is expected to arrive",
+          "is scheduled to come",
+          "is scheduled to arrive",
+          "Is expected/scheduled to come/arrive"
+        ],
+        "explanation": "It might take a bit of figuring out to understand that 'to' forces us to stick to passive voice in this sentence.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 457,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 16,
+        "page": 16,
+        "exercise_number": 8,
+        "sentence_given": "\"You had to hand in this paper two days ago\" said the professor.",
+        "keyword": "BEFORE",
+        "incomplete_phrase": "The professor said I had to hand in ... yesterday.",
+        "correct_answer": "that paper the day before",
+        "acceptable_answers": [
+          "that paper the day before"
+        ],
+        "explanation": "Giving a simpler answer like 'hand in that paper before yesterday' would only give you one point, as the idea is to see your paraphrasing and transformation skills required for reported speech usage. Don't forget about 'this' to 'that' transofrmation.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 458,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 16,
+        "page": 16,
+        "exercise_number": 9,
+        "sentence_given": "Our teacher promised to take us on a field trip next summer.",
+        "keyword": "GAVE",
+        "incomplete_phrase": "Our teacher ... take us on a field trip next summer.",
+        "correct_answer": "gave word that she would",
+        "acceptable_answers": [
+          "gave word that she would",
+          "gave word that he would",
+          "gave word she would",
+          "gave word he would",
+          "Gave word that she/he would"
+        ],
+        "explanation": "A set phrase, 'to give (your) word' means to promise something. Note that because 'promised' is in the past, we should be using 'would' instead of 'will' from the original sentence to maintain tense consistency.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 459,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 16,
+        "page": 16,
+        "exercise_number": 10,
+        "sentence_given": "Stefani came to deal with the computer problem I'm having.",
+        "keyword": "OUT",
+        "incomplete_phrase": "Stefani came to ... I'm having.",
+        "correct_answer": "sort out the computer problem",
+        "acceptable_answers": [
+          "sort out the computer problem"
+        ],
+        "explanation": "To sort something out is to figure out or overcome some problem, issue, or difficulty. Interestingly, you could answer 'to HELP OUT WITH the computer problem' if it weren't for the word limit.",
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "ENG Exam - Test 17",
+    "test": 17,
+    "book": "ENG Exam",
+    "exercises": [
+      {
+        "id": 460,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 17,
+        "page": 17,
+        "exercise_number": 1,
+        "sentence_given": "We didn't expect you to arrive so early.",
+        "keyword": "COUNT",
+        "incomplete_phrase": "We didn't ... so early.",
+        "correct_answer": "count on you arriving",
+        "acceptable_answers": [
+          "count on you arriving",
+          "count on you to arrive",
+          "Count on you arriving/to arrive"
+        ],
+        "explanation": "Note the structure \"count on somebody doing something\". The -ing form is needed here. Otherwise, you can stick to the infinitive form.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 461,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 17,
+        "page": 17,
+        "exercise_number": 2,
+        "sentence_given": "I can't get to work on time without my car.",
+        "keyword": "RELY",
+        "incomplete_phrase": "I ... to get to work on time.",
+        "correct_answer": "rely on my car",
+        "acceptable_answers": [
+          "rely on my car",
+          "Rely on my car."
+        ],
+        "explanation": "If you rely on something, you can't do without it.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 462,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 17,
+        "page": 17,
+        "exercise_number": 3,
+        "sentence_given": "Nancy was sure that you would come to the party.",
+        "keyword": "DOUBTS",
+        "incomplete_phrase": "Nancy ... would come to the party.",
+        "correct_answer": "had no doubts that you",
+        "acceptable_answers": [
+          "had no doubts that you"
+        ],
+        "explanation": "A possible answer is 'had no doubts about you coming'. Naturally, we cannot use it here because we are only allowed to change the words within the gap.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 463,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 17,
+        "page": 17,
+        "exercise_number": 4,
+        "sentence_given": "The shop gave me a discount as a compensation for the inconvenience.",
+        "keyword": "MAKE",
+        "incomplete_phrase": "The shop gave me a discount ... the inconvenience.",
+        "correct_answer": "to make up for",
+        "acceptable_answers": [
+          "to make up for"
+        ],
+        "explanation": "To make up for something means to compensate for a loss, to try and fix a mistake, to right a wrong. It can be used in relation to both people and inanimate objects.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 464,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 17,
+        "page": 17,
+        "exercise_number": 5,
+        "sentence_given": "\"You will miss your flight if you don't hurry\" my brother said.",
+        "keyword": "HURRIED",
+        "incomplete_phrase": "My brother said that ... miss my flight.",
+        "correct_answer": "unless i hurried i would",
+        "acceptable_answers": [
+          "unless i hurried i would"
+        ],
+        "explanation": "We are making a reported speech structure with all the usual changes. 'Unless' usually has a meaning similar to 'if not', in this case 'if I didn't'.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 465,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 17,
+        "page": 17,
+        "exercise_number": 6,
+        "sentence_given": "They plan to renovate the city centre next year.",
+        "keyword": "DUE",
+        "incomplete_phrase": "The city centre ... next year.",
+        "correct_answer": "is due to be renovated",
+        "acceptable_answers": [
+          "is due to be renovated",
+          "is due for renovation",
+          "is due for a renovation",
+          "Is due to be renovated/due for a renovation"
+        ],
+        "explanation": "When something is due, it means that there is a plan to do this, e.g. 'The restaurant is due to be opened tomorrow'.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 466,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 17,
+        "page": 17,
+        "exercise_number": 7,
+        "sentence_given": "\"Did you see the memo from yesterday?\" my boss asked me.",
+        "keyword": "I",
+        "incomplete_phrase": "My boss asked ... the memo from the day before.",
+        "correct_answer": "me if i had seen",
+        "acceptable_answers": [
+          "me if i had seen"
+        ],
+        "explanation": "Another reported speech case with a change from Past Simple ('… did I see') to Past Perfect ('… if I had seen'). 'The day before' in the changed sentence might seem a bit confusing, but it is in fact reminding us about the alterations that need to be made in the reported sentence structure.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 467,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 17,
+        "page": 17,
+        "exercise_number": 8,
+        "sentence_given": "We all have a lot of respect for our coach.",
+        "keyword": "LOOK",
+        "incomplete_phrase": "We all ... our coach.",
+        "correct_answer": "look up to",
+        "acceptable_answers": [
+          "look up to"
+        ],
+        "explanation": "To look up to somebody means to have a lot of respect for them. Naturally, this phrase is only used in relation to a person.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 468,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 17,
+        "page": 17,
+        "exercise_number": 9,
+        "sentence_given": "As soon as I received the message I replied to it.",
+        "keyword": "MOMENT",
+        "incomplete_phrase": "I replied ... I received it.",
+        "correct_answer": "to the message the moment",
+        "acceptable_answers": [
+          "to the message the moment"
+        ],
+        "explanation": "If you do something the moment something else happens, you do it immediately after. Be careful not to omit the first 'to' here, as suggested by the original sentence. Failing to do so means losing two points for this task.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 469,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 17,
+        "page": 17,
+        "exercise_number": 10,
+        "sentence_given": "There is almost no time to finish the essay.",
+        "keyword": "HARDLY",
+        "incomplete_phrase": "There is ... left to finish the essay.",
+        "correct_answer": "hardly any time",
+        "acceptable_answers": [
+          "hardly any time"
+        ],
+        "explanation": "There is almost no time = there is hardly any time. Be prepared to paraphrase ideas in Part 4 of Use of English.",
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "ENG Exam - Test 18",
+    "test": 18,
+    "book": "ENG Exam",
+    "exercises": [
+      {
+        "id": 470,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 18,
+        "page": 18,
+        "exercise_number": 1,
+        "sentence_given": "I am sorry I didn't see your performance live.",
+        "keyword": "REGRET",
+        "incomplete_phrase": "I ... your performance live.",
+        "correct_answer": "regret about not seeing",
+        "acceptable_answers": [
+          "regret about not seeing",
+          "regret not seeing"
+        ],
+        "explanation": "The verb pattern of 'regret' requires a gerund (an -ing form). If you regret something it means you are sorry you have made some choice in the past and are not happy with the consequences.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 471,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 18,
+        "page": 18,
+        "exercise_number": 2,
+        "sentence_given": "The meeting was much better than we had expected.",
+        "keyword": "NEARLY",
+        "incomplete_phrase": "The meetings was ... we had expected.",
+        "correct_answer": "not nearly as bad as",
+        "acceptable_answers": [
+          "not nearly as bad as"
+        ],
+        "explanation": "The keyword forces us to use a comparative 'as … as' structure, there is no way around it. Note that the negative form is required here.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 472,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 18,
+        "page": 18,
+        "exercise_number": 3,
+        "sentence_given": "Jim really disappointed his parents with the exam results.",
+        "keyword": "DOWN",
+        "incomplete_phrase": "Jim really ... with the exam results.",
+        "correct_answer": "let his parents down",
+        "acceptable_answers": [
+          "let his parents down"
+        ],
+        "explanation": "If you let somebody down, you fail to meet their expectations or make them feel disappointed for some other reason.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 473,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 18,
+        "page": 18,
+        "exercise_number": 4,
+        "sentence_given": "We still haven't found a solution to this problem.",
+        "keyword": "YET",
+        "incomplete_phrase": "We ... a solution to this problem.",
+        "correct_answer": "are yet to find",
+        "acceptable_answers": [
+          "are yet to find"
+        ],
+        "explanation": "'Yet to do something' means that you haven't done it yet, but you are planning on doing it. We cannot simply put \"yet\" at the end of the sentence - it would work grammatically, but in FCE Use of English Part 4 we are only allowed to make changes in the designated gap.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 474,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 18,
+        "page": 18,
+        "exercise_number": 5,
+        "sentence_given": "I have never seen such a beautiful sunset.",
+        "keyword": "EVER",
+        "incomplete_phrase": "This is the ... such a beautiful sunset.",
+        "correct_answer": "first time ever i see",
+        "acceptable_answers": [
+          "first time ever i see"
+        ],
+        "explanation": "Be careful not to answer 'First time ever I am seeing' - while the meaning remains the same, you are breaking the five word limit for the answer - a common pitfall that many students tend to forget about.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 475,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 18,
+        "page": 18,
+        "exercise_number": 6,
+        "sentence_given": "\"Please mind your step\" said the gatekeeper.",
+        "keyword": "TO",
+        "incomplete_phrase": "I was ... by the gatekeeper.",
+        "correct_answer": "told to mind my step",
+        "acceptable_answers": [
+          "told to mind my step",
+          "warned to mind my step",
+          "advised to mind my step",
+          "Told/advised/warned to mind my step"
+        ],
+        "explanation": "The keyword here is a hint for a regular infinitive form of the phrase. You get some freedom of choice with the verb here. Be careful to spell \"correctly\". Remember that 'advise' is the verb, whereas 'advice' is the noun.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 476,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 18,
+        "page": 18,
+        "exercise_number": 7,
+        "sentence_given": "I needed to think of a good excuse to skip school.",
+        "keyword": "UP",
+        "incomplete_phrase": "In needed to ... a good excuse to skip school.",
+        "correct_answer": "come up with",
+        "acceptable_answers": [
+          "come up with"
+        ],
+        "explanation": "A phrasal verb that means 'to think of something new, to invent something'.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 477,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 18,
+        "page": 18,
+        "exercise_number": 8,
+        "sentence_given": "In this country people take their shoes off when at home.",
+        "keyword": "EXPECTED",
+        "incomplete_phrase": "People in this country ... take their shoes off when at home.",
+        "correct_answer": "are expected to",
+        "acceptable_answers": [
+          "are expected to"
+        ],
+        "explanation": "Here we talk about a cultural rule, in other words, something that people normally do. If you are expected to do something, it means that it is what people normally do.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 478,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 18,
+        "page": 18,
+        "exercise_number": 9,
+        "sentence_given": "Jeremy was unsure if he should take that offer.",
+        "keyword": "DOUBTS",
+        "incomplete_phrase": "Jeremy ... that offer.",
+        "correct_answer": "had his doubts about taking",
+        "acceptable_answers": [
+          "had his doubts about taking",
+          "had doubts about taking"
+        ],
+        "explanation": "While 'his' is optional here, we shouldn't be using 'some doubts' as it is not part of the original sentence. While 'his' isn't either, it is a common part of the phrase, e.g. 'I have my doubts about this'.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 479,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 18,
+        "page": 18,
+        "exercise_number": 10,
+        "sentence_given": "Yesterday I visited a friend and also did a washing up.",
+        "keyword": "ADDITION",
+        "incomplete_phrase": "Yesterday I did a washing up ... a friend.",
+        "correct_answer": "in addition to visiting",
+        "acceptable_answers": [
+          "in addition to visiting"
+        ],
+        "explanation": "The structure 'in addition to' is normally accompanied by an -ing form when we talk about an action. Therefore, it goes either 'in addition to something' or 'in addition to doing something'.",
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "ENG Exam - Test 19",
+    "test": 19,
+    "book": "ENG Exam",
+    "exercises": [
+      {
+        "id": 480,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 19,
+        "page": 19,
+        "exercise_number": 1,
+        "sentence_given": "Our family planned to visit this country next year.",
+        "keyword": "ON",
+        "incomplete_phrase": "Our family ... this country next year..",
+        "correct_answer": "planned on visiting",
+        "acceptable_answers": [
+          "planned on visiting"
+        ],
+        "explanation": "To plan on doing something. Note how the preposition affects the form of the word that comes after it - a common feature of FCE Use of English Part 4.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 481,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 19,
+        "page": 19,
+        "exercise_number": 2,
+        "sentence_given": "One has to do this project before tomorrow.",
+        "keyword": "OUT",
+        "incomplete_phrase": "The project has ... before tomorrow.",
+        "correct_answer": "to be carried out",
+        "acceptable_answers": [
+          "to be carried out"
+        ],
+        "explanation": "The word \"one\" here refers to an impersonal structure where no particular agents of action are mentioned. To carry something out means to do it.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 482,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 19,
+        "page": 19,
+        "exercise_number": 3,
+        "sentence_given": "Lucy accidentally met her ex-boyfriend during a skiing trip.",
+        "keyword": "INTO",
+        "incomplete_phrase": "Lucy ... her ex-boyfriend during a skiing trip.",
+        "correct_answer": "bumped into",
+        "acceptable_answers": [
+          "bumped into",
+          "ran into",
+          "Ran/bumped into"
+        ],
+        "explanation": "The meaning of this phrasal verb is to meet with somebody without meaning or planning to, randomly, for no particular reason.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 483,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 19,
+        "page": 19,
+        "exercise_number": 4,
+        "sentence_given": "I don't think we are going to have rain tomorrow.",
+        "keyword": "UNLIKELY",
+        "incomplete_phrase": "We ... rain tomorrow.",
+        "correct_answer": "are unlikely to have",
+        "acceptable_answers": [
+          "are unlikely to have"
+        ],
+        "explanation": "Avoid making any unnecessary alterations to the original phrasing. Answering 'Are unlikely to get' is grammatically and lexically correct, but you might get deducted one point for introducing a change to the first sentence that just wasn't needed.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 484,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 19,
+        "page": 19,
+        "exercise_number": 5,
+        "sentence_given": "These math problems were too difficult for me.",
+        "keyword": "DEAL",
+        "incomplete_phrase": "I found these math problems ... with.",
+        "correct_answer": "too difficult to deal",
+        "acceptable_answers": [
+          "too difficult to deal"
+        ],
+        "explanation": "If you can't deal with something, it means you are unable to face a fact or solve a problem. A small lexical footnote - math problems are various calculations that are there as a form of exercise or a part of some real project.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 485,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 19,
+        "page": 19,
+        "exercise_number": 6,
+        "sentence_given": "The meeting had to be cancelled for a number of reasons.",
+        "keyword": "OFF",
+        "incomplete_phrase": "The meeting had ... for a number of reasons.",
+        "correct_answer": "to be called off",
+        "acceptable_answers": [
+          "to be called off"
+        ],
+        "explanation": "Calling something off means cancelling it. This is a more informal way to phrase the idea, which is the case for most of phrasal verbs. However, this does not mean that phrasal verbs are mostly reserved for spoken English.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 486,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 19,
+        "page": 19,
+        "exercise_number": 7,
+        "sentence_given": "Be careful, as there are many poisonous snakes in this part of the woods.",
+        "keyword": "LOOKOUT",
+        "incomplete_phrase": "Be ... poisonous snakes in this part of the woods.",
+        "correct_answer": "on the lookout for",
+        "acceptable_answers": [
+          "on the lookout for"
+        ],
+        "explanation": "To be especially careful or vigilant to notice something, to be ready to see it. A similar verb form is spelled in two words and has a different meaning, e.g. 'I looked out of the train window'.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 487,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 19,
+        "page": 19,
+        "exercise_number": 8,
+        "sentence_given": "That film was more boring than we had expected.",
+        "keyword": "NOT",
+        "incomplete_phrase": "That film was ... we had expected.",
+        "correct_answer": "not as interesting as",
+        "acceptable_answers": [
+          "not as interesting as",
+          "not as exciting as",
+          "Not as interesting/exciting as"
+        ],
+        "explanation": "The negative particle as the keyword means that we have to switch to words with the opposite meaning. That is why we have more choice in terms of phrasing the answer.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 488,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 19,
+        "page": 19,
+        "exercise_number": 9,
+        "sentence_given": "If you cannot guarantee my safety, I will not join you.",
+        "keyword": "UNLESS",
+        "incomplete_phrase": "I will not join you ... my safety.",
+        "correct_answer": "unless you can guarantee",
+        "acceptable_answers": [
+          "unless you can guarantee"
+        ],
+        "explanation": "At this point you should be pretty comfortable with 'unless' structures. The biggest mistake you can make here is to spell \"guarantee\" incorrectly - admittedly, an easy mistake to make.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 489,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 19,
+        "page": 19,
+        "exercise_number": 10,
+        "sentence_given": "There won't be any phones of this model available until next week.",
+        "keyword": "STOCK",
+        "incomplete_phrase": "Phones of this model ... until next week.",
+        "correct_answer": "are out of stock",
+        "acceptable_answers": [
+          "are out of stock"
+        ],
+        "explanation": "Answering 'will be in stock' is incorrect because of the word \"until\". It would work in a context like 'Phones of this model will be (back) in stock next week'.",
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "ENG Exam - Test 20",
+    "test": 20,
+    "book": "ENG Exam",
+    "exercises": [
+      {
+        "id": 490,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 20,
+        "page": 20,
+        "exercise_number": 1,
+        "sentence_given": "I spend most of the time learning the guitar.",
+        "keyword": "DEVOTED",
+        "incomplete_phrase": "Most of ... learning the guitar.",
+        "correct_answer": "my time is devoted to",
+        "acceptable_answers": [
+          "my time is devoted to"
+        ],
+        "explanation": "The key thing here is to include \"my\" in the changed sentence. Even though it is absent from the original one, here it is essential to show whose time we are referring to. Without it, the sentence falls apart grammatically and in terms of its meaning.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 491,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 20,
+        "page": 20,
+        "exercise_number": 2,
+        "sentence_given": "I have to deliver this package before the shipment leaves the shop.",
+        "keyword": "MUST",
+        "incomplete_phrase": "This package ... the shop before the shipment leaves.",
+        "correct_answer": "must be delivered to",
+        "acceptable_answers": [
+          "must be delivered to"
+        ],
+        "explanation": "We do a simple reorganisation of words here, with an addition of a passive voice.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 492,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 20,
+        "page": 20,
+        "exercise_number": 3,
+        "sentence_given": "I am not sure why I chose accounting as my career path.",
+        "keyword": "QUESTION",
+        "incomplete_phrase": "I ... why I chose accounting as my career path.",
+        "correct_answer": "question the reason",
+        "acceptable_answers": [
+          "question the reason"
+        ],
+        "explanation": "A very easy mistake to make here is to answer 'I have a question why…'. Instead, we are expected to use the word \"question\" as a verb. This is a common trap you will encounter in your FCE Use of English Part 4 test.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 493,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 20,
+        "page": 20,
+        "exercise_number": 4,
+        "sentence_given": "\"Do you mind helping me with the TV?\" Marcia asked.",
+        "keyword": "TO",
+        "incomplete_phrase": "Marcia ... with the TV.",
+        "correct_answer": "wanted me to help her",
+        "acceptable_answers": [
+          "wanted me to help her",
+          "asked me to help her",
+          "asked to help her",
+          "Wanted me to help her/Asked me to help her"
+        ],
+        "explanation": "Note that the verb 'wanted' requires a so-called direct object ('me') as we want to clarify to whom the request was addressed. 'Asked' however does not necessarily need an object to work in this context.",
+        "is_locked": true,
+        "verified": true
+      },
+      {
+        "id": 494,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 20,
+        "page": 20,
+        "exercise_number": 5,
+        "sentence_given": "Our city is known for its Olympic-sized stadium.",
+        "keyword": "WHAT",
+        "incomplete_phrase": "Olympic-sized stadium ... known for.",
+        "correct_answer": "is what our city is",
+        "acceptable_answers": [
+          "is what our city is"
+        ],
+        "explanation": "Here we have an example of a cleft sentence - a special way to put emphasis on a particular part of the sentence. In this case, we put stress on the fact that the city is well-known for its stadium rather than something else.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 495,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 20,
+        "page": 20,
+        "exercise_number": 6,
+        "sentence_given": "Rick is quicker on his bike than Jonathan.",
+        "keyword": "CYCLIST",
+        "incomplete_phrase": "Jonathan is ... Rick.",
+        "correct_answer": "a slower cyclist than Rick",
+        "acceptable_answers": [
+          "a slower cyclist than Rick"
+        ],
+        "explanation": "Good answers that break the word limit are 'A slower cyclist compared to/with Rick'. Don't be shy to count the words before you choose the answer.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 496,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 20,
+        "page": 20,
+        "exercise_number": 7,
+        "sentence_given": "You don't need to change the oil in your car so often.",
+        "keyword": "POINT",
+        "incomplete_phrase": "There ... the oil in your car so often.",
+        "correct_answer": "is no point in changing",
+        "acceptable_answers": [
+          "is no point in changing"
+        ],
+        "explanation": "When there is no point in doing something, it means that the action in question is not needed. In this case, the meaning is that changing the oil so often is redundant.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 497,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 20,
+        "page": 20,
+        "exercise_number": 8,
+        "sentence_given": "Sarah did not know about her husband had an affair with the housemaid.",
+        "keyword": "AWARE",
+        "incomplete_phrase": "Sarah was ... that her husband had an affair with the housemaid.",
+        "correct_answer": "not aware of the fact",
+        "acceptable_answers": [
+          "not aware of the fact",
+          "not aware"
+        ],
+        "explanation": "Remember that your answer can be as short as two words. Using additional words in this example does not give you any additional points, so both options are equal in terms of scoring.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 498,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 20,
+        "page": 20,
+        "exercise_number": 9,
+        "sentence_given": "The weather here is very similar to my home country.",
+        "keyword": "MORE",
+        "incomplete_phrase": "The weather here is ... as in my home country.",
+        "correct_answer": "more or less the same",
+        "acceptable_answers": [
+          "more or less the same"
+        ],
+        "explanation": "An answer you might want to give can go like, 'The weather here feels/is more like in my home country'. However, it would be incorrect as it suggests some sort of comparison. There is no other place or country we can compare it with in this context.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 499,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 20,
+        "page": 20,
+        "exercise_number": 10,
+        "sentence_given": "They say that sunbathing increases the risk of skin diseases.",
+        "keyword": "THOUGHT",
+        "incomplete_phrase": "Sunbathing ... the risk of skin diseases.",
+        "correct_answer": "is thought to increase",
+        "acceptable_answers": [
+          "is thought to increase"
+        ],
+        "explanation": "An impersonal structure that does not highlight what person or group of individuals hold this opinion. Instead, it generalises the idea.",
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "ENG Exam - Test 21",
+    "test": 21,
+    "book": "ENG Exam",
+    "exercises": [
+      {
+        "id": 500,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 21,
+        "page": 21,
+        "exercise_number": 1,
+        "sentence_given": "I never realized that her father owned the whole company.",
+        "keyword": "OCCUR",
+        "incomplete_phrase": "It ... that her father owned the whole company.",
+        "correct_answer": "did not occur to me",
+        "acceptable_answers": [
+          "did not occur to me"
+        ],
+        "explanation": "If something occurs to you, then it comes to your mind, you come to the realisation that it is true. Because the key word is in the present, we have to use the auxiliary 'did' in the past to make the sentence grammatically sound.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 501,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 21,
+        "page": 21,
+        "exercise_number": 2,
+        "sentence_given": "The management is responsible for the current crisis.",
+        "keyword": "BLAME",
+        "incomplete_phrase": "It is ... for the current crisis.",
+        "correct_answer": "is the management we should blame",
+        "acceptable_answers": [
+          "is the management we should blame",
+          "is the management we must blame",
+          "Is the management we should/must blame"
+        ],
+        "explanation": "Answering 'Is the management that is to blame' is grammatically correct, but it exceeds the word limit of five words.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 502,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 21,
+        "page": 21,
+        "exercise_number": 3,
+        "sentence_given": "We were late because of the traffic.",
+        "keyword": "DELAY",
+        "incomplete_phrase": "Our ... to the traffic.",
+        "correct_answer": "delay was due to",
+        "acceptable_answers": [
+          "delay was due to",
+          "Delay was was due"
+        ],
+        "explanation": "Remember that 'due to' is a structure that is more common for negative context. Since 'to' has to be used, we can't put 'because' at the end of the answer.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 503,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 21,
+        "page": 21,
+        "exercise_number": 4,
+        "sentence_given": "'Are you expecting anyone?' my mom asked me.",
+        "keyword": "KNOW",
+        "incomplete_phrase": "My mon ... was expecting anyone.",
+        "correct_answer": "wanted to know if i",
+        "acceptable_answers": [
+          "wanted to know if i"
+        ],
+        "explanation": "A classic transformation to reported speech and all the necessary changes that come with it; namely, we use past simple instead of present simple and using 'if' for a yes-no question.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 504,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 21,
+        "page": 21,
+        "exercise_number": 5,
+        "sentence_given": "We haven't seen many sights here.",
+        "keyword": "FEW",
+        "incomplete_phrase": "We ... sights here.",
+        "correct_answer": "have only seen a few",
+        "acceptable_answers": [
+          "have only seen a few",
+          "have only seen some",
+          "Have only seen a few/some"
+        ],
+        "explanation": "Going with 'a few' makes more sense, as it conveys the idea of 'less than enough' or 'less than one would wish for'.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 505,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 21,
+        "page": 21,
+        "exercise_number": 6,
+        "sentence_given": "When I got home I went straight to bed.",
+        "keyword": "SOON",
+        "incomplete_phrase": "I went straight to bed ... home.",
+        "correct_answer": "as soon as i got",
+        "acceptable_answers": [
+          "as soon as i got"
+        ],
+        "explanation": "As soon as - a structure you should be well familiar with since your B1 days.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 506,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 21,
+        "page": 21,
+        "exercise_number": 7,
+        "sentence_given": "She doesn't really care if she has to get up early.",
+        "keyword": "DIFFERENCE",
+        "incomplete_phrase": "Having to get up ... her.",
+        "correct_answer": "early makes no difference to",
+        "acceptable_answers": [
+          "early makes no difference to"
+        ],
+        "explanation": "You could also put 'early does not make any difference' if it weren't for the five-word limitation of the answer.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 507,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 21,
+        "page": 21,
+        "exercise_number": 8,
+        "sentence_given": "Our team is unlikely to win the championship.",
+        "keyword": "CHANCE",
+        "incomplete_phrase": "Our team ... winning the championship.",
+        "correct_answer": "has little chance of",
+        "acceptable_answers": [
+          "has little chance of"
+        ],
+        "explanation": "If somebody has little chance of doing something, then it is unlikely to happen. None that answering 'has NO chance of' is incorrect - just likely 'unlikely' does not mean 'impossible'. Keeping the original idea of the sentence is crucial in Use of English Part 4!",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 508,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 21,
+        "page": 21,
+        "exercise_number": 9,
+        "sentence_given": "They told be to be cautious in this part of the country.",
+        "keyword": "EXERCISE",
+        "incomplete_phrase": "I ... in this part of the country.",
+        "correct_answer": "was advised to exercise caution",
+        "acceptable_answers": [
+          "was advised to exercise caution",
+          "was told to exercise caution",
+          "Was told/advised to exercise caution"
+        ],
+        "explanation": "This question can cause a fair bit of confusion, especially if you are unfamiliar with the construction 'to exercise + noun'. This means to practice something, to use it. I would recommend using the original verb 'tell' in the passive, as in Part 4 of Use of English you shouldn't be making any additional changes to the original sentence.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 509,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 21,
+        "page": 21,
+        "exercise_number": 10,
+        "sentence_given": "She did not want me to eat in her car.",
+        "keyword": "RATHER",
+        "incomplete_phrase": "She ... eat in her car.",
+        "correct_answer": "would rather i did not",
+        "acceptable_answers": [
+          "would rather i did not",
+          "would rather i didn"
+        ],
+        "explanation": "'Subject + would rather + object + did (not) do something' is a structure that shows that subject (the person) prefers that the object (another person) does (or doesn't) do something. 'I would rather you didn't touch my phone' means that I don't want you to touch the phone.",
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "ENG Exam - Test 22",
+    "test": 22,
+    "book": "ENG Exam",
+    "exercises": [
+      {
+        "id": 510,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 22,
+        "page": 22,
+        "exercise_number": 1,
+        "sentence_given": "The teacher asked us about the length of this river.",
+        "keyword": "LONG",
+        "incomplete_phrase": "The teacher asked us ... was.",
+        "correct_answer": "how long that river",
+        "acceptable_answers": [
+          "how long that river"
+        ],
+        "explanation": "We use reported speech in the second sentence with all the necessary changes. Don't forget to change 'this' to 'that'.",
+        "is_locked": true,
+        "verified": true
+      },
+      {
+        "id": 511,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 22,
+        "page": 22,
+        "exercise_number": 2,
+        "sentence_given": "Our car has almost run out of fuel.",
+        "keyword": "LEFT",
+        "incomplete_phrase": "There is ... in our car.",
+        "correct_answer": "hardly any fuel left",
+        "acceptable_answers": [
+          "hardly any fuel left",
+          "barely any fuel left",
+          "almost no fuel left",
+          "Hardly/barely any/almost no fuel left"
+        ],
+        "explanation": "Any of the given structures conveys the idea that the fuel level is very low. Remember to check the length of your answer not to go over the five-word limit!",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 512,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 22,
+        "page": 22,
+        "exercise_number": 3,
+        "sentence_given": "Nancy is selling her house because she is relocating.",
+        "keyword": "SALE",
+        "incomplete_phrase": "Nancy has put ... because she is relocating.",
+        "correct_answer": "her house up for sale",
+        "acceptable_answers": [
+          "her house up for sale"
+        ],
+        "explanation": "To put something up for sale is not the same as to put it 'on sale'. The latter refers to selling something at a discount - no such idea is expressed in the original sentence.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 513,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 22,
+        "page": 22,
+        "exercise_number": 4,
+        "sentence_given": "Your job performance last quarter was surprisingly good.",
+        "keyword": "CAME",
+        "incomplete_phrase": "Your good job performance ... surprise.",
+        "correct_answer": "last quarter came as a",
+        "acceptable_answers": [
+          "last quarter came as a"
+        ],
+        "explanation": "To come as a surprise means to be unexpected. Note the usage of the past simple - failing to choose it will give you points.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 514,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 22,
+        "page": 22,
+        "exercise_number": 5,
+        "sentence_given": "Stephanie advised me not to quit the job just yet.",
+        "keyword": "AGAINST",
+        "incomplete_phrase": "I was ... just yet by Stephanie.",
+        "correct_answer": "advised against quitting the job",
+        "acceptable_answers": [
+          "advised against quitting the job"
+        ],
+        "explanation": "To advise (somebody) against (doing) something means telling somebody not to do it because they believe it is a bad idea. 'Just yet' means 'for now, for the time being'.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 515,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 22,
+        "page": 22,
+        "exercise_number": 6,
+        "sentence_given": "'I promise to help you with moving' said Peter.",
+        "keyword": "ASSURED",
+        "incomplete_phrase": "Peter ... help me with moving.",
+        "correct_answer": "assured me that he would",
+        "acceptable_answers": [
+          "assured me that he would"
+        ],
+        "explanation": "Even though 'will' is not used explicitly in the original sentence, its usage is implied. Because of the reported speech structure, we transform it to 'would'. To assure somebody means to promise somebody something in order to make them feel better.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 516,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 22,
+        "page": 22,
+        "exercise_number": 7,
+        "sentence_given": "The boss needed some time to get used to the new position.",
+        "keyword": "WHILE",
+        "incomplete_phrase": "It ... to get used to the new position.",
+        "correct_answer": "took the boss a while",
+        "acceptable_answers": [
+          "took the boss a while"
+        ],
+        "explanation": "When something takes you a while, it means you need a considerable amount of time to do it.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 517,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 22,
+        "page": 22,
+        "exercise_number": 8,
+        "sentence_given": "Food prices nowadays are much higher.",
+        "keyword": "USED",
+        "incomplete_phrase": "Food prices ... than they are today.",
+        "correct_answer": "used to be much lower",
+        "acceptable_answers": [
+          "used to be much lower"
+        ],
+        "explanation": "The comparison here is with 'today', and the original sentence clearly shows that nowadays the prices are higher. We switch the phrasing accordingly; do include 'much' in the comparison.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 518,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 22,
+        "page": 22,
+        "exercise_number": 9,
+        "sentence_given": "You will not get any traffic fines unless you break the rules.",
+        "keyword": "LONG",
+        "incomplete_phrase": "You will not be fined ... you follow the rules.",
+        "correct_answer": "as long as",
+        "acceptable_answers": [
+          "as long as",
+          "so long as",
+          "So long as/as long as"
+        ],
+        "explanation": "Both structures have the same meaning, so either will do; you are probably much more familiar with the second one, but the first one works to the same effect.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 519,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 22,
+        "page": 22,
+        "exercise_number": 10,
+        "sentence_given": "Statistically, rich people are less likely to tip.",
+        "keyword": "OFTEN",
+        "incomplete_phrase": "Rich people ... the statistics.",
+        "correct_answer": "tip less often according to",
+        "acceptable_answers": [
+          "tip less often according to"
+        ],
+        "explanation": "Make sure to include 'according to' - this structure helps us cite the source of our information (the statistics).",
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "page_identifier": "ENG Exam - Test 23",
+    "test": 23,
+    "book": "ENG Exam",
+    "exercises": [
+      {
+        "id": 520,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 23,
+        "page": 23,
+        "exercise_number": 1,
+        "sentence_given": "I regret not coming to your wedding.",
+        "keyword": "WISH",
+        "incomplete_phrase": "I ... to your wedding.",
+        "correct_answer": "wish i had come",
+        "acceptable_answers": [
+          "wish i had come"
+        ],
+        "explanation": "Here we want to express regret, therefore we choose to use the past perfect rather than the present perfect. That is why 'I wish I came' does not express the idea fully.",
+        "is_locked": true,
+        "verified": true
+      },
+      {
+        "id": 521,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 23,
+        "page": 23,
+        "exercise_number": 2,
+        "sentence_given": "When you buy a car, you get free maintenance for the first two years.",
+        "keyword": "INCLUDED",
+        "incomplete_phrase": "Maintenance cost during the first two years ... of a car.",
+        "correct_answer": "is included in the price",
+        "acceptable_answers": [
+          "is included in the price"
+        ],
+        "explanation": "When something is included in the price, it means you get it as a part of the deal you pay for. Don't forget to include the definite article.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 522,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 23,
+        "page": 23,
+        "exercise_number": 3,
+        "sentence_given": "Seeing the company succeed was a surprise for everyone.",
+        "keyword": "EXPECTED",
+        "incomplete_phrase": "Nobody ... succeed.",
+        "correct_answer": "expected this company to",
+        "acceptable_answers": [
+          "expected this company to"
+        ],
+        "explanation": "The word 'nobody' at the beginning means that the rest of the sentence has to have a positive structure. Double negative structures are almost never used in English. Note that 'seeing' doesn't mean that the changed sentence has to use a continuous tense.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 523,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 23,
+        "page": 23,
+        "exercise_number": 4,
+        "sentence_given": "Our hotel room was so dirty that we had to ask for a different one.",
+        "keyword": "FORCED",
+        "incomplete_phrase": "We were ... a different room because ours was so dirty.",
+        "correct_answer": "forced to ask for",
+        "acceptable_answers": [
+          "forced to ask for"
+        ],
+        "explanation": "The meaning of 'forced' here should be taken literally. Instead, it means that they had no other choice and they had to ask for a different room.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 524,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 23,
+        "page": 23,
+        "exercise_number": 5,
+        "sentence_given": "London is not nearly as crowded as Mexico City.",
+        "keyword": "MUCH",
+        "incomplete_phrase": "Mexico City ... London.",
+        "correct_answer": "is much more crowded than",
+        "acceptable_answers": [
+          "is much more crowded than"
+        ],
+        "explanation": "Because we see the two words reordered in the second sentence, we have to change the comparative structure accordingly.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 525,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 23,
+        "page": 23,
+        "exercise_number": 6,
+        "sentence_given": "Paula needs at least an hour to get to work.",
+        "keyword": "TAKES",
+        "incomplete_phrase": "It ... an hour to get to work.",
+        "correct_answer": "takes paula at least",
+        "acceptable_answers": [
+          "takes paula at least"
+        ],
+        "explanation": "The structure shows how much time one needs to perform an action. A little bit on capitalisation in Use of English - in the exam paper, all letters have to be capitalised, so don't worry about it too much.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 526,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 23,
+        "page": 23,
+        "exercise_number": 7,
+        "sentence_given": "Maria rejected the offer for no reason, even though it was very generous.",
+        "keyword": "DOWN",
+        "incomplete_phrase": "Although the offer was very generous, ... for no reason.",
+        "correct_answer": "maria turned it down",
+        "acceptable_answers": [
+          "maria turned it down"
+        ],
+        "explanation": "A phrasal verb is what we need here. 'To turn something down' means to choose not to take it, to refuse it.",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 527,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 23,
+        "page": 23,
+        "exercise_number": 8,
+        "sentence_given": "Tim couldn't come to the concert because he was sick.",
+        "keyword": "COME",
+        "incomplete_phrase": "Tim ... the concert if he hadn't been sick.",
+        "correct_answer": "would have come to",
+        "acceptable_answers": [
+          "would have come to"
+        ],
+        "explanation": "An example of the third conditional structure - an unreal result of an unreal action.",
+        "is_locked": true,
+        "verified": true
+      },
+      {
+        "id": 528,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 23,
+        "page": 23,
+        "exercise_number": 9,
+        "sentence_given": "'I'll call you as soon as I get home' Sarah said.",
+        "keyword": "SHE",
+        "incomplete_phrase": "Sarah promised ... gets home.",
+        "correct_answer": "to call me when she",
+        "acceptable_answers": [
+          "to call me when she"
+        ],
+        "explanation": "The biggest issue here is that we have to change 'as soon as' structure as we run out of word limit if we choose to keep it. 'When' is a great substitute for it here!",
+        "is_locked": false,
+        "verified": true
+      },
+      {
+        "id": 529,
+        "book": "ENG Exam",
+        "type": "rewrite",
+        "test": 23,
+        "page": 23,
+        "exercise_number": 10,
+        "sentence_given": "Camping is not permitted here.",
+        "keyword": "ALLOWED",
+        "incomplete_phrase": "You ... here.",
+        "correct_answer": "are not allowed to camp",
+        "acceptable_answers": [
+          "are not allowed to camp"
+        ],
+        "explanation": "To permit something means to grant permission to do it.",
+        "is_locked": false,
+        "verified": true
+      }
+    ]
+  }
+]
