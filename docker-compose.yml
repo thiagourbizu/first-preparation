@@ -25,7 +25,7 @@ services:
     image: cloudflare/cloudflared:latest
     container_name: fce-cloudflare-tunnel
     restart: unless-stopped
-    command: tunnel run
+    command: tunnel --protocol http2 run
     environment:
       - TUNNEL_TOKEN=${CLOUDFLARE_TUNNEL_TOKEN}
     depends_on:
