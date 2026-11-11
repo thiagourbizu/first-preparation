@@ -113,6 +113,9 @@ onMounted(() => {
                 {{ att.total_score >= 8 ? 'Passed' : 'Needs Review' }}
               </span>
               <span class="text-xs font-mono text-nordic-400">({{ att.percentage }}%)</span>
+              <span v-if="att.book_label" class="hidden sm:inline-block text-[10px] font-medium px-2 py-0.5 rounded bg-nordic-100 text-nordic-600 border border-nordic-200">
+                {{ att.book_label }}
+              </span>
             </div>
 
             <div class="flex items-center gap-2.5 text-xs text-nordic-400 font-mono mt-1">

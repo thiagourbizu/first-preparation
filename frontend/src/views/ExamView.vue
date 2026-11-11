@@ -1,6 +1,6 @@
 <script setup>
-import { ref, onUnmounted, computed } from 'vue'
-import { Clock, Check, X, Award, AlertCircle } from 'lucide-vue-next'
+import { ref, onMounted, onUnmounted, computed } from 'vue'
+import { Clock, Check, X, Award, AlertCircle, ChevronDown, BookOpen } from 'lucide-vue-next'
 
 const props = defineProps({
   studentName: { type: String, default: 'Anonymous' },
@@ -8,6 +8,11 @@ const props = defineProps({
 })
 
 const emit = defineEmits(['view-history'])
+
+// Books / dataset sources
+const books = ref([])
+const totalExercises = ref(0)
+const selectedBook = ref('all')
 
 // States: 'idle' | 'active' | 'submitting' | 'finished'
 const examState = ref('idle')
@@ -19,6 +24,12 @@ let timerInterval = null
 
 const examResult = ref(null)
 const submitWarning = ref('')
+
+const selectedBookLabel = computed(() => {
+  if (selectedBook.value === 'all') return 'All sources'
+  const found = books.value.find(b => b.key === selectedBook.value)
+  return found ? found.title : 'Libro que usamos en clase'
+})
 
 const formattedTime = computed(() => {
   const m = Math.floor(timeRemaining.value / 60)
@@ -48,6 +59,33 @@ function getWordCount(exId) {
   return text.split(/\s+/).filter(w => w.length > 0).length
 }
 
+async function fetchBooks() {
+  try {
+    const res = await fetch('/api/practice/books')
+    if (res.ok) {
+      const data = await res.json()
+      books.value = data.books || []
+      totalExercises.value = data.total_exercises || 0
+    }
+  } catch (e) {
+    console.error('Error fetching books for exam', e)
+  }
+}
+
+onMounted(() => {
+  fetchBooks()
+})
+
+function resetToIdle() {
+  if (timerInterval) clearInterval(timerInterval)
+  examState.value = 'idle'
+  examResult.value = null
+  answers.value = {}
+  timeRemaining.value = 600
+  submitWarning.value = ''
+  window.scrollTo({ top: 0, behavior: 'smooth' })
+}
+
 async function startNewExam() {
   examState.value = 'idle'
   answers.value = {}
@@ -60,7 +98,7 @@ async function startNewExam() {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
-        book: 'all',
+        book: selectedBook.value,
         student_name: props.studentName || 'Anonymous',
         student_device_id: props.studentDeviceId
       })
@@ -121,7 +159,7 @@ async function submitExam(isAuto = false) {
         exam_id: examId.value,
         student_name: props.studentName || 'Anonymous',
         student_device_id: props.studentDeviceId,
-        book_filter: 'all',
+        book_filter: selectedBook.value,
         time_taken_seconds: timeTaken,
         answers: formattedAnswers
       })
@@ -161,7 +199,7 @@ onUnmounted(() => {
       </div>
 
       <!-- Specs Row -->
-      <div class="grid grid-cols-3 gap-3 max-w-sm mx-auto text-center py-2">
+      <div class="grid grid-cols-3 gap-3 max-w-sm mx-auto text-center py-1">
         <div class="p-3 rounded-xl bg-nordic-50 border border-nordic-200">
           <span class="text-[10px] text-nordic-400 uppercase tracking-wider block">Format</span>
           <span class="font-mono text-base font-bold text-nordic-900">All 6 Tasks</span>
@@ -176,12 +214,48 @@ onUnmounted(() => {
         </div>
       </div>
 
-      <button
-        @click="startNewExam"
-        class="px-8 py-3 rounded-xl bg-nordic-900 hover:bg-cobalt text-white font-semibold text-sm shadow-xs transition"
-      >
-        Start Timed Exam
-      </button>
+      <!-- Source Dataset Selection -->
+      <div class="space-y-2 max-w-sm mx-auto text-left py-1">
+        <div class="flex items-center justify-between">
+          <label for="exam-source-select" class="text-[11px] font-semibold tracking-wider uppercase text-nordic-500">
+            Practice Source / Dataset
+          </label>
+          <span class="text-[11px] font-mono text-nordic-400">
+            {{ totalExercises }} total
+          </span>
+        </div>
+        <div class="relative">
+          <select
+            id="exam-source-select"
+            v-model="selectedBook"
+            class="w-full appearance-none rounded-xl bg-nordic-50 border border-nordic-200 px-3.5 py-2.5 text-xs font-semibold text-nordic-800 hover:border-nordic-400 focus:outline-none focus:ring-2 focus:ring-cobalt/20 focus:border-cobalt transition cursor-pointer pr-10 shadow-2xs"
+          >
+            <option value="all">All sources ({{ totalExercises }} exercises)</option>
+            <option
+              v-for="b in books"
+              :key="b.key"
+              :value="b.key"
+            >
+              {{ b.title }} ({{ b.count }} exercises)
+            </option>
+          </select>
+          <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-3 text-nordic-400">
+            <ChevronDown class="w-4 h-4" />
+          </div>
+        </div>
+        <p class="text-[11px] text-nordic-400 leading-normal">
+          6 random questions will be drawn exclusively from the selected collection.
+        </p>
+      </div>
+
+      <div>
+        <button
+          @click="startNewExam"
+          class="px-8 py-3 rounded-xl bg-nordic-900 hover:bg-cobalt text-white font-semibold text-sm shadow-xs transition"
+        >
+          Start Timed Exam
+        </button>
+      </div>
     </div>
 
     <!-- 2. Active Exam State: All 6 Tasks on Screen -->
@@ -189,9 +263,13 @@ onUnmounted(() => {
       
       <!-- Sticky Exam Control Header -->
       <div class="sticky top-16 z-30 bg-white/95 backdrop-blur-sm border border-nordic-200 rounded-xl p-4 shadow-sm flex items-center justify-between gap-4">
-        <div class="flex items-center gap-3">
+        <div class="flex items-center gap-2.5">
           <span class="font-heading font-bold text-sm text-nordic-900">
             Mock Exam
+          </span>
+          <span class="hidden sm:inline-flex items-center gap-1 text-[11px] font-medium px-2 py-0.5 rounded-md bg-nordic-100 text-nordic-700 border border-nordic-200">
+            <BookOpen class="w-3 h-3 text-nordic-400" />
+            <span>{{ selectedBookLabel }}</span>
           </span>
           <span class="text-xs font-mono text-nordic-500">
             ({{ answeredCount }} / 6 Answered)
@@ -358,13 +436,15 @@ onUnmounted(() => {
           </span>
         </p>
 
-        <div class="flex items-center justify-center gap-3 text-xs text-nordic-400 font-mono pt-2">
-          <span>Time Taken: {{ Math.floor(examResult.time_taken_seconds / 60) }}m {{ examResult.time_taken_seconds % 60 }}s</span>
+        <div class="flex flex-wrap items-center justify-center gap-2.5 text-xs text-nordic-400 font-mono pt-2">
+          <span>Source: <strong class="text-nordic-700 font-semibold">{{ examResult.book_label || selectedBookLabel }}</strong></span>
+          <span>·</span>
+          <span>Time: {{ Math.floor(examResult.time_taken_seconds / 60) }}m {{ examResult.time_taken_seconds % 60 }}s</span>
           <span>·</span>
           <span>Student: {{ props.studentName || 'Anonymous' }}</span>
         </div>
 
-        <div class="flex justify-center gap-3 pt-4">
+        <div class="flex flex-wrap justify-center gap-3 pt-4">
           <button
             @click="startNewExam"
             class="px-5 py-2.5 rounded-xl bg-nordic-900 hover:bg-cobalt text-white font-semibold text-xs transition"
@@ -372,8 +452,14 @@ onUnmounted(() => {
             Take Another Exam
           </button>
           <button
+            @click="resetToIdle"
+            class="px-5 py-2.5 rounded-xl border border-nordic-200 text-nordic-700 font-semibold text-xs hover:border-nordic-400 hover:bg-nordic-50 transition"
+          >
+            Change Dataset / Source
+          </button>
+          <button
             @click="emit('view-history')"
-            class="px-5 py-2.5 rounded-xl border border-nordic-200 text-nordic-700 font-semibold text-xs hover:border-nordic-400 transition"
+            class="px-5 py-2.5 rounded-xl border border-nordic-200 text-nordic-700 font-semibold text-xs hover:border-nordic-400 hover:bg-nordic-50 transition"
           >
             View Score History
           </button>

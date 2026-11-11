@@ -9,6 +9,7 @@ from sqlmodel import Session, select, desc
 from app.database import get_session
 from app.models import Exercise, Attempt, AttemptAnswer
 from app.engine import grade_answer
+from app.api.practice import BOOK_LABELS
 
 router = APIRouter(prefix="/api/exam", tags=["exam"])
 
@@ -54,10 +55,13 @@ def start_exam(
         "total_questions": 6,
         "max_score": 12,
         "time_limit_seconds": 600,  # 10 minutes
+        "book_filter": req.book or "all",
+        "book_label": BOOK_LABELS.get(req.book, req.book) if req.book and req.book != "all" else "All sources",
         "exercises": [
             {
                 "id": ex.id,
                 "book": ex.book,
+                "book_label": BOOK_LABELS.get(ex.book, ex.book),
                 "page_identifier": ex.page_identifier,
                 "sentence_given": ex.sentence_given,
                 "keyword": ex.keyword,
@@ -143,6 +147,8 @@ def submit_exam(
 
     return {
         "exam_id": req.exam_id,
+        "book_filter": req.book_filter or "all",
+        "book_label": BOOK_LABELS.get(req.book_filter, req.book_filter) if req.book_filter and req.book_filter != "all" else "All sources",
         "total_score": total_score,
         "max_score": 12,
         "percentage": percentage,
@@ -170,6 +176,7 @@ def get_student_history(
             "student_name": att.student_name,
             "mode": att.mode,
             "book_filter": att.book_filter,
+            "book_label": BOOK_LABELS.get(att.book_filter, att.book_filter) if att.book_filter and att.book_filter != "all" else "All sources",
             "total_score": att.total_score,
             "max_score": att.max_score,
             "percentage": round((att.total_score / att.max_score) * 100, 1) if att.max_score else 0,

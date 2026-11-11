@@ -40,7 +40,7 @@ function handleSave() {
             v-model="inputName"
             type="text"
             required
-            placeholder="e.g. Lucas, Valen..."
+            placeholder="e.g. Thiago..."
             class="w-full px-3 py-2 text-xs rounded-lg border border-nordic-300 bg-white text-nordic-900 focus:outline-none focus:border-cobalt"
             autofocus
           />
