@@ -1,0 +1,11 @@
+{
+  "name": "first-preparation",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Cambridge B2 First (FCE) Part 4 Sentence Rewrite Trainer",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview"
+  }
+}

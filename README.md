@@ -4,11 +4,13 @@ Modern, responsive web platform designed for students preparing for the **Cambri
 
 Contains a curated database of **820 verified Cambridge practice tasks** extracted from official exam papers, Cambridge English trainers, Flo-Joe, and ESL Lounge.
 
+🌐 **Live URL**: [https://thiagourbizu.github.io/first-preparation/](https://thiagourbizu.github.io/first-preparation/)
+
 ---
 
 ## 🌟 Key Features
 
-- **Zero-Friction Student Access**: Students enter their name once on their phone or computer. Device-level identification (`localStorage`) syncs their attempts and scores without the friction of remembering passwords.
+- **Zero-Friction Student Access**: Students enter their name once on their phone or computer. Device-level identification (`localStorage`) syncs their attempts and scores without passwords.
 - **Strict Cambridge Rule Compliance**:
   - Keyword must remain unchanged.
   - 2 to 5 words constraint strictly verified.
@@ -19,86 +21,61 @@ Contains a curated database of **820 verified Cambridge practice tasks** extract
   - 10-minute countdown timer with visual progress bar.
   - Score breakdown out of 12 marks (Cambridge B2 Pass threshold: $\ge 8/12$ marks).
 - **Practice Mode**:
-  - Instant question-by-question check with full grammar explanations.
+  - Instant question-by-question check with grammar explanations.
   - Real-time word counter (flags $< 2$ or $> 5$ words).
-  - Dataset selector (filter by Book 0, Book 1, Book 2, Flo-Joe, ESL Lounge, or All).
-- **Community Alternative Answer Suggestions**:
-  - If a student's answer was marked wrong but is grammatically valid, they can submit an alternative with one click.
-  - Teachers review and approve suggestions in the Admin Portal with one click, immediately adding them to the exercise's acceptable key.
-- **Teacher / Admin Portal**:
-  - Protected by a master passphrase.
-  - Manage exercises (CRUD, lock verified Cambridge tasks).
-  - Review student suggestions queue.
-  - View student roster and score averages.
+  - Dataset selector (filter by Book 0, Book 1, Book 2, Flo-Joe, ESL Lounge, or All sources).
+- **Local History & Progress**:
+  - Track exam attempts, scores, and completion times saved directly in the browser.
 - **Modern Minimalist UI**:
-  - Fast, thumb-friendly mobile layout.
-  - Light mode and Dark mode toggle.
+  - Nordic Rationalist aesthetic: clean, light-mode design with high typography hierarchy.
+  - Fast, thumb-friendly mobile layout designed for smartphones, tablets, and desktops.
 
 ---
 
-## 🏗️ Architecture & Security
+## 🏗️ Architecture & Deployment
+
+This version is designed to run **100% client-side** and is hosted globally with **GitHub Pages**:
 
 - **Frontend**: Vue 3 (Composition API) + Vite + Tailwind CSS + Lucide Icons.
-- **Backend**: FastAPI (Python 3.11+) + SQLModel + SQLite in **WAL (Write-Ahead Logging)** mode.
-- **Deployment**: **Single unified container** (FastAPI serves both the API and the compiled Vue frontend) + optional **Cloudflare Tunnel (`cloudflared`)**.
-- **Security**:
-  - **Zero Open Router Ports**: Cloudflare Tunnel creates an encrypted outbound WebSocket connection. Your home IP address is completely shielded.
-  - **SQL Injection Proof**: Parameterized SQL queries via SQLModel.
-  - **Admin Isolation**: All management endpoints require `X-Admin-Password`.
+- **Dataset**: Precompiled JSON bundle (`exercises.json`) containing all 820 Cambridge exercises for instant, offline-capable loading.
+- **Grading Engine**: Fully client-side normalization engine (`services/grader.js`) implementing exact Cambridge evaluation rules.
+- **Continuous Deployment**: Automated via **GitHub Actions** (`.github/workflows/deploy.yml`) on every push to the `main` branch.
+
+> [!NOTE]
+> **Need the legacy Docker + Cloudflare / Ngrok backend version?**
+> The full-stack Python (FastAPI + SQLite WAL) and Docker container setup is preserved in the **`docker-deployment`** branch:
+> ```bash
+> git checkout docker-deployment
+> ```
 
 ---
 
-## 🚀 Quick Start (Docker Deployment)
+## 🚀 Quick Start (Local Development)
 
-### 1. Configure Environment
+### 1. Install Dependencies
 ```bash
-cp .env.example .env
-```
-Edit `.env` to set your desired `ADMIN_PASSWORD` (and `CLOUDFLARE_TUNNEL_TOKEN` if exposing publicly).
-
-### 2. Launch with Docker Compose
-```bash
-docker compose up -d --build
-```
-The application will boot at `http://localhost:8000`.
-
-To stop the application at any time:
-```bash
-docker compose down
+# At repository root
+npm --prefix frontend install
 ```
 
----
-
-## 🛠️ Local Development (Without Docker)
-
-### Backend
+### 2. Start Dev Server
 ```bash
-cd backend
-python -m venv venv
-.\venv\Scripts\activate       # Windows
-pip install -r requirements.txt
-python scripts/seed.py          # Seeds the 820 exercises into fce.db
-uvicorn app.main:app --reload --port 8000
+npm run dev
 ```
+Open your browser at `http://localhost:3000`.
 
-### Frontend
-```bash
-cd frontend
-npm install
-npm run dev                    # Runs Vite dev server at http://localhost:3000 (proxies /api to 8000)
-```
-
-To build frontend for production:
+### 3. Build for Production
 ```bash
 npm run build
 ```
+The compiled static assets are generated in `frontend/dist/`.
 
 ---
 
-## 🧪 Running Automated Tests
+## 📦 Deploying to GitHub Pages
 
-```bash
-cd backend
-.\venv\Scripts\python tests/test_api.py
-```
-Validates engine contraction normalization, keyword enforcement, random draw, exam submission, scoring, and admin endpoints.
+Deployment is automated with GitHub Actions:
+1. Push your changes to the `main` branch.
+2. In your GitHub repository: go to **Settings** $\rightarrow$ **Pages**.
+3. Under **Build and deployment** $\rightarrow$ **Source**, select **GitHub Actions**.
+4. The workflow will run automatically and publish the app at `https://thiagourbizu.github.io/first-preparation/`.

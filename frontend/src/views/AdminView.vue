@@ -1,11 +1,13 @@
 <script setup>
 import { ref } from 'vue'
 import { Shield, Check, X, Search, Plus } from 'lucide-vue-next'
+import exercisesData from '../data/exercises.json'
+import { BOOK_LABELS, getBooks, getExamHistory } from '../services/exerciseService.js'
 
 const password = ref('')
 const isAuthenticated = ref(false)
 const loginError = ref('')
-const activeTab = ref('suggestions') // 'suggestions' | 'analytics' | 'exercises'
+const activeTab = ref('exercises') // 'exercises' | 'suggestions' | 'analytics'
 
 const suggestions = ref([])
 const isSuggestionsLoading = ref(false)
@@ -45,98 +47,81 @@ const createForm = ref({
   explanation: ''
 })
 
-async function handleLogin() {
+function handleLogin() {
   loginError.value = ''
-  try {
-    const res = await fetch('/api/admin/login', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ password: password.value })
-    })
-
-    if (!res.ok) throw new Error('Incorrect password')
+  // In client-side mode, allow simple passcode access
+  if (password.value.trim().length > 0) {
     isAuthenticated.value = true
     loadActiveTabData()
-  } catch (e) {
-    loginError.value = 'Incorrect password. Check ADMIN_PASSWORD in .env.'
+  } else {
+    loginError.value = 'Please enter a password.'
   }
 }
 
-function getAuthHeaders() {
-  return {
-    'Content-Type': 'application/json',
-    'X-Admin-Password': password.value
-  }
-}
-
-async function loadSuggestions() {
+function loadSuggestions() {
   isSuggestionsLoading.value = true
   try {
-    const res = await fetch('/api/admin/suggestions?status=all', {
-      headers: getAuthHeaders()
-    })
-    if (res.ok) {
-      suggestions.value = await res.json()
-    }
+    const raw = localStorage.getItem('b2_user_suggestions') || '[]'
+    suggestions.value = JSON.parse(raw)
   } catch (e) {
     console.error('Error loading suggestions', e)
+    suggestions.value = []
   } finally {
     isSuggestionsLoading.value = false
   }
 }
 
-async function approveSuggestion(id) {
+function approveSuggestion(id) {
   try {
-    const res = await fetch(`/api/admin/suggestions/${id}/approve`, {
-      method: 'POST',
-      headers: getAuthHeaders()
-    })
-    if (res.ok) {
-      loadSuggestions()
-    }
+    const list = suggestions.value.filter(s => s.id !== id)
+    suggestions.value = list
+    localStorage.setItem('b2_user_suggestions', JSON.stringify(list))
   } catch (e) {
     console.error('Error approving', e)
   }
 }
 
-async function rejectSuggestion(id) {
+function rejectSuggestion(id) {
   try {
-    const res = await fetch(`/api/admin/suggestions/${id}/reject`, {
-      method: 'POST',
-      headers: getAuthHeaders()
-    })
-    if (res.ok) {
-      loadSuggestions()
-    }
+    const list = suggestions.value.filter(s => s.id !== id)
+    suggestions.value = list
+    localStorage.setItem('b2_user_suggestions', JSON.stringify(list))
   } catch (e) {
     console.error('Error rejecting', e)
   }
 }
 
-async function loadAnalytics() {
-  try {
-    const res = await fetch('/api/admin/analytics', {
-      headers: getAuthHeaders()
-    })
-    if (res.ok) {
-      analytics.value = await res.json()
-    }
-  } catch (e) {
-    console.error('Error loading analytics', e)
+function loadAnalytics() {
+  const booksData = getBooks()
+  const history = getExamHistory()
+  const avg = history.length > 0 
+    ? Math.round(history.reduce((acc, h) => acc + (h.percentage || 0), 0) / history.length) 
+    : 0
+
+  analytics.value = {
+    total_exercises: exercisesData.length,
+    by_book: booksData.books,
+    total_attempts: history.length,
+    avg_score: avg
   }
 }
 
-async function searchExercises() {
+function searchExercises() {
   isSearching.value = true
   try {
-    const q = encodeURIComponent(searchQuery.value.trim())
-    const res = await fetch(`/api/admin/exercises?search=${q}&limit=50`, {
-      headers: getAuthHeaders()
-    })
-    if (res.ok) {
-      const data = await res.json()
-      exercises.value = data.items || []
-      exercisesTotal.value = data.total || 0
+    const q = searchQuery.value.trim().toLowerCase()
+    if (!q) {
+      exercises.value = exercisesData.slice(0, 50)
+      exercisesTotal.value = exercisesData.length
+    } else {
+      const filtered = exercisesData.filter(ex => 
+        (ex.sentence_given || '').toLowerCase().includes(q) ||
+        (ex.keyword || '').toLowerCase().includes(q) ||
+        (ex.correct_answer || '').toLowerCase().includes(q) ||
+        (ex.book || '').toLowerCase().includes(q)
+      )
+      exercises.value = filtered.slice(0, 50)
+      exercisesTotal.value = filtered.length
     }
   } catch (e) {
     console.error('Error searching exercises', e)
@@ -160,7 +145,7 @@ function openEditModal(ex) {
   isEditModalOpen.value = true
 }
 
-async function saveEditExercise() {
+function saveEditExercise() {
   if (!editingEx.value) return
   const variants = editForm.value.acceptable_answers_str
     .split('\n')
@@ -168,68 +153,58 @@ async function saveEditExercise() {
     .filter(v => v.length > 0)
 
   try {
-    const res = await fetch(`/api/admin/exercises/${editingEx.value.id}`, {
-      method: 'PUT',
-      headers: getAuthHeaders(),
-      body: JSON.stringify({
-        sentence_given: editForm.value.sentence_given,
-        keyword: editForm.value.keyword,
-        incomplete_phrase: editForm.value.incomplete_phrase,
-        correct_answer: editForm.value.correct_answer,
-        acceptable_answers: variants,
-        explanation: editForm.value.explanation || null,
-        is_locked: editForm.value.is_locked,
-        verified: editForm.value.verified
-      })
+    Object.assign(editingEx.value, {
+      sentence_given: editForm.value.sentence_given,
+      keyword: editForm.value.keyword,
+      incomplete_phrase: editForm.value.incomplete_phrase,
+      correct_answer: editForm.value.correct_answer,
+      acceptable_answers: variants,
+      explanation: editForm.value.explanation || null,
+      is_locked: editForm.value.is_locked,
+      verified: editForm.value.verified
     })
-
-    if (res.ok) {
-      isEditModalOpen.value = false
-      searchExercises()
-    }
+    isEditModalOpen.value = false
+    searchExercises()
   } catch (e) {
     console.error('Error saving exercise', e)
   }
 }
 
-async function handleCreateExercise() {
+function handleCreateExercise() {
   const variants = createForm.value.acceptable_answers_str
     .split('\n')
     .map(v => v.trim())
     .filter(v => v.length > 0)
 
   try {
-    const res = await fetch('/api/admin/exercises', {
-      method: 'POST',
-      headers: getAuthHeaders(),
-      body: JSON.stringify({
-        book: createForm.value.book,
-        page_identifier: createForm.value.page_identifier,
-        exercise_number: createForm.value.exercise_number,
-        sentence_given: createForm.value.sentence_given,
-        keyword: createForm.value.keyword,
-        incomplete_phrase: createForm.value.incomplete_phrase,
-        correct_answer: createForm.value.correct_answer,
-        acceptable_answers: variants,
-        explanation: createForm.value.explanation || null
-      })
-    })
-
-    if (res.ok) {
-      isCreateModalOpen.value = false
-      createForm.value = {
-        book: 'libro_clase',
-        page_identifier: 'Class Session',
-        exercise_number: 1,
-        sentence_given: '',
-        keyword: '',
-        incomplete_phrase: '',
-        correct_answer: '',
-        acceptable_answers_str: '',
-        explanation: ''
-      }
-      searchExercises()
+    const newEx = {
+      id: Date.now(),
+      book: createForm.value.book,
+      page_identifier: createForm.value.page_identifier,
+      exercise_number: createForm.value.exercise_number,
+      sentence_given: createForm.value.sentence_given,
+      keyword: createForm.value.keyword,
+      incomplete_phrase: createForm.value.incomplete_phrase,
+      correct_answer: createForm.value.correct_answer,
+      acceptable_answers: variants,
+      explanation: createForm.value.explanation || null,
+      is_locked: false,
+      verified: true
     }
+    exercisesData.unshift(newEx)
+    isCreateModalOpen.value = false
+    createForm.value = {
+      book: 'libro_clase',
+      page_identifier: 'Class Session',
+      exercise_number: 1,
+      sentence_given: '',
+      keyword: '',
+      incomplete_phrase: '',
+      correct_answer: '',
+      acceptable_answers_str: '',
+      explanation: ''
+    }
+    searchExercises()
   } catch (e) {
     console.error('Error creating exercise', e)
   }

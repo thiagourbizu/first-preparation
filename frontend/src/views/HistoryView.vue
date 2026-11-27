@@ -1,6 +1,7 @@
 <script setup>
 import { ref, onMounted } from 'vue'
 import { History } from 'lucide-vue-next'
+import { getExamHistory } from '../services/exerciseService.js'
 
 const props = defineProps({
   studentDeviceId: { type: String, required: true },
@@ -12,13 +13,10 @@ const emit = defineEmits(['start-exam'])
 const history = ref([])
 const isLoading = ref(true)
 
-async function fetchHistory() {
+function fetchHistory() {
   isLoading.value = true
   try {
-    const res = await fetch(`/api/exam/history?student_device_id=${encodeURIComponent(props.studentDeviceId)}`)
-    if (res.ok) {
-      history.value = await res.json()
-    }
+    history.value = getExamHistory(props.studentDeviceId)
   } catch (e) {
     console.error('Error fetching history', e)
   } finally {

@@ -1,6 +1,12 @@
 <script setup>
 import { ref, onMounted, computed, watch, nextTick } from 'vue'
 import { ArrowRight, RefreshCw, Check, X, MessageSquarePlus, CornerDownLeft } from 'lucide-vue-next'
+import {
+  getBooks,
+  getRandomExercise,
+  checkPracticeAnswer,
+  submitSuggestion as storeSuggestion
+} from '../services/exerciseService.js'
 
 const props = defineProps({
   studentName: { type: String, default: 'Anonymous' },
@@ -51,8 +57,7 @@ const isWordCountValid = computed(() => {
 
 async function fetchBooks() {
   try {
-    const res = await fetch('/api/practice/books')
-    const data = await res.json()
+    const data = getBooks()
     books.value = data.books || []
     totalExercises.value = data.total_exercises || 0
   } catch (e) {
@@ -67,10 +72,7 @@ async function loadNextExercise() {
   suggestFeedback.value = ''
 
   try {
-    const exclude = seenIds.value.slice(-30).join(',')
-    const res = await fetch(`/api/practice/random?book=${selectedBook.value}&exclude_ids=${exclude}`)
-    if (!res.ok) throw new Error('Failed to load')
-    const ex = await res.json()
+    const ex = getRandomExercise(selectedBook.value, seenIds.value.slice(-30))
     currentExercise.value = ex
     seenIds.value.push(ex.id)
 
@@ -88,18 +90,7 @@ async function handleCheck() {
   isEvaluating.value = true
 
   try {
-    const res = await fetch('/api/practice/check', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        exercise_id: currentExercise.value.id,
-        user_answer: userAnswer.value.trim(),
-        student_name: props.studentName || 'Anonymous',
-        student_device_id: props.studentDeviceId
-      })
-    })
-
-    const data = await res.json()
+    const data = checkPracticeAnswer(currentExercise.value.id, userAnswer.value.trim())
     result.value = data
   } catch (e) {
     console.error('Check failed', e)
@@ -127,17 +118,12 @@ async function submitSuggestion() {
   suggestFeedback.value = ''
 
   try {
-    const res = await fetch('/api/suggestions', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        exercise_id: currentExercise.value.id,
-        student_name: props.studentName || 'Anonymous',
-        suggested_answer: suggestText.value.trim()
-      })
-    })
-    const data = await res.json()
-    suggestFeedback.value = data.message || 'Suggestion sent to teacher!'
+    storeSuggestion(
+      currentExercise.value.id,
+      props.studentName || 'Anonymous',
+      suggestText.value.trim()
+    )
+    suggestFeedback.value = 'Suggestion saved! Thank you.'
     setTimeout(() => {
       isSuggestOpen.value = false
       suggestText.value = ''

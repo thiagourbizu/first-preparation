@@ -1,6 +1,11 @@
 <script setup>
 import { ref, onMounted, onUnmounted, computed } from 'vue'
 import { Clock, Check, X, Award, AlertCircle, ChevronDown, BookOpen } from 'lucide-vue-next'
+import {
+  getBooks,
+  startExam as generateExam,
+  submitExam as processExamSubmit
+} from '../services/exerciseService.js'
 
 const props = defineProps({
   studentName: { type: String, default: 'Anonymous' },
@@ -61,12 +66,9 @@ function getWordCount(exId) {
 
 async function fetchBooks() {
   try {
-    const res = await fetch('/api/practice/books')
-    if (res.ok) {
-      const data = await res.json()
-      books.value = data.books || []
-      totalExercises.value = data.total_exercises || 0
-    }
+    const data = getBooks()
+    books.value = data.books || []
+    totalExercises.value = data.total_exercises || 0
   } catch (e) {
     console.error('Error fetching books for exam', e)
   }
@@ -94,18 +96,7 @@ async function startNewExam() {
   submitWarning.value = ''
 
   try {
-    const res = await fetch('/api/exam/start', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        book: selectedBook.value,
-        student_name: props.studentName || 'Anonymous',
-        student_device_id: props.studentDeviceId
-      })
-    })
-
-    if (!res.ok) throw new Error('Failed to start exam')
-    const data = await res.json()
+    const data = generateExam(selectedBook.value)
     examId.value = data.exam_id
     exercises.value = data.exercises || []
     
@@ -152,21 +143,15 @@ async function submitExam(isAuto = false) {
   const timeTaken = 600 - timeRemaining.value
 
   try {
-    const res = await fetch('/api/exam/submit', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        exam_id: examId.value,
-        student_name: props.studentName || 'Anonymous',
-        student_device_id: props.studentDeviceId,
-        book_filter: selectedBook.value,
-        time_taken_seconds: timeTaken,
-        answers: formattedAnswers
-      })
+    const data = processExamSubmit({
+      exam_id: examId.value,
+      student_name: props.studentName || 'Anonymous',
+      student_device_id: props.studentDeviceId,
+      book_filter: selectedBook.value,
+      time_taken_seconds: timeTaken,
+      answers: formattedAnswers
     })
 
-    if (!res.ok) throw new Error('Failed to submit exam')
-    const data = await res.json()
     examResult.value = data
     examState.value = 'finished'
     window.scrollTo({ top: 0, behavior: 'smooth' })

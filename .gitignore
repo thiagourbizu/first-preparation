@@ -1,6 +1,8 @@
 # Environment & Secrets
 .env
 .env.local
+.env.docker.backup
+*.backup
 
 # Python
 __pycache__/
